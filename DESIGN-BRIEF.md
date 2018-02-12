@@ -60,3 +60,15 @@ Bij &samhoud hadden ze wel interesse in een project met WebVR en er was ruimte o
 Zo hebben ze gewerkt aan de AH dino campagne met Freek Vonk, AH ruimtereis met André Kuijpers en recent nog samen met de Rabobank aan Rabo PinPin. Aan de Oosterdokskade (VR cinema) werken voornamelijk mensen die in het digitale tijdperk zijn opgegroeid. Oog voor digitaal, media en marketing trends. 
 
 ## Het probleem
+
+## De Context
+
+## Design Challenge
+
+## Focus
+
+## Product Visie
+
+## Mogelijke impact product
+
+## Roadmap
