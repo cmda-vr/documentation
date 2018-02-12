@@ -62,8 +62,19 @@ Zo hebben ze gewerkt aan de AH dino campagne met Freek Vonk, AH ruimtereis met A
 ## Het probleem
 
 ## De Context
+Het doel van WebVR is om het voor iedereen toegankelijker (drempelvrij) te maken om VR te ervaren, ongeacht de devices en input die ze tot hun beschikking hebben. De technologie op het web is nog vrij beperkt en compleet experimenteel. Niet alle browsers ondersteunen het en nog niet alles mogelijk wat met software applicaties kan is mogelijk. Het lijkt me interessant om de grens van deze technologie op te zoeken.
 
 ## Design Challenge
+
+### Technische obstakels
+* **Performance:**
+De technologie op het web is nog beperkt en compleet experimenteel. Niet alle browsers ondersteunen het en nog niet alles mogelijk wat met software applicaties kan is mogelijk. Het lijkt me interessant om de grens van deze technologie op te zoeken.
+
+* **Progressive Enhancement:**
+Vanwege de toegankelijkheid van WebVR kan je van tevoren niet voorspellen welke input een gebruiker tot zijn beschikking heeft.6 Welk type input heeft de eindgebruiker? Maken ze gebruik van ‘Head Mounted Display (HMD)’ of van een ‘Cardboard’?
+
+* **Browser Support:**
+Niet elke browser is hetzelfde, van Firefox tot Samsung Internet elke vendor heeft eigen implementaties van de WebVR API of biedt ondersteuning voor een bepaald framework. Dezelfde ervaring bieden voor elke browser is zeker een punt om op te focussen, al zal dit een nobel streven zijn.
 
 ## Focus
 
