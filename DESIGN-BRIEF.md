@@ -19,17 +19,17 @@
 | Bedrijf            | &Samhoud Media      |
 | Functie            | WebVR Concepting |
 
-## Contactgegevens Bedrijf:
+#### Contactgegevens Bedrijf:
 * &Samhoud media
 * Oosterdokskade 5
 * 1011 AD Amsterdam
 * +316 27 00 69 16
 * [www.samhoudmedia.com](https://samhoudmedia.com)
 
-## Contactgegevens Stagebegeleider:
+#### Contactgegevens Stagebegeleider:
 * Sjef Smeets
 
-## Contactgegevens Student:
+#### Contactgegevens Student:
 * Danny de Vries
 * 06 – 41025262
 * <hi@dandevri.es>
