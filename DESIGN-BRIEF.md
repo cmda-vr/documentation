@@ -73,14 +73,19 @@ Een combinatie van verschillende hardware devices maakt het mogelijk om een VR e
 * **Input device;** dit zijn over het algemeen game of motion controllers.
 * **Desktop and Mobile platforms;** Daadwerkelijke hardware en operating system om de applicatie te draaien. (bijv. een computer of een mobiele telefoon)
 
-
 ## Het probleem
 
 ## De Context
 > Het doel van WebVR is om het voor iedereen toegankelijker (drempelvrij) te maken om VR te ervaren, ongeacht de devices en input die ze tot hun beschikking hebben. 
 
-### Toegankelijkheid
+### Toegankelijkheid consument
+Alhoewel VR systemen steeds betaalbaarder beginnen te worden, het aanschaffen van hardware is nogsteeds een grote stap. De low-cost manier is om je huidige smartphone als Head-Mounted display te laten fungeren. Het is wellicht een minder meeslepende ervaring maar voor veel mensen is dit de eerste manier waarop ze in aanraking komen met Virtual Reality.
 
+### Toegankelijkheid ontwikkelaars
+Voor ontwikkelaars is het ook een stuk toegankelijker geworden om een VR applicaties op het web te ontwikkelen. 
+* We maken gebruik van bestaande Web Technieken waardoor we veel van bestaande infrastructuur kunnnen gebruiken.
+* Het is in principe sneller te coderen aangezien we kunnen voortborduren op de kennis van programmeertalen die we al hebben.
+* De uiteindelijke applicatie draait in een browser waardoor hij veel meer cross-platform is. Je hoeft niets te ontwikkelen voor een specifiek operating system of hardware device.
 
 ### Technische obstakels
 * **Performance:**
@@ -95,6 +100,14 @@ Niet elke browser is hetzelfde, van Firefox tot Samsung Internet elke vendor hee
 ## Design Challenge
 
 ## Focus
+
+De focus ligt bij uitstek op de technische uitwerking van het product / prototype. Op conceptueel niveau kan ik wat meer leunen op de opdrachtgever, dat is tenslotte hun core business. Samen met hun kan ik het project goed afbakenen en inspelen op trends die zij de afgelopen jaren hebben zien opkomen. Zij hebben zelf geen technische mensen in-house waardoor ik het daar vooral van mezelf moet hebben.
+
+* **Vooral onderzoekend te werk gaan**; het VR vakgebied wordt vaak omschreven als een 'jungle' dus de eerste paar weken zullen vooral onderzoeken van aard zijn. 
+* **Gemaakte werk is open-source:** daarop aansluitend wil ik dat al het werk zoveel mogelijk publiekelijk beschikbaar is en iedereen inzage kan krijgen in mijn werkwijze.
+
+### Deelvragen
+
 
 ## Product Visie
 
