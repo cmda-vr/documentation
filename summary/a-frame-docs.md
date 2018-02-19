@@ -41,3 +41,15 @@ VR content with native-like performance. *A-Frame believes the minimum viable ba
 A-Frame is based on top of HTML and the DOM using a polyfill for Custom Elements. The HTML and the DOM are only the outermost abstraction layer. Underneath A-Frame is an entity component framework for three.js. Elements are called primitives.
 
 Primitives act as syntactic sugar. They abstract the core-entity component. Primitives are `<a-entities>` under the hood.You can also register your own primitives.
+
+## Entity-Component System
+It's a three.js framework with ECS architecture. Composition over inheritance and hierarchy principle. Common pattern in 3D game design.
+* Entities; container objects into which components can be attached.
+* Components; reusable modules that can be attached to entities. Plug-and-play.
+* Systems; provide global scope, are often optional.
+
+Box > position > material > geometry
+
+* Entities; `<a-entity>` element
+* Components; attributes on entity
+* Systems;  `<a-scene>`
