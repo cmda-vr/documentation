@@ -2,9 +2,18 @@
 
 ## Werkwijze
 
-Het idee is om te werken in sprints van 5 dagen. De eerste paar weken van het project gefocust op research / design en dan op de helft over te switchen op iteratief werken met elke week een prototype oplevering.
+De eerste paar weken ligt de focus vooral op idee ontwikkeling en research om het concept nog verder af te bakenen. In onderstaande roadmap staan de belangrijkste deliverables beschreven.
 
-## Schema
+Na deze fase ga ik werken met een versimpelde / aangepaste versie van The Design Sprint en werk ik 5-dagen iteratief aan een prototype.
+
+### Sprint Overview
+* **Maandag;** probleemstelling duidelijk maken en bepalen waar de rest van de week de focus op ga leggen.
+* **Dinsdag;** uitwerken en op papier zetten van mogelijke oplossingen.
+* **Woensdag;** keuzes maken uit de oplossing en beginnen met eerste prototypes.
+* **Donderdag;** uitwerken prototype naar high fidelity.
+* **Vrijdag;** testen en observeren van de voortgang.
+
+## Roadmap
 
 **Sprints**:
 * Idee Ontwikkeling: Week 0/3
