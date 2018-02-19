@@ -177,5 +177,20 @@ Na deze fase ga ik werken met een versimpelde / aangepaste versie van The Design
 |                | Copy Writing            | 
 
 ## Bibliografie
+Parisi, T. ‘Learning Virtual Reality’. Developing Immersive Experiences and Applications for Desktop, Web, and Mobile. 1e druk. California: O'Reilly Media, 2015.
+
+M. LaValle, S. ‘Virtual Reality’. Fundamentals of virtual reality systems (2016): Cambridge University Press. Online. Internet. 13 januari 2018. Beschikbaar: [http://vr.cs.uiuc.edu/](http://vr.cs.uiuc.edu/)
+
+HVA | HAN. ‘CMD Methods pack’ Online. Internet. Beschikbaar:
+[http://cmdmethods.nl/](http://cmdmethods.nl/)
+
+Google Ventures. ‘The Design Sprint’ Online. Internet. Beschikbaar:
+[http://www.gv.com/sprint/](http://www.gv.com/sprint/)
 
 ## Woordenlijst
+
+* Virtual Reality (VR): Simuleert een omgeving via een computer om een gebruiker via diverse zintuigen onder te dompelen in een ervaring.
+* Augmented Reality (AR): Direct of indirect, beeld van de werkelijkheid waaraan elementen worden toegevoegd door een computer.
+* Mixed Reality (MR): Vermenging van de werkelijke wereld en een virtuele (schijnbare) wereld die met behulp van computers wordt gecreëerd.
+* Head-Mounted display (HMD): Een beeldscherm dat op het hoofd gedragen wordt. Het kan de vorm hebben van een bril (men spreekt dan van een virtualrealitybril, kortweg VR-bril of VRil[bron?]), of in een helm ingebouwd zijn.
+* Three / Six degrees of freedom (3DoF / 6DoF): de beweging van het hoofd in een driedimensionale ruimte en het registreren van de positie.
