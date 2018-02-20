@@ -89,7 +89,7 @@ Voor ontwikkelaars is het ook een stuk toegankelijker geworden om een VR applica
 
 ### Technische obstakels
 * **Performance:**
-De technologie op het web is nog beperkt en compleet experimenteel. Het lijkt me interessant om de grens van deze technologie op te zoeken.
+De technologie op het web is nog beperkt en compleet experimenteel. Het lijkt me interessant om de grens van deze technologie op te zoeken. 
 
 * **Progressive Enhancement:**
 Vanwege de toegankelijkheid van WebVR kan je van tevoren niet voorspellen welke input een gebruiker tot zijn beschikking heeft. Welk type input heeft de eindgebruiker? Maken ze gebruik van ‘Head Mounted Display (HMD)’ of van een ‘Cardboard’?
@@ -107,6 +107,10 @@ De focus ligt bij uitstek op de technische uitwerking van het product / prototyp
 * **Gemaakte werk is open-source:** daarop aansluitend wil ik dat al het werk zoveel mogelijk publiekelijk beschikbaar is en iedereen inzage kan krijgen in mijn werkwijze.
 
 ### Deelvragen
+* Welke Frameworks en API's zijn er beschikbaar om WebVR toepassingen te maken
+* Welke Browsers en Hardware devices kan je ondersteunen in de browser?
+* Hoe detecteer je input en hoe kan je met deze input detectie de ervaring enhancen?
+* In hoeverre kan je de applicatie constant op 60 frames laten draaien om Motion Sickness te voorkomen?
 
 
 ## Product Visie
