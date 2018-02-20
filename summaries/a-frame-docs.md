@@ -53,3 +53,28 @@ Box > position > material > geometry
 * Entities; `<a-entity>` element
 * Components; attributes on entity
 * Systems;  `<a-scene>`
+
+We create `<a-entity>` and attach components as HTML attributes. A-Frame has HTML and the DOM which makes ECS ergonomic and resolves many of its weaknesses.
+
+* Referencing other entities with Query Selector; something that the DOM provides.
+* Communication with events; Listen and emit events. Components can listen to eachother without calling.
+* DOM provides APIs to update elements
+* DOM provides attribute selectors
+
+Components have full access to JavaScript. (WebRTC, Speech Recognition)
+
+### Component based development
+Place all code within components. The codebase becomes very reusable. Components can set other components on the entity. You can plug into other components using the registry.
+
+## JavaScript, Events, DOM APIs
+A-Frame modifies the HTML element prototype to add some extra behavior for certain DOM APIs to tailor them to A-Frame. 
+
+## Best Practices
+Mixins and templating are useful to reuse and reduce repeated HTML.
+
+### Performance
+A high framerate must be maintained in order for people to feel comfortable and as if they were in another place
+* Use stats component
+
+### VR Design
+Designing for VR is different than designing for flat experiences. As a new medium, there are new sets of best practices to follow, especially to maintain user comfort and presence.
