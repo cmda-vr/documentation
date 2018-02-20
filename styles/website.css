@@ -1,0 +1,33 @@
+/* Summary styles */
+.book-summary {
+  background-color: #009EE0;
+}
+
+.book-summary ul.summary li.header {
+  color: #fff;
+}
+
+.book-summary ul.summary li a, .book-summary ul.summary li span {
+  color: #fff;
+}
+
+.book-summary ul.summary li.active > a {
+  color: #fff;
+}
+
+/* Text styles */
+.markdown-section h1,
+.markdown-section h2,
+.markdown-section h3,
+.markdown-section h3, {
+  color: #009EE0;
+}
+
+.markdown section a {
+  color: #009EE0;
+  text-decoration: underline;
+}
+
+.book .book-summary li:last-child a.gitbook-link {
+  display: none;
+}
