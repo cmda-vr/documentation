@@ -1,7 +1,7 @@
 # Summary 
 
 ## Design Brief
-* [Design Brief]
+* [Design Brief]()
   * [1.1 - Brief](DESIGN-BRIEF.md)
   * [1.2 - Roadmap](ROADMAP.md) 
 
