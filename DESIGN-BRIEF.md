@@ -1,7 +1,6 @@
 # Design Brief
 
 ## Introductie
-> Voor &Samhoudmedia ga ik werken aan een technische WebVR toepassing die het onboard proces voor een bestaande klant kan verbeteren.
 
 ### Aanleiding project
 Het was op CSSday dat ik voor het eerst in aanraking kwam met WebVR. Tijdens de Minor Web Development - ‘Everything Web’ kregen we een uitnodiging van Krijn Hoetmer om een dag, de conference die hij organiseerde, bij te wonen.
@@ -38,8 +37,6 @@ Een combinatie van verschillende hardware devices maakt het mogelijk om een VR e
 * **Input device;** dit zijn over het algemeen game of motion controllers.
 * **Desktop and Mobile platforms;** Daadwerkelijke hardware en operating system om de applicatie te draaien. (bijv. een computer of een mobiele telefoon)
 
-## Het probleem
-
 ## De Context
 > Het doel van WebVR is om het voor iedereen toegankelijker (drempelvrij) te maken om VR te ervaren, ongeacht de devices en input die ze tot hun beschikking hebben. 
 
@@ -62,7 +59,32 @@ Vanwege de toegankelijkheid van WebVR kan je van tevoren niet voorspellen welke 
 * **Browser Support:**
 Niet elke browser is hetzelfde, van Firefox tot Samsung Internet elke vendor heeft eigen implementaties van de WebVR API of biedt ondersteuning voor een bepaald framework. Dezelfde ervaring bieden voor elke browser is zeker een punt om op te focussen, al zal dit een nobel streven zijn.
 
+## Het probleem
+
+&Samhoud heeft eigenlijk twee grote probleemstellingen waar ze met enige regelmaat tegenaan lopen.
+
+### Case 1
+
+**Probleemstelling**
+> Nieuwe klanten weten vaak niet wat de mogelijkheden binnen VR zijn en kunnen zich slecht een beeld vormen van een uiteindelijk product.
+
+**Mogelijke oplossing**
+> Een interactieve online showcase met demo's en prototypes die ze (samen met een Cardboard) kunnen meenemen naar presentaties.
+
+### Case 2
+
+**Probleemstelling**
+> Vooral grote corporaties hebben een duidelijke missie en visie maar vinden dit moeilijk om naar hun bestaande of nieuwe medewerkers te communiceren. Vaak zoeken ze hiervoor een interactieve manier (VR bijvoorbeeld) dat aanslaat bij een jongere doelgroep.
+
+**Mogelijke oplossing**
+> Een shared WebVR experience die nieuwe medewerkers kunnen opstarten om zo op een interactieve manier meer te leren over de visie van het bedrijf.
+
 ## Design Challenge
+> Hoe kan een WebVR showcase &Samhoudmedia helpen de mogelijkheden binnen Virtual Reality beter te communiceren naar bestaande of potientele klanten?
+
+### Stakeholders
+* &Samhoud media
+* Stakeholders
 
 ## Focus
 
@@ -71,12 +93,12 @@ De focus ligt bij uitstek op de technische uitwerking van het product / prototyp
 * **Vooral onderzoekend te werk gaan**; het VR vakgebied wordt vaak omschreven als een 'jungle' dus de eerste paar weken zullen vooral onderzoeken van aard zijn. 
 * **Gemaakte werk is open-source:** daarop aansluitend wil ik dat al het werk zoveel mogelijk publiekelijk beschikbaar is en iedereen inzage kan krijgen in mijn werkwijze.
 
-### Deelvragen
+### Onderzoeksvragen
 * Welke Frameworks en API's zijn er beschikbaar om WebVR toepassingen te maken
 * Welke Browsers en Hardware devices kan je ondersteunen in de browser?
 * Hoe detecteer je input en hoe kan je met deze input detectie de ervaring enhancen?
+* Hoe kan je zonder input devices (controllers) toch interactie en events triggeren.
 * In hoeverre kan je de applicatie constant op 60 frames laten draaien om Motion Sickness te voorkomen?
-
 
 ## Product Visie
 
@@ -110,8 +132,8 @@ Na deze fase ga ik werken met een versimpelde / aangepaste versie van The Design
 |-|-|-|
 | Week 0/3       | Concept Overview       | Ideation|
 |                | Requirements List      | Focus Group|
-|                | Design Brief           | |
-|                | Expert Interview       | |
+|                | Design Brief           |
+|                | Expert Interview       |
 
 #### Research
 |Week | Deliverables | Methods |
@@ -145,6 +167,7 @@ Na deze fase ga ik werken met een versimpelde / aangepaste versie van The Design
 |                | Landingpage             |
 |                | Copy Writing            | 
 
+
 ## Bibliografie
 Parisi, T. ‘Learning Virtual Reality’. Developing Immersive Experiences and Applications for Desktop, Web, and Mobile. 1e druk. California: O'Reilly Media, 2015.
 
@@ -163,3 +186,5 @@ Google Ventures. ‘The Design Sprint’ Online. Internet. Beschikbaar:
 * Mixed Reality (MR): Vermenging van de werkelijke wereld en een virtuele (schijnbare) wereld die met behulp van computers wordt gecreëerd.
 * Head-Mounted display (HMD): Een beeldscherm dat op het hoofd gedragen wordt. Het kan de vorm hebben van een bril (men spreekt dan van een virtualrealitybril, kortweg VR-bril of VRil[bron?]), of in een helm ingebouwd zijn.
 * Three / Six degrees of freedom (3DoF / 6DoF): de beweging van het hoofd in een driedimensionale ruimte en het registreren van de positie.
+
+ 
