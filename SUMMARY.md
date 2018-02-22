@@ -1,9 +1,13 @@
 # Summary 
 
+[Metadata](README.md)
+
 ## Design Brief
 * [1.1 - Brief](DESIGN-BRIEF.md)
 * [1.2 - Roadmap](ROADMAP.md) 
 
+## Misc
+* [Eigendom](LICENSING.md)
 
 ## Download
 * [Download .PDF](https://www.gitbook.com/download/pdf/book/cmda-vr/documentation)
