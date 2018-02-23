@@ -61,37 +61,39 @@ Niet elke browser is hetzelfde, van Firefox tot Samsung Internet elke vendor hee
 
 ## Het probleem
 
-&Samhoud heeft eigenlijk twee grote probleemstellingen waar ze met enige regelmaat tegenaan lopen.
+De consultancy tak van &Samhoudmedia (&Samhoud) werkt vaak samen met grote corporates die elk een duidelijke missie en visie hebben. Eén ding hebben ze allemaal gemeen; ze vinden het moeilijk deze waardes naar bestaande of nieuwe medewerkers te communiceren. 
 
-### Case 1
-
-**Probleemstelling**
-> Nieuwe klanten weten vaak niet wat de mogelijkheden binnen VR zijn en kunnen zich slecht een beeld vormen van een uiteindelijk product.
-
-**Mogelijke oplossing**
-> Een interactieve online showcase met demo's en prototypes die ze (samen met een Cardboard) kunnen meenemen naar presentaties.
-
-### Case 2
+In plaats van een 'standaard' briefing op bijvoorbeeld het hoofdkantoor zoeken ze een meer interactive manier van storytelling die nieuwe medewerkers kunnen  ervaren.
 
 **Probleemstelling**
-> Vooral grote corporaties hebben een duidelijke missie en visie maar vinden dit moeilijk om naar hun bestaande of nieuwe medewerkers te communiceren. Vaak zoeken ze hiervoor een interactieve manier (VR bijvoorbeeld) dat aanslaat bij een jongere doelgroep.
+
+Nieuwe klanten weten vaak niet wat de mogelijkheden binnen VR zijn en kunnen zich slecht een beeld vormen van een uiteindelijk product.
+
+**Probleemstelling**
+
+Het overbrengen van bedrijfswaardes naar nieuwe medewerkers op een speelse interactive manier.
 
 **Mogelijke oplossing**
-> Een shared WebVR experience die nieuwe medewerkers kunnen opstarten om zo op een interactieve manier meer te leren over de visie van het bedrijf.
+> Een shared interactieve WebVR ervaring die gemakkelijk en snel in een browser te bekijken is zonder dure hardware.
+
+**Interne Stakeholders**
+* &Samhoud Media
+* &Samhoud Consultancy
+* Bestaande medewerkers
+
+**Externe Stakeholders**
+* Nieuwe medewerkers
+* Corporate bedrijven
 
 ## Design Challenge
-> Hoe kan een WebVR showcase &Samhoudmedia helpen de mogelijkheden binnen Virtual Reality beter te communiceren naar bestaande of potientele klanten?
-
-### Stakeholders
-* &Samhoud media
-* Stakeholders
+> Hoe kan een WebVR applicatie &Samhoud helpen met het 'onboarden' van nieuwe en bestaande medewerkers om belangrijke waardes binnen het bedrijf over te brengen?
 
 ## Focus
 
 De focus ligt bij uitstek op de technische uitwerking van het product / prototype. Op conceptueel niveau kan ik wat meer leunen op de opdrachtgever, dat is tenslotte hun core business. Samen met hun kan ik het project goed afbakenen en inspelen op trends die zij de afgelopen jaren hebben zien opkomen. Zij hebben zelf geen technische mensen in-house waardoor ik het daar vooral van mezelf moet hebben.
 
-* **Vooral onderzoekend te werk gaan**; het VR vakgebied wordt vaak omschreven als een 'jungle' dus de eerste paar weken zullen vooral onderzoeken van aard zijn. 
-* **Gemaakte werk is open-source:** daarop aansluitend wil ik dat al het werk zoveel mogelijk publiekelijk beschikbaar is en iedereen inzage kan krijgen in mijn werkwijze.
+* **Vooral onderzoekend te werk gaan**; het VR vakgebied wordt vaak omschreven als een 'jungle' dus de eerste paar weken zullen vooral onderzoekend van aard zijn. 
+* **Gemaakte werk is open-source:** ik wil graag dat al het werk zoveel mogelijk publiekelijk beschikbaar is en iedereen inzage kan krijgen in mijn werkwijze en voortgang.
 
 ### Onderzoeksvragen
 * Welke Frameworks en API's zijn er beschikbaar om WebVR toepassingen te maken
@@ -102,7 +104,16 @@ De focus ligt bij uitstek op de technische uitwerking van het product / prototyp
 
 ## Product Visie
 
+De voornaamste obstakels en voordelen van WebVR staan onder 'de context' sectie beschreven. Een Virtual Reality toepassing in de browser ten opzichte van een Native applicatie heeft een aantal voordelen:
+
+* Als ontwikkelaar werken met bestaande web technieken 
+* Het werkt over het algemeen cross-platform (niet voor een specifiek hardware apparaat)
+* De ervaring is sneller op te starten (via een browser en een link) ten opzichte van een specifieke app die je eerst moet downloaden
+* Je kunt Virtual Reality ervaren zonder dure hardware aan te schaffen
+
 ## Mogelijke impact product
+
+Dit aspect van een product zal gedurende mijn project wellicht wat meer op de achtergrond treden. Vooral op lichamelijk vlak kunnen er mogelijk ongewenste consequenties naar voren komen. Een van de grootste is natuurlijk *motion sickness*. Vooral tijdens het user testen is dit een punt om de focus op te leggen; hoe zorg je ervoor dat mensen geen last krijgen van motion sickness en hoelang mag of kan een gemiddelde Virtual Reality ervaring duren?
 
 ## Roadmap
 
@@ -186,5 +197,7 @@ Google Ventures. ‘The Design Sprint’ Online. Internet. Beschikbaar:
 * Mixed Reality (MR): Vermenging van de werkelijke wereld en een virtuele (schijnbare) wereld die met behulp van computers wordt gecreëerd.
 * Head-Mounted display (HMD): Een beeldscherm dat op het hoofd gedragen wordt. Het kan de vorm hebben van een bril (men spreekt dan van een virtualrealitybril, kortweg VR-bril of VRil[bron?]), of in een helm ingebouwd zijn.
 * Three / Six degrees of freedom (3DoF / 6DoF): de beweging van het hoofd in een driedimensionale ruimte en het registreren van de positie.
+* Onboarding: Het reeds beginnen met inwerken van je medewerker in de tijd tussen het moment dat hij de baan bij het nieuwe bedrijf accepteert, maar er nog niet daadwerkelijk werkt.
+* Native applicatie: Een Native-app wordt specifiek ontwikkeld voor een platform (Android, iOS, Windows Phone) in een eigen codeertaal.
 
  
