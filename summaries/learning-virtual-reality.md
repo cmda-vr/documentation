@@ -80,3 +80,56 @@ User input poses a new set of challenges in VR system design.
 
 Virtual reality is also pushing the envelope on user input. VR displays cut the user off completely from the outside world.
 
+## Chapter 3
+Information in this chapter is specific to the Rift and Oculus SDK, the same techniques will apply when developing for other headsets.
+
+### 3D Graphics Basics
+Graphics that use a three-dimensional representation of gemoetric data.
+1. The data is represented in a D3 coordinate system
+2. Drawn ('rendered') as a 2d image on monitor
+
+The rendered image should be updates, it's billion dolar business. Real-time 3d rendering.
+
+### 3D Coordinate System
+2d; x and y values. Additional coordinate; z describes depth.
+* x; horizontal
+* y; vertical
+* z; in and out
+
+Most of the time the z-axis is always on screen. X and Y can move out of the field of view. z is in/out axis. Positive z is going *deeper* into the screen. This is known as a *lefthanded coordinate system. WebVR uses righthanded.
+
+### Meshes
+Object composed of one ore more polygonal shape, constructed out of vertices defining coordinate positions in 3D space. 3D meshes are often referred to as models. They only define the shape.
+
+### Materials
+The surface of a mesh is defined using additional attributes. Surface information can be represented using one or more bitmaps, known as texture maps. The surface properties a of a mesh are referred to collecitvely as materials.
+
+### Transforms
+3D meshes are defined by the positions of their vertices. It would get really tedious to change a mesh's vertex positions every time you wanted to move it. That's why most 3D systems support transforms, without changing any values in its vertices.
+
+A 3D transform is represented by a transformation matrix, entity to compute the transformed positions of vertices.
+
+### Cameras
+Every rendered scene requires a point of view from which the user will be viewing it. 3D systems typically use a camera, an object that defines where (relative to the scne) the user is positioned and oriented.
+
+Cameras are almost always represented using a couple of matrices.
+* First matric; defines the position and orientation
+* second matrix; translation from the 3D coodinates into the 2D drawing space of the viewport (projection matrix)
+
+* View volume or view frustum; only objects within the view volume are actually rendere to the screen. (Field of view)
+
+camera > viewport > projection
+
+Cameras define the viewer's relationship to a 3D scene and provide a sense of realism.
+
+### Stereoscopic Rendering
+In VR we have to do the whole thing twice, each per eye.
+
+* Define one main camera.
+* Render from two cameras; Follow position and orientation of main camera but are slightly offset to the left and right.
+* Render to two viewports; separate viewports for the left and right rendering camers.
+
+## Unity3D
+Professional game engines have become a tool of choice for developing virtual reality. Unity3D is defacto game engine. Engine contains native support for VR rendering and head tracking. Oculus has Utilities for Unity.
+
+## Chapter 4
