@@ -133,3 +133,46 @@ In VR we have to do the whole thing twice, each per eye.
 Professional game engines have become a tool of choice for developing virtual reality. Unity3D is defacto game engine. Engine contains native support for VR rendering and head tracking. Oculus has Utilities for Unity.
 
 ## Chapter 4
+
+In partnership Oculus teamed up with Samsung to create GearVR. It uses the smartphone as a display but oculus lenses for the headset. Highest quality mobile VR experience.
+
+They also have an Oculus Home, it fully immersive. You don't have to leave VR space to setup video's.
+
+## Chapter 5 - WebVR
+
+In previous chapters we worked with Native Platform SDK's to create applications, it's a single-user experience.
+
+Many of us creating VR would prefer to build web applications;
+
+* Instant access; No download and app install required.
+* Easy integration of web data; pull in data from different API's and services.
+* Cross-platform compatibility; HTML5 runs on all desktop and mobile devices.
+* Fast, cheaper development; easiest cross-platform system for creating apps. Use open source development tools.
+* Easier deployment; Deliver web applications and updates happen without having to go trough app stores.
+
+Latest generation of web browsers include support for virtual reality using the WebVR api.
+
+* Use the WebVR API
+* 3D rendering in the browser with WebGL
+* Or Three.js library
+
+### The Story of WebVR
+Roots can be traced to the spring of 2014. Acquisition of Oculus VR by Facebook, Mozilla began to work to add Oculus Rift support to Firefox. They used hacky ways to connect to the IMU hardware.
+
+But then they see how far they could come with a native implemtnation, free of the performance issues. Since the WebGL meetup in 2014 there has been a flurry of activity to the API.
+
+The collaboration between Mozilla and Google on WebVR is a testament to the power of web standards.
+
+WebVR is not a standard. It is a set of extensions built into popular browsers. Someday we could see the WebVR API added as a W3C recommendation and becoming a true standard.
+
+### The WebVR API
+The browser already has the capability to do stunning real-time 3D rendering using WebGL. (The API standard for rendering 3D graphics using JavaScript) WebVR builds on top of that.
+* Discovering / Connection displays; API for the developer to discover and connect to VR displays
+* Presenting content; Presentation to the VR head-mounted display as a sseparate display device. Browser also performs any optial distortion.
+* Refreshing the display; Application to refresh its graphics at the native refresh rate of the HDM.
+* Head tracking; New JavaScript API that tracks head position and orientation.
+
+With these four features, a application can use WebGL to render virtual reality scenes with high performance.
+
+Desktop VR systems come with 6DOF, input controllers improve upon classis game controllers. WebVR API itself does not define support for 6DOF controllers. There is already the Gamepad API.
+
