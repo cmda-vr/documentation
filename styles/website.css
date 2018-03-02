@@ -5,6 +5,7 @@
 
 .book-summary ul.summary li.header {
   color: #fff;
+  font-weight: 700;
 }
 
 .book-summary ul.summary li a, .book-summary ul.summary li span {
@@ -19,7 +20,7 @@
 .markdown-section h1,
 .markdown-section h2,
 .markdown-section h3,
-.markdown-section h3 {
+.markdown-section h4 {
   color: #009EE0;
 }
 
