@@ -12,7 +12,8 @@
 * [Roadmap](/deliverables/ROADMAP.md) 
 
 ## Misc
-* [Eigendom](LICENSING.md)
+* [Eigendom](misc/LICENSING.md)
+* [Woordenlijst](misc/GLOSSARY.md)
 
 ## Download
 * [Download .PDF](https://www.gitbook.com/download/pdf/book/cmda-vr/documentation)
