@@ -1,7 +1,5 @@
 # Summary 
 
-[Metadata](README.md)
-
 ## Research
 * [VR Overview](research/VR-OVERVIEW.md)
 
