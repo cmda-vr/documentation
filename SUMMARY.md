@@ -3,9 +3,10 @@
 ## 1. Introductie
 * [Metadata](README.md)
 
-## 2. Research
-* [Virtual Reality](research/VR-OVERVIEW.md)
-* [WebVR](research/WEBVR.md)
+## 2. Virtual Reality
+* [Overview](research/VR-OVERVIEW.md)
+* [Design for VR](research/VR-DESIGN.md)
+* [VR on the Web](research/WEBVR.md)
 
 ## Deliverables
 * [Design Brief](/deliverables/DESIGN-BRIEF.md)
