@@ -1,7 +1,11 @@
 # Summary 
 
-## Research
-* [VR Overview](research/VR-OVERVIEW.md)
+## 1. Introductie
+* [Metadata](README.md)
+
+## 2. Research
+* [Virtual Reality](research/VR-OVERVIEW.md)
+* [WebVR](research/WEBVR.md)
 
 ## Deliverables
 * [Design Brief](/deliverables/DESIGN-BRIEF.md)
