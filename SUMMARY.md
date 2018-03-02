@@ -2,9 +2,12 @@
 
 [Metadata](README.md)
 
-## Design Brief
-* [1.1 - Brief](DESIGN-BRIEF.md)
-* [1.2 - Roadmap](ROADMAP.md) 
+## Research
+* [VR Overview](research/VR-OVERVIEW.md)
+
+## Deliverables
+* [Design Brief](/deliverables/DESIGN-BRIEF.md)
+* [Roadmap](/deliverables/ROADMAP.md) 
 
 ## Misc
 * [Eigendom](LICENSING.md)
