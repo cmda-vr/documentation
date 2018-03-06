@@ -11,7 +11,7 @@
 
 ## 3. WebVR
 * [Overview](webvr/OVERVIEW.md)
-* [Techniek](webvr/TECHNICAL.md)
+* [Overview](webvr/TECH.md)
 * [Implementaties](webvr/IMPLEMENTATION.md)
 
 ## Deliverables
