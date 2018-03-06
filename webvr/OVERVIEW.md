@@ -8,6 +8,3 @@ Het is wellicht een minder meeslepende ervaring ten opzichte van dure hardware, 
 
 Deze lower-end ervaringen zijn vooral geschikt voor kortere sessies. Door de meestal lagere resolutie van de schermen en een kleinere field of view kan er sneller motion sickness ontstaan.
 
-## Web applicaties
-Vrijwel alle applicaties die draaien op dure hardware zijn zogeheten *'native'* applicaties die specifiek voor een bepaald platform worden gemaakt. Na de aankoop van Oculus VR door Facebook begon Mozilla te werken aan een implementatie in Browsers. WebVR was geboren.
-
