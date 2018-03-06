@@ -11,16 +11,28 @@
 
 ## 3. WebVR
 * [Overview](webvr/OVERVIEW.md)
-* [Overview](webvr/TECH.md)
+* [WebVR](webvr/TECH.md)
 * [Implementaties](webvr/IMPLEMENTATION.md)
+
+## 4. Research
+* [Focus Group]()
+* [Stakeholders]()
+
+## 5. Product
+* [Werkwijze]()
+* [Product]()
+* [User testing]()
 
 ## Deliverables
 * [Design Brief](/deliverables/DESIGN-BRIEF.md)
 * [Roadmap](/deliverables/ROADMAP.md) 
+* [Best Practices](misc/GLOSSARY.md)
+* [Patterns](misc/GLOSSARY.md)
 
 ## Misc
 * [Eigendom](misc/LICENSING.md)
 * [Woordenlijst](misc/GLOSSARY.md)
+* [Bibliografie](misc/GLOSSARY.md)
 
 ## Download
 * [Download .PDF](https://www.gitbook.com/download/pdf/book/cmda-vr/documentation)
