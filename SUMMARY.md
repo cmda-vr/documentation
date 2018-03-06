@@ -8,7 +8,11 @@
 * [Overview](research/VR-OVERVIEW.md)
 * [Design](research/VR-DESIGN.md)
 * [Hardware](research/HARDWARE.md)
-* [WebVR](research/WEBVR.md)
+
+## 3. WebVR
+* [Overview](webvr/OVERVIEW.md)
+* [Techniek](webvr/TECHNICAL.md)
+* [Implementaties](webvr/IMPLEMENTATION.md)
 
 ## Deliverables
 * [Design Brief](/deliverables/DESIGN-BRIEF.md)
