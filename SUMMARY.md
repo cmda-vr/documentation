@@ -10,7 +10,7 @@
 * [Hardware](research/HARDWARE.md)
 
 ## 3. WebVR
-* [Overview](webvr/OVERVIEW.md)
+* [Definitie](webvr/OVERVIEW.md)
 * [WebVR](webvr/TECH.md)
 * [Implementaties](webvr/IMPLEMENTATION.md)
 
