@@ -25,7 +25,7 @@
 --
 
 ## Deliverables
-* [Design Brief](/deliverables/DESIGN-BRIEF.md)
+* Design Brief
   * [Roadmap](/deliverables/ROADMAP.md) 
   * [Best Practices](misc/GLOSSARY.md)
   * [Patterns](misc/GLOSSARY.md)
