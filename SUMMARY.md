@@ -33,5 +33,5 @@
 
 * [Download](misc/DOWNLOAD.md)
 * [Eigendom](misc/LICENSING.md)
-* [Woordenlijst](misc/GLOSSARY.md)
+* [Woordenlijst](GLOSSARY.md)
 * [Bibliografie](misc/LITERATURE.md)
