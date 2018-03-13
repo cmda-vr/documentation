@@ -24,9 +24,10 @@
 
 --
 
+## Deliverables
 * [Deliverables](/deliverables/README.md)
-  * [Design Brief](/deliverables/DESIGN-BRIEF.md)
-  * [Roadmap](/deliverables/ROADMAP.md) 
+* [Design Brief](/deliverables/DESIGN-BRIEF.md)
+* [Roadmap](/deliverables/ROADMAP.md) 
 
 --
 

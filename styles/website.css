@@ -32,3 +32,7 @@
 .book .book-summary li:last-child a.gitbook-link {
   display: none;
 }
+
+.book-summary ul.summary li {
+  font-weight: 200;
+}
