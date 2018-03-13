@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/cmda-vr/documentation/issues"
   },
-  "homepage": "https://github.com/cmda-vr/documentation#readme"
+  "homepage": "https://github.com/cmda-vr/documentation#readme",
+  "dependencies": {
+    "gitbook-plugin-toggle-chapters": "0.0.3"
+  }
 }
