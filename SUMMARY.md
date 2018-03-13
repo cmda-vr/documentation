@@ -3,6 +3,7 @@
 ## 1. Introductie
 * [Metadata](README.md)
 * [Aanleiding Project](introduction/PROJECT.md)
+* [Inleiding](introduction/INTRODUCTION.md)
 
 ## 2. Virtual Reality
 * [Overview](research/VR-OVERVIEW.md)

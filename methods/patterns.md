@@ -7,3 +7,5 @@ Drop-in viewers.
 Gaze tracking.
 
 360 videos; The tricks of the trade that were learned across the 20th century need to be reinvestigated because they are based on the assumption that the cinematographer controls the camera viewpoint. In VR, viewers can look in any direction, and perhaps even walk through the scene.
+
+Progessive enhancement: what if a person doesn't have a hdm. What's the enhancement? They can look around with mouse and keyboard. Then gradually improve to input.

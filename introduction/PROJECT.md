@@ -4,7 +4,7 @@ Het was op CSSday dat ik voor het eerst in aanraking kwam met WebVR. Tijdens de 
 
 Een van de talks is me tot de dag van vandaag altijd bijgebleven, die van Ada Rose Edwards over VR toepassingen in een browser. Alsof ik voor het eerst water zag branden; kan dit NU in een Web Browser? Zo zonder fancy tooling, geavanceerde hardware en zonder ook maar een enkele euro te besteden. Heb je een smartphone met een touch screen? Dan is de kans groot dat je VR op elk moment kan ervaren.
 
-> Nu ik het laatste halfjaar van de studie nog kan experimenteren wil ik die kans pakken en mezelf binnen VR / AR ruimte wat meer ontwikkelen, en dan voornamelijk op Technisch (WebVR) vlak. VR op het web is het laatste jaar erg toegankelijk en laagdrempelig geworden en het verbaasde mezelf hoe weinig ik eigenlijk afweet van de technologie en interactie methodes binnen dit vakgebied.
+> Nu ik het laatste halfjaar van de studie nog kan experimenteren wil ik die kans pakken en mezelf binnen VR / AR ruimte wat meer te ontwikkelen, en dan voornamelijk op Technisch (WebVR) vlak. VR op het web is het laatste jaar erg toegankelijk en laagdrempelig geworden en het verbaasde mezelf hoe weinig ik eigenlijk afweet van de technologie en interactie methodes binnen dit vakgebied.
 
 ## De opdrachtgever
 Met deze visie ben ik contact gaan zoeken met verschillende partijen. In eerste instantie binnen het research lectoraat van de Hogeschool van Amsterdam en vervolgens bij verschillende VR agencies in Noord-Holland.
