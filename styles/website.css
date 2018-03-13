@@ -36,12 +36,3 @@
 .book-summary ul.summary li {
   font-weight: 200;
 }
-
-.pull-right .fa {
-  display: none;
-}
-
-p {
-  font-size: 21px;
-  line-height: 2rem;
-}
