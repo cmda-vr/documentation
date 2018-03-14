@@ -1,17 +1,3 @@
 {
-  "plugins": ["-sharing"],
-  "pluginsConfig": {
-      "sharing": {
-          "facebook": false,
-          "twitter": false,
-          "google": false,
-          "weibo": false,
-          "instapaper": false,
-          "vk": false,
-          "all": [
-              "facebook", "google", "twitter",
-              "weibo", "instapaper"
-          ]
-      }
-  }
+  "plugins": ["-sharing", "bandwidth-toggle-chapters"]
 }
