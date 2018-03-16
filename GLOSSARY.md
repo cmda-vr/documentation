@@ -8,7 +8,14 @@
 * FOV = Field of View
 * POV = Point of View
 
+# Begripsbepaling
+* Ontwikkelaar; specifiek om web ontwikkelaars / developers.
+* Low-cost; alle hardware die in de 'Cardboard' categorie vallen.
+* Opdrachtgever; refereert naar het overkoepelende &Samhoud groep niet naar &Samhoudmedia.
+
 # Woordenlijst
+
+TODO *Op alfabetische volgorde zetten*
 
 ## WebVR
 De specificatie die het als web developer mogelijk maakt om een VR ervaring in een Web Browser te maken. Het doel is om het voor iedereen (zowel ontwikkelaars als gebruikers) toegankelijker te maken om VR te ervaren.
