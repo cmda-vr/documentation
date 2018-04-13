@@ -19,3 +19,6 @@ Bij &Samhoudmedia hadden ze wel interesse in een project met WebVR en er was rui
 > “ We’re front runners in the field of augmented reality (AR) and virtual reality (VR). “
 
 Zo hebben ze gewerkt aan de AH dino campagne met Freek Vonk, AH ruimtereis met André Kuijpers en recent nog samen met de Rabobank aan Rabo PinPin. Aan de Oosterdokskade (VR cinema) werken voornamelijk mensen die in het digitale tijdperk zijn opgegroeid. Oog voor digitaal, media en marketing trends. 
+
+![&Samhoudmedia office](https://samhoudmedia.com/storage/app/uploads/public/5ab/521/148/5ab521148b72d041395142.jpg)
+> Het kantoor aan de Oosterdokskade in Amsterdam. Aan de rechterkant van de tafel zit ik met m'n koptelefoon te werken.

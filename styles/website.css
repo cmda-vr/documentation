@@ -22,10 +22,11 @@
 .markdown-section h3,
 .markdown-section h4 {
   color: #009EE0;
+  font-weight: 200;
 }
 
-.markdown-section h1 {
-  font-weight: 200;
+.markdown-section p {
+  line-height: 2;
 }
 
 .markdown section a {
@@ -59,4 +60,8 @@
 .book-header .btn:hover {
   opacity: 1;
   color: #fff;
+}
+
+.page-inner {
+  padding-top: 100px 15px 40px 15px;
 }
