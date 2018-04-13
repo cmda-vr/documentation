@@ -6,13 +6,15 @@
 * [Inleiding](introduction/INTRODUCTION.md)
 * [Aanleiding](introduction/PROJECT.md)
 
-## 2. Virtual Reality
+## 2. Context
 * [Overview](vr/VR-OVERVIEW.md)
-* [Design](vr/VR-DESIGN.md)
 * [Hardware](vr/HARDWARE.md)
-* [Hardware](vr/TECH.md)
+* [Design](vr/VR-DESIGN.md)
+* [WebVR](vr/TECH.md)
 
 ## 3. Research
+* [Design Challenge](research/DESIGN-CHALLENGE.md)
+* [Stakeholders](research/STAKEHOLDERS.md)
 * [Focus Group](research/FOCUS-GROUP.md)
 * [Requirements List](research/REQUIREMENTS-LIST.md)
 * [Idee Ontwikkeling](research/CONCEPTS.md)
