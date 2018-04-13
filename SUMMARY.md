@@ -10,7 +10,7 @@
 * [Overview](vr/VR-OVERVIEW.md)
 * [Hardware](vr/HARDWARE.md)
 * [Design](vr/VR-DESIGN.md)
-* [WebVR](vr/TECH.md)
+* [WebVR](vr/WEBVR.md)
 
 ## 3. Research
 * [Design Challenge](research/DESIGN-CHALLENGE.md)
