@@ -40,6 +40,10 @@
 .markdown-section a {
   color: #009EE0;
   transition: background 0.25s ease;
+  text-decoration: none;
+  background: transparent;
+  -webkit-box-shadow: inset 0 -2px 0 #009EE0;
+  box-shadow: inset 0 -2px 0 #009EE0;
 }
 
 .markdown-section a:hover {
@@ -87,5 +91,6 @@
 .markdown-section .glossary-term:hover {
   text-decoration: none;
   box-shadow: none;
+  background: none;
   color: #009EE0;
 }
