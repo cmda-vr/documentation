@@ -10,16 +10,15 @@
 * [Overview](vr/VR-OVERVIEW.md)
 * [Design](vr/VR-DESIGN.md)
 * [Hardware](vr/HARDWARE.md)
+* [Hardware](vr/TECH.md)
 
-## 3. WebVR
-* [Definitie](webvr/OVERVIEW.md)
-* [WebVR](webvr/TECH.md)
-* [Implementaties](webvr/IMPLEMENTATION.md)
-
-## 4. Research
+## 3. Research
 * [Focus Group](research/FOCUS-GROUP.md)
 * [Requirements List](research/REQUIREMENTS-LIST.md)
 * [Idee Ontwikkeling](research/CONCEPTS.md)
+
+## 4. Prototypes
+* [Werkwijze]()
 
 --
 
