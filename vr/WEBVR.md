@@ -1,15 +1,9 @@
 # Virtual Reality op het Web
-Vrijwel alle applicaties die draaien op dure hardware zijn zogeheten *'native'* applicaties die specifiek voor een bepaald platform worden gemaakt. 
+Vrijwel alle applicaties die draaien op dure hardware zijn zogeheten *'native'* applicaties die specifiek voor een bepaald platform worden gemaakt. Naast een native applicatie is het mogelijk om een Virtual Reality applicatie te maken die draait in een browser. Dit heeft voor zowel gebruikers en ontwikkelaars voordelen. 
 
-Naast een native applicatie is het mogelijk om een Virtual Reality applicatie te maken die draait in een browser. Dit heeft voor zowel gebruikers en ontwikkelaars voordelen. 
-
-Het doel van WebVR is om het voor zowel ontwikkelaars als gebruikers toegankelijker (drempelvrij) te maken om Virtual Reality te ervaren. Ongeacht de devices en input die ze tot hun beschikking hebben.
+> Het doel van WebVR is om het voor zowel ontwikkelaars als gebruikers toegankelijker (drempelvrij) te maken om Virtual Reality te ervaren. Ongeacht de devices en input die ze tot hun beschikking hebben.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jzrqrji_2xk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-## Implementation
-
-Na de aankoop van Oculus VR door Facebook begon Mozilla te werken aan een implementatie hiervan in Browsers. WebVR was geboren.
 
 ## Gebruikers
 Voor gebruikers is het een stuk toegankelijker om VR te ervaren.
@@ -31,3 +25,9 @@ Voor ontwikkelaars is het ook een stuk toegankelijker geworden om een VR applica
 * **Progressive Enhancement:** Vanwege de verschillende manieren van input die een gebruiker kan hebben zou ik eerst moeten aftasten (detecteren) wat voor soort input een gebruiker kan geven.
 
 Elke front-end developer zou (met behulp van frameworks) een VR applicatie op het web kunnen ontwikkelen.
+
+## Implementation
+
+Na de aankoop van Oculus VR door Facebook begon Mozilla te werken aan een implementatie hiervan in Browsers, de WebVR API was geboren. Hiermee was het mogelijk om verschillende VR devices te detecteren en 3D scene's te renderen.
+
+Deze API biedt een ontwikkelaar alle functionaliteit die nodig is om een VR applicatie in de browser te programmeren. 
