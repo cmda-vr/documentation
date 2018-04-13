@@ -24,6 +24,10 @@
   color: #009EE0;
 }
 
+.markdown-section h1 {
+  font-weight: 200;
+}
+
 .markdown section a {
   color: #009EE0;
   text-decoration: underline;
@@ -34,12 +38,13 @@
 }
 
 .book-summary ul.summary li {
-  font-weight: 200;
+  font-weight: 400;
 }
 
 .book-header {
   background: #009EE0;
   color: #fff;
+  box-shadow: 0 2px 5px rgba(0,0,0,.26);
 }
 
 .book-header .btn {
