@@ -29,6 +29,14 @@
   line-height: 2;
 }
 
+.markdown-section img {
+  box-shadow: 0 20px 20px rgba(0,0,0,.08);
+}
+
+.markdown-section blockquote {
+  border-left: 4px solid #009EE0;
+}
+
 .markdown section a {
   color: #009EE0;
   text-decoration: underline;
@@ -63,5 +71,5 @@
 }
 
 .page-inner {
-  padding-top: 100px 15px 40px 15px;
+  padding: 100px 15px 40px 15px;
 }
