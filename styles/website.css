@@ -41,13 +41,15 @@
   color: #009EE0;
   -webkit-box-shadow: inset 0 -2px 0 #009EE0;
   box-shadow: inset 0 -2px 0 #009EE0;
-  transition: box-shadow ease 0.25s;
+  transition: all ease 0.25s;
+  background: transparent;
 }
 
 .markdown-section a:hover {
   -webkit-box-shadow: inset 0 20px 0 #009EE0;
   box-shadow: inset 0 20px 0 #009EE0;
   color: #fff;
+  background: #009EE0;
 }
 
 .book .book-summary li:last-child a.gitbook-link {
@@ -90,4 +92,5 @@
 .markdown-section .glossary-term:hover {
   text-decoration: none;
   box-shadow: none;
+  color: #009EE0;
 }
