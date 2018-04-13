@@ -1,6 +1,6 @@
 # Aanleiding Project
 
-Het was op CSSday dat ik voor het eerst in aanraking kwam met WebVR. Tijdens de Minor Web Development - ‘Everything Web’ kregen we een uitnodiging van Krijn Hoetmer om een dag, de conference die hij organiseerde, bij te wonen.
+Het was op [CSSday](https://cssday.nl/2017) dat ik voor het eerst in aanraking kwam met WebVR. Tijdens de Minor Web Development - ‘Everything Web’ kregen we een uitnodiging van Krijn Hoetmer om een dag, de conference die hij organiseerde, bij te wonen.
 
 Een van de talks is me tot de dag van vandaag altijd bijgebleven, die van Ada Rose Edwards over VR toepassingen in een browser. Alsof ik voor het eerst water zag branden; kan dit NU in een Web Browser? Zo zonder fancy tooling, geavanceerde hardware en zonder ook maar een enkele euro te besteden. Heb je een smartphone met een touch screen? Dan is de kans groot dat je VR op elk moment kan ervaren.
 
