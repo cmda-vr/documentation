@@ -39,13 +39,10 @@
 
 .markdown-section a {
   color: #009EE0;
-  transition: all ease 0.25s;
-  background: transparent;
+  transition: background 0.25s ease;
 }
 
 .markdown-section a:hover {
-  -webkit-box-shadow: inset 0 20px 0 #009EE0;
-  box-shadow: inset 0 20px 0 #009EE0;
   color: #fff;
   background: #009EE0;
 }
