@@ -1,9 +1,10 @@
 # Summary 
 
+* [Meta ](README.md)
+
 ## 1. Introductie
-* [Metadata](README.md)
-* [Aanleiding Project](introduction/PROJECT.md)
 * [Inleiding](introduction/INTRODUCTION.md)
+* [Aanleiding](introduction/PROJECT.md)
 
 ## 2. Virtual Reality
 * [Overview](vr/VR-OVERVIEW.md)
