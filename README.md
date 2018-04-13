@@ -31,3 +31,10 @@
 * Danny de Vries
 * 06 – 41025262
 * <hi@dandevri.es>
+
+
+### Overige informatie
+* Deze documentatie is te [downloaden](/misc/DOWNLOAD.md) in .pdf formaat.
+* Informatie over [eigendom](/misc/LICENSING.md) van het project en de documentatie.
+* [Woordenlijst](/misc/LITERATURE.md) en Begripsbepaling.
+*  Gebruikte [literatuur](/misc/LITERATURE.md) en onderzoek.

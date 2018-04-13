@@ -1,11 +1,10 @@
-# Inleiding
+> Kan een WebVR toepassing tijdens de interne selectiedag van &Samhoud de huidige cases interactiever maken zodat de competenties van junior consultants beter te meten zijn?
 
-## Design Challenge
-> Hoe kan een WebVR applicatie &Samhoud helpen met het 'onboarden' van nieuwe en bestaande medewerkers om belangrijke waardes binnen het bedrijf over te brengen?
+De consultancy tak van &Samhoud zoekt constant manieren om nieuwe technieken in te zetten tijdens het uitvoeren van hun consultancy taken. Vooral tijdens de interne recruitment van nieuwe junior consultants zien ze veel mogelijkheden om op een meer interactieve en digitale manier het sollicatieproces te gaan voeren.
 
-### Onderzoeksvragen
-* Welke Frameworks en API's zijn er beschikbaar om WebVR toepassingen te maken
-* Welke Browsers en Hardware devices kan je ondersteunen in de browser?
-* Hoe detecteer je input en hoe kan je met deze input detectie de ervaring enhancen?
-* Hoe kan je zonder input devices (controllers) toch interactie en events triggeren.
-* In hoeverre kan je de applicatie constant op 60 frames laten draaien om Motion Sickness te voorkomen?
+Tijdens de selectiedag voor junior consultants worden een aantal cases uitgevoerd die, tot dusver, 'ouderwets' op papier werden behandeld. Doormiddel van een VR toepassing op het Web ik deze cases interactiever weten te maken. Hierdoor kunnen de observanten van &Samhoud op een betere manier de communicatieve en analytische competenties van deze kandidaten meten.
+
+Gedurende het project lag de focus voor mij voornamelijk op de technische uitwerking van de VR toepassing. Met low-cost hardware componenten heb ik meerdere prototypes gemaakt om uiteindelijk drie varianten in high-fidelity uit te werken.
+
+
+SECTIE OVER HET EINDRESULTAAT EEN FEEDBACK STAKEHOLDER

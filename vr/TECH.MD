@@ -5,6 +5,8 @@ Naast een native applicatie is het mogelijk om een Virtual Reality applicatie te
 
 Het doel van WebVR is om het voor zowel ontwikkelaars als gebruikers toegankelijker (drempelvrij) te maken om Virtual Reality te ervaren. Ongeacht de devices en input die ze tot hun beschikking hebben.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jzrqrji_2xk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## Implementation
 
 Na de aankoop van Oculus VR door Facebook begon Mozilla te werken aan een implementatie hiervan in Browsers. WebVR was geboren.

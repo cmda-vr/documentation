@@ -14,8 +14,8 @@
 
 ## 3. Research
 * [Design Challenge](research/DESIGN-CHALLENGE.md)
-* [Stakeholders](research/STAKEHOLDERS.md)
 * [Focus Group](research/FOCUS-GROUP.md)
+* [Stakeholders](research/STAKEHOLDERS.md)
 * [Requirements List](research/REQUIREMENTS-LIST.md)
 * [Idee Ontwikkeling](research/CONCEPTS.md)
 

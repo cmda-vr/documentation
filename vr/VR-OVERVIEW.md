@@ -7,7 +7,10 @@ Zonder te diep in te gaan op neurowetenschappen; wij als mens hebben zogeheten *
 
 Rond 1980 ontstonden verschillende termen en techniekenn die een *'virtuele realiteit'* moesten nabootsen. Researchers gebruiken vaak de term *'virtual environments*', anderen gaan zelfs zo ver om het *'teleportatie'* te noemen. Vandaag de dag kennen we deze verzameling van technieken als *'Virtual Reality'* (kortweg VR). 
 
-Deze techniek bestaat dus al geruime tijd maar toen Palmer Lucky in 2012 de Oculus Rift aankondigde kreeg de hele sector weet een grote boost. Hierdoor werd het in een klap redelijk toegankelijk voor een gemiddelde consument om VR te ervaren. Dit omslagpunt tot nnu word vaak 'modern era VR' genoemd. Ontwikkelingen in het vakgebied zijn de laatste jaren weer razendsnel gegaan. Doordat meer mensen toegang hebben tot de technologie zijn de dingen die ze ermee doen steeds uiteenlopender geworden
+Deze techniek bestaat dus al geruime tijd maar toen [Palmer Luckey](https://en.wikipedia.org/wiki/Palmer_Luckey) in 2012 de [Oculus Rift](https://www.oculus.com/) aankondigde kreeg de hele sector weer een grote boost. Hierdoor werd het in een klap redelijk toegankelijk voor een gemiddelde consument om VR te ervaren. Dit omslagpunt tot nu word vaak 'modern era VR' genoemd. Ontwikkelingen in het vakgebied zijn de laatste jaren weer razendsnel gegaan. Doordat meer mensen toegang hebben tot de technologie zijn de dingen die ze ermee doen steeds uiteenlopender geworden
+
+![Palmer Lucky Oculus](https://s3.amazonaws.com/levelcamp-www/assets/editorial/2016/10/Palmer-luckey-02.jpg)
+> Palmer Luckey met de eerste development kit van de Oculus Rift.
 
 ## Verwante technieken
 Naast Virtual Reality leven nog een aantal andere verwante technieken die in hun kern op elkaar lijken maar substantieel verschillen ten opzichte van VR.
@@ -16,4 +19,4 @@ Naast Virtual Reality leven nog een aantal andere verwante technieken die in hun
 * **Augmented Reality (AR)** gebruikt vaak beeld van de huidige omgeving en voegt daar virtuele element aan toe.
 * **Mixed Reality (MR)** wordt vaak gezien als een vermeningen van bovenstaande technieken. De virtuele en schijnbare wereld worden samengevoegd.
 
-De term Mixed Reality wordt vaak gebruik als een catch-all. Een paraplu waaronder alle verschillende technieken onderhangen. Waaronder dus ook onze huidige realiteit.
+Daarnaast worden er ook vaak 'catch-all' woorden gebruikt. Termen als 'Immersive Web' of 'WebXR' zijn niet ongebruikelijk. Ik zie deze vaak als een paraplu waar verschillende technieken onderhangen. Vaak kun je deze tot de kern terugbrengen naar de drie bovenstaande genoemde technieken.
