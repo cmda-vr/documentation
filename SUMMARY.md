@@ -6,9 +6,9 @@
 * [Inleiding](introduction/INTRODUCTION.md)
 
 ## 2. Virtual Reality
-* [Overview](research/VR-OVERVIEW.md)
-* [Design](research/VR-DESIGN.md)
-* [Hardware](research/HARDWARE.md)
+* [Overview](vr/VR-OVERVIEW.md)
+* [Design](vr/VR-DESIGN.md)
+* [Hardware](vr/HARDWARE.md)
 
 ## 3. WebVR
 * [Definitie](webvr/OVERVIEW.md)
@@ -16,11 +16,9 @@
 * [Implementaties](webvr/IMPLEMENTATION.md)
 
 ## 4. Research
-* [Focus Group]()
-* [Stakeholders]()
-* [Werkwijze]()
-* [Product]()
-* [User testing]()
+* [Focus Group](research/FOCUS-GROUP.md)
+* [Requirements List](research/REQUIREMENTS-LIST.md)
+* [Idee Ontwikkeling](research/CONCEPTS.md)
 
 --
 
