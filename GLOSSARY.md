@@ -17,6 +17,9 @@
 
 TODO *Op alfabetische volgorde zetten*
 
+## Recruitment
+Het werven, screenen, testen en selecteren van geschikte kandidaten voor een bepaalde functie in een organisatie. Dit hele traject noemt men vaak het 'recruitment process'. 
+
 ## WebVR
 De specificatie die het als web developer mogelijk maakt om een VR ervaring in een Web Browser te maken. Het doel is om het voor iedereen (zowel ontwikkelaars als gebruikers) toegankelijker te maken om VR te ervaren.
 
