@@ -17,10 +17,18 @@
 * [Focus Group](research/FOCUS-GROUP.md)
 * [Stakeholders](research/STAKEHOLDERS.md)
 * [Requirements List](research/REQUIREMENTS-LIST.md)
-* [Idee Ontwikkeling](research/CONCEPTS.md)
 
-## 4. Prototypes
-* [Werkwijze]()
+## 4. Concepting
+* [Afbakening](concepting/FOCUS.md)
+* [Idee Ontwikkeling](concepting/CONCEPTS.md)
+
+## 5. Prototyping
+* [Werkwijze](prototyping/WORKING.md)
+
+## 6. Afsluiting
+* [Conclusie](reflection/CONCLUSION.md)
+* [Reflectie](reflection/REFLECTION.md)
+* [Reflectie](reflection/REFLECTION.md)
 
 --
 
