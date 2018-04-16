@@ -28,7 +28,7 @@
 ## 6. Afsluiting
 * [Conclusie](reflection/CONCLUSION.md)
 * [Reflectie](reflection/REFLECTION.md)
-* [Reflectie](reflection/REFLECTION.md)
+* [Visie](reflection/VISION.md)
 
 --
 
