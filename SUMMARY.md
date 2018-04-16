@@ -17,6 +17,7 @@
 * [Focus Group](research/FOCUS-GROUP.md)
 * [Stakeholders](research/STAKEHOLDERS.md)
 * [Requirements List](research/REQUIREMENTS-LIST.md)
+* [Scenario](research/SCENARIO.md)
 
 ## 4. Concepting
 * [Afbakening](concepting/FOCUS.md)
@@ -24,6 +25,7 @@
 
 ## 5. Prototyping
 * [Werkwijze](prototyping/WORKING.md)
+* [Patterns](prototyping/PATTERNS.md)
 
 ## 6. Afsluiting
 * [Conclusie](reflection/CONCLUSION.md)
