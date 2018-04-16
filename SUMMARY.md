@@ -14,10 +14,10 @@
 
 ## 3. Research
 * [Design Challenge](research/DESIGN-CHALLENGE.md)
+* [Scenario](research/SCENARIO.md)
 * [Focus Group](research/FOCUS-GROUP.md)
 * [Stakeholders](research/STAKEHOLDERS.md)
 * [Requirements List](research/REQUIREMENTS-LIST.md)
-* [Scenario](research/SCENARIO.md)
 
 ## 4. Concepting
 * [Afbakening](concepting/FOCUS.md)

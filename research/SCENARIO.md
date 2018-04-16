@@ -1,5 +1,3 @@
 # Scenario
 
-## Huidige situatie
-
-## Toekomstige scenario
+![Scenario Recruitment Process](/resources/scenario.jpg)
