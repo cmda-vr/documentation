@@ -35,6 +35,7 @@
 --
 
 ## Deliverables
+* [Feedback Frenzy](/deliverables/FEEDBACK.md)
 * [Deliverables](/deliverables/DELIVERABLES.md)
 * [Roadmap](/deliverables/ROADMAP.md) 
 
