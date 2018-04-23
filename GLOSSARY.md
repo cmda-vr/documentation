@@ -7,6 +7,7 @@
 * API = Application Programminng Interface
 * FOV = Field of View
 * POV = Point of View
+* CAVE = Cave automatic virtual environment
 
 # Begripsbepaling
 * Ontwikkelaar; specifiek om web ontwikkelaars / developers.
@@ -19,6 +20,9 @@ TODO *Op alfabetische volgorde zetten*
 
 ## Recruitment
 Het werven, screenen, testen en selecteren van geschikte kandidaten voor een bepaalde functie in een organisatie. Dit hele traject noemt men vaak het 'recruitment process'. 
+
+## CAVE
+Een omgeving waar projectoren worden gericht op drie tot zes muren vann een kubus in een ruimte. Eigenlijk een groot video theater in een ruimte. In sommige gevallen is het mogelijk om doormiddel van motion tracking jezelf te verplaatsen in deze ruimte.
 
 ## WebVR
 De specificatie die het als web developer mogelijk maakt om een VR ervaring in een Web Browser te maken. Het doel is om het voor iedereen (zowel ontwikkelaars als gebruikers) toegankelijker te maken om VR te ervaren.
