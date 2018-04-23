@@ -35,6 +35,7 @@
 
 ### Overige informatie
 * Deze documentatie is te [downloaden](/misc/DOWNLOAD.md) in .pdf formaat.
-* Informatie over [eigendom](/misc/LICENSING.md) van het project en de documentatie.
-* [Woordenlijst](/misc/LITERATURE.md) en Begripsbepaling.
-*  Gebruikte [literatuur](/misc/LITERATURE.md) en onderzoek.
+* Deze documentatie is geschreven in [Markdown](https://daringfireball.net/projects/markdown/), wordt gehost door [GitBook](https://www.gitbook.com/) en staat op [GitHub](https://github.com/cmda-vr/documentation).
+* Informatie over [eigendom](/misc/LICENSING.md) van het project is opgenomen in de documentatie.
+*  Gebruikte bronnen en onderzoek zijn opgenomen in de [literatuurlijst](/misc/LITERATURE.md).
+* Specifieke woorden en termen worden gehighight en zijn opgenomen in de [woordenlijst](/GLOSSART.md).
