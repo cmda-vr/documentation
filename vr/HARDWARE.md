@@ -1,4 +1,4 @@
-## Hardware
+## Hardware voor Virtual Reality
 Consumer grade VR hardware is nog maar relatief kort op de markt. Elk biedt een ander type ervaring met verschillende prijsniveaus.
 
 Een gemiddelde VR ervaring heeft over het algemeen vier componenten;

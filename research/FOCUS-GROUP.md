@@ -7,13 +7,6 @@ Na een eerste wervingsronde, kaf van het koren scheiden, nodigen ze kandidaten u
 
 Tijdens deze selectieprocedure vertellen ze over de algemene visie van het bedrijf maar veel interessanter is het feit dat ze de kandidaten ook een aantal cases laten uitvoeren. Terwijl de kandidaten werken aan verschillende cases en puzzels zijn er mensen van &Samhoud bij die ze observeren om zo verschillende eigenschappen van een persoon te meten. Wat is de snelheid waarmee iemand de case oplost, is er een persoon die in een groep de leiding neemt en hoe creatief is de oplossing? Dat alles om een goed beeld te krijgen of iemand geschikt is voor het consultancyschap.
 
-## Hardware
-Omdat de focus ligt op groepsverband (samen met veel mensen tegelijk) de applicatie gebruiken hebbenn we gekozen om voornamelijk met low-cost componenten te werken.
-
-Ook na de selectieprocedure op locatie willen we de cardboard gaan gebruiken voor een terugkoppeling, de kandidaten kunnen na afloop de drop-in viewer gemakkelijk meenemen.
-
-Aangezien we voornamelijk toetsen op communicatieve vaardigheden nemen we het feit dat low cost componenten geen controllers hebben voor input op de koop toe.
-
 ## Persona
 * Beroep: Junior Consultant
 * Leeftijd:

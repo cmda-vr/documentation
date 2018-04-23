@@ -24,7 +24,7 @@ In een repository bestaat de mogelijkheid om een *license* (licentie) toe te voe
 
 Je zou MIT kunnen zien als een *Creative Commons licentie* maar dan specifiek voor software applicaties. Meer informatie over de verschillende licenties: 
 
-https://choosealicense.com/  
-https://help.github.com/articles/licensing-a-repository/  
-https://opensource.org/  
-https://creativecommons.org/
+* https://choosealicense.com/  
+* https://help.github.com/articles/licensing-a-repository/  
+* https://opensource.org/  
+* https://creativecommons.org/

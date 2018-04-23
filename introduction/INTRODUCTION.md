@@ -1,3 +1,5 @@
+# Inleiding
+
 > Kan een WebVR toepassing tijdens de interne selectiedag van &Samhoud de huidige cases interactiever maken zodat de competenties van junior consultants beter te meten zijn?
 
 De consultancy tak van &Samhoud zoekt constant manieren om nieuwe technieken in te zetten tijdens het uitvoeren van hun consultancy taken. Vooral tijdens de interne recruitment van nieuwe junior consultants zien ze veel mogelijkheden om op een meer interactieve en digitale manier het sollicatieproces te gaan voeren.

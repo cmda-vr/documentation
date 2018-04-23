@@ -25,8 +25,12 @@ Vanwege de overvloed van hardware hebben we hierin ook bepaalde componenten niet
 * Makkelijk om meerdere aan te schaffen voor gebruik in groepsverband
 * Portabiliteit, na afloop kunnen kandidaten deze meenemen
 
+Ook na de selectieprocedure op locatie willen we de cardboard gaan gebruiken voor een terugkoppeling, de kandidaten kunnen na afloop de drop-in viewer gemakkelijk meenemen. Aangezien we voornamelijk toetsen op communicatieve vaardigheden nemen we het feit dat low cost componenten geen controllers hebben voor input op de koop toe.
+
+
 ## Keuze WebVR
 De voordelen van WebVR staan iets meer in-depth beschreven in de [context](/vr/WEBVR.md) sectie. De grootste voordelen zijn; 
+
 * Korte opstart: er hoeft geen aparte applicatie geinstalleerd te worden. Het opstarten van een ervaring kan dus simpelweg om naar een link te gaan in de browser.
 * Cross-platform compabiliteit: je zit niet verbonden aan specifieke hardware of bestaande platformen.
 * Als developer kan ik gebruik maken van de bestaande kennis en infastructuur die het web te bieden heeft.
