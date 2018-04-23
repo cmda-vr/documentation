@@ -2,6 +2,8 @@
 
 ## Feedback Frenzy
 
+> De feedback frenzy is een feedback moment waarin je je werk exposeert en feedback krijgt van alle medestudenten en begeleiders bij wie je normaal gesproken in het lokaal zit.
+
 **Harold**:
 * Het grote waarom leg je niet uit? Waarom een *digitale* oplossing? Wat is de meerwaarde hiervan?
 * Kan uit je poster niet opmaken wat je onderzocht hebt en waarom.
@@ -38,7 +40,36 @@
 * Waarom is het een probleem? Is dit echt nodig of een extra?
 * Wat zijn de eisen van alle partijen? Waar moet je product aan voldoen?
 
+## Coaching
+> Feedback vergaard tijdens de wekelijke coachinsessie met m'n begeleider Sjef Smeets.
+
+* Over de meerwaarde van VR; "Beter te meten" omdat er vanwege de interactie (en de mogelijkheid data automatisch op te slaan) meer en andere gegevens beschikbaar komen.
+* Hardware beperk je tot de HMD, opmerking maken over CAVE voor compleetheid.
+* Hoe kan je tijdens een sessie bij de kandidaten meten dat ze geen motion sickness ervaren?
+* Moet je als observant kunnen meekijken op een ander scherm en wat moet er op dat scherm precies getoond gaan worden?
+
+## Documentatie
+> Gerichte feedback op de geschreven documentatie van Sjef Smeets & Harold Konickx.
+
+* Wat is de toekomstvisie van de WebVR techniek? Kan je onderzoeken welke techniek elke browsers vendor gaat ondersteunen en met welke ontwikkelingen ze zich bezig houden?
+* Dek de situatie af hoe mensen zonder head-mounted display de toepassing ervaren. Is dit VR te noemen?
+* VR is voornamelijk een fysieke (lichamelijke) ervaring. Probeer ook vast te leggen wat er buiten de virtuele omgeving gaat gebeuren.
+* Wat zijn de conventies van verschillende platformen? Probeer vooraf de context van het huidige VR landschap te schetsen.
+* Een woordenlijst is meestal op alfabetische volgorde.
+* 
+
+## Docenten
+> Gedurende m'n afstudeerperiode heb ik met meerdere docenten gepraat over m'n afstudeerproject.
+
+### Walter
+* Als het lastig tot onmogelijk is om met de stakeholder te regelen dat je bij de daadwerkelijke doelgroep kan testen spreek dan met junior consultants die bij een vorige selectiedag zijn geweest en met aankomende kandidaten (studenten).
+* Conclusie van het project kan natuurlijk ook zijn dat het geen goed idee om VR tijdens recruitment inn te zetten.
+* Over het technisch uitwerken; Walter gelooft wel dat je kan coden maar zou als coach meer interesse hebben in de onderbouwing van het prototype.
+* Als een stakeholder geen keuze maakt moet je soms zelf de knoop doorhakken, al is het maar voor je eigen project.
+
 ## Tips & Tricks
+> Eventuele tips and tricks die ter spraken komen tijdens de wekelijkse feedbacksessie.
+
 * Hoe realistisch ga je objecten in de VR omgeving maken?
 * Baken af welke devices en hardware je gaat gebruiken
 * Hoe ga je prototypen en testen? VR is vooral een fysieke en interactieve ervaring dus filmen is altijd een goed punt.
