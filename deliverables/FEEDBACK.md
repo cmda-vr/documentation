@@ -74,3 +74,4 @@
 * Baken af welke devices en hardware je gaat gebruiken
 * Hoe ga je prototypen en testen? VR is vooral een fysieke en interactieve ervaring dus filmen is altijd een goed punt.
 * Maak de puzzels aan de hand van wat de recruiters willen meten.
+* Per puzzel duidelijk naar voren laten komen wat er precies gemeten gaat worden, welke resultaat de interviewer uit het observeren van de puzzel haalt.
