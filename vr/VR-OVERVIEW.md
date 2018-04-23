@@ -20,3 +20,5 @@ Naast Virtual Reality leven nog een aantal andere verwante technieken die in hun
 * **Mixed Reality (MR)** wordt vaak gezien als een vermeningen van bovenstaande technieken. De virtuele en schijnbare wereld worden samengevoegd.
 
 Daarnaast worden er ook vaak 'catch-all' woorden gebruikt. Termen als 'Immersive Web' of 'WebXR' zijn niet ongebruikelijk. Ik zie deze vaak als een paraplu waar verschillende technieken onderhangen. Vaak kun je deze tot de kern terugbrengen naar de drie bovenstaande genoemde technieken.
+
+Wanneer een toepassing de noemer 'Virtual Reality' mag dragen is een wat grijs gebied. Voor mij ligt die grens bij het gebruik van een head-mounted display. Zogeheten CAVE systemen of de fallback waarin een gebruiker door de virtuele omgeving navigeert met muis en toetsenbord zijn voor mij geen VR toepassingen.
