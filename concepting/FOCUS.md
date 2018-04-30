@@ -7,15 +7,15 @@ Naar aanleiding van het gedane onderzoek naar de focus group en meerdere gesprek
 ## Meerwaarde VR
 Een Virtual Reality toepassing vergroot over het algemeen de **User engagement** doordat de puzzels een stuk interactiever en visueler zijn gaan mensen eerder op in de ervaring.
 
-Door het toepassen van de digitale middelen de competenties een stuk beter meetbaar, er is zo een grotere hoeveelheid data beschikbaar die een observant kan innzien.
+Door het toepassen van de digitale middelen de competenties een stuk beter meetbaar, er is zo een grotere hoeveelheid data beschikbaar die een observant kan inzien.
 
 * Vergroot User engagement
 * Competenties zijn beter meetbaar
 * Meer meetbare data beschikbaar
 
-Daarnaast is een credo van &Samhoud 'usual unusual' ze proberen altijd net even anders te zien dan de rest. Eenn VR toepassing tijdens een sollicitatie past dus erg bij deze visie. 
+Daarnaast is een credo van &Samhoud 'usual unusual' ze proberen altijd net even anders te zien dan de rest. Een VR toepassing tijdens een sollicitatie past dus erg bij deze visie. Het past bij de strategie om altijd te innoveren in recruitment.
 
-Tijdens zo'n selectiedag willen ze ook een bepaalde impressie / indruk achterlaten bij de kandidaten over de bedrijfsvoering van de consultancy tak.
+Tijdens zo'n selectiedag willen ze ook een bepaalde impressie / indruk achterlaten bij de kandidaten over de bedrijfsvoering van de consultancy tak. Kandidaten worden met een interactieve toepassing op een positieve manier verrast en maken kennis met de mogelijkheden van andere business lines binnen de &Samhoud group.
 
 ## Low-cost hardware
 Vanwege de overvloed van hardware hebben we hierin ook bepaalde componenten niet meegenomen. We kiezen ervoor om de toepassing te optimaliseren voor low-cost components. Specifiek dus de zogeheten drop-in viewers (google cardboards) waarbij je de smartphone gebruikt als head-mounted display.
@@ -27,10 +27,14 @@ Vanwege de overvloed van hardware hebben we hierin ook bepaalde componenten niet
 
 Ook na de selectieprocedure op locatie willen we de cardboard gaan gebruiken voor een terugkoppeling, de kandidaten kunnen na afloop de drop-in viewer gemakkelijk meenemen. Aangezien we voornamelijk toetsen op communicatieve vaardigheden nemen we het feit dat low cost componenten geen controllers hebben voor input op de koop toe.
 
-
 ## Keuze WebVR
 De voordelen van WebVR staan iets meer in-depth beschreven in de [context](/vr/WEBVR.md) sectie. De grootste voordelen zijn; 
 
 * Korte opstart: er hoeft geen aparte applicatie geinstalleerd te worden. Het opstarten van een ervaring kan dus simpelweg om naar een link te gaan in de browser.
 * Cross-platform compabiliteit: je zit niet verbonden aan specifieke hardware of bestaande platformen.
 * Als developer kan ik gebruik maken van de bestaande kennis en infastructuur die het web te bieden heeft.
+
+## Ethiek
+Het recruitment process is vaak een gevoelige tak van sport, je kunt vraagtekens zetten bij het toepassen van een VR ervaring in deze context. &Samhoud vind dit etisch verantwoord; kandidaten zijn digitale ervaringen vaak als een positieve verassing en het interessant om te zien wat de mogelijkheden zijn binnen het vakgebied.
+
+Uiteindelijk zal de beslissing van een selectie altijd door een medewerker (persoon) genomen worden. Het gaat natuurlijk ook om de impressie gedurende de hele dag, niet alleen de virtuele case.
