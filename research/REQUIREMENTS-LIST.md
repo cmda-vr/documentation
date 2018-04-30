@@ -18,6 +18,7 @@ Op een schaal van drie hebben we elke eis prioriteit gegeven.
 | Vereiste | Prioriteit|
 |-|-|
 | Tijdens gebruik van de applicatie moet de opdrachtgever kunnen meekijken op het scherm  | 3 |
+| De opdrachtgever moet de VR toepassingen op een centrale plek kunnen opstarten | 3 |
 | Na de sessie moeten de resultaten van de meting inzichtelijk worden gemaakt (bijvoorbeeld een timing) | 2 |
 
 ## Kandidaat
