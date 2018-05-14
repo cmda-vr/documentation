@@ -1,17 +1,29 @@
-# Idee Ontwikkeling
-Deze cases die ze uitvoeren gebeuren vaak in groepsverband.
+# Idee ontwikkeling
 
-## Blind Eye
-Niet alle kandidaten hebben een cardboard op maar alleen een persoon. De andere kandidaten moeten doormiddel van aanwijzingen de andere persoon leiden door de puzzel.
+Na inzage te hebben gehad in de cases die tijdens de selectiedag worden uitgevoerd gingen we aan de haal met het uitwerken van een aantal eerste ideeën. Hoe kunnen we deze cases vertalen naar een digitale toepassing?
 
-## Networked
-Om de communicatie vaardigheden testen voeren de kandidaten in groepsverband een puzzel op. Ze hebben elkaar nodig om alle puzzelstukjes te verbinden met elkaar.
+Het was vooral van belang om goed te kijken naar de competenties die tijdens de selectiedag vooral worden gemeten.
 
-Voorbeeld:
-In een grote zaal wordt er een code op het scherm gezet. Elk groepje van 4 krijgt een cardboard met aanwijzingen om deze code te vinden in de virtuele omgeving. 
+## Cases
 
-## Resultaat
-Na afloop kunnen ze de cardboard meenemen en worden de resultaten van de selectie terugkoppeld, wederom in een VR applicatie. 
+### Inviduele case
+Tijdens de individuele case krijgen de kandidaten een aantal zakelijke stukken te zien (excel sheets, analytics) en moeten vervolgens pitchen wat een eventuele aanpak zou zijn om deze data te verbeteren. De invdividuele case is vrij gefocust op data analyse en klantgerichtheid, het is moeilijk om deze te vertalen naar een digitale toepassing.
 
-Voorbeeld:
-Na afloop sturen we ze een nieuwe link via de mail met een persoonlijke boodschap in de vorm van een 360 video. Hierin koppelen we terug of ze door de selectie heen zijn of niet.
+*Klantgerichtheid en projectmanagement zijn competenties die voornamelijk bij de inviduele case worden gemeten.*
+
+### Groepscase
+We kwamen er al snel achter dat de groepscase het meest interessant was. De huidige groepscase heeft de vorm van een puzzel. Omdat dit al enige mate van gamification heeft heb je wat meer interactiviteit om mee te werken.
+
+*Communicatie, analytisch & samenwerken zijn competenties die vooral in groepsverband naar voren komen.* 
+
+## Inspiratie
+
+### Games
+
+In eerste instantie hebben we vooral gekeken naar puzzle games die op bestaande platformen draaien. [I expect you to die](https://iexpectyoutodie.schellgames.com/), [Keep talking and Nobody Explodes](http://www.keeptalkinggame.com/) en [Statik](http://statik.institute/) zijn practhige voorbeelden binnen dit genre.
+
+### Spelshows
+Het mooie aan [Wie is de Mol](https://wieisdemol.avrotros.nl/home/) is dat veel van de opdrachten in groepsverband worden uitgevoerd. Veel communicatie verloopt over een portofoon en vaak hebben ze informatie van elkaar nodig om tot een oplossing.
+
+## Escape Room
+Na nog wat brainstormen zijn we uiteindelijk op het idee gekomen om een Escape Room na te bootsen die elementen communicatieve elementen leent van Wie is de Mol en het analytische game aspect (patronen) uit de game wereld.
