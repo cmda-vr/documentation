@@ -1,28 +1,28 @@
 ## Hardware voor Virtual Reality
 Consumer grade VR hardware is nog maar relatief kort op de markt. Elk biedt een ander type ervaring met verschillende prijsniveaus.
 
-Een gemiddelde VR ervaring heeft over het algemeen vier componenten;
+Een gemiddelde VR hardware kit heeft over het algemeen vier componenten;
 
 * **Stereoscopic displays;** Head-mounted display (HMD), een beeldscherm dat op het hoofd gedragen wordt. Vaak in de vorm van een helm.
-* **Motion tracking;** Component dat meet of we ons hoofd of lichaam meten. Vaak een combinatie van sensoren in de bril en een externe camera.
-* **Input devices;** Een controller, vaak gebasseerd op een game controller.
+* **Motion tracking;** Component dat meet of we ons hoofd of lichaam bewegen. Vaak een combinatie van sensoren in de bril en externe camera's.
+* **Input devices;** Een controller, vaak gebasseerd op een game controller. Ook wel motion controllers genoemd.
 * **Deskop of Mobiel platform;** Rekenkracht die de applicatie (software) kan uitvoeren.
 
 **Head-mounted display:**  
 Het hoofdingredient van VR, een beeldscherm dat elke seconde 60 frames genereerd aan afbeeldingen. Voor elk oog één afzonderlijk scherm die net iets van elkaar afstaan om de natuurlijke positie van onze ogen na te bootsen.
 
 **Motion Tracking Hardware:**  
-Meet de beweging van ons hoofd met een *'intertial measurement unit' (IMU)*. Vaak een combinatie van verschillende meetapparaten die ook in veel van onze telefoons te vinden zijn. (accelerometer, gyroscope)
+Meet de beweging van ons hoofd met een *'inertial measurement unit' (IMU)*. Vaak een combinatie van verschillende meetapparaten die ook in veel van onze telefoons te vinden zijn. (accelerometer, gyroscope)
 
 **Input devices:**  
 Omdat de beeldschermen onze ogen bedekken is het niet gemakkelijk om een muis of toetsenbord als input te gebruiken. Vaak hebben verschillende merken hun eigen game controllers.
 
 **Computing platforms:**  
-Al deze randapparatuur sluiten we vaak aan op hardware (computers, smartphones) die een Virtual Reality applicatie draait.
+Al deze randapparatuur sluiten we vaak aan op hardware (computers, smartphones) die de software applicatie draait.
 
 ## Scene
-Elke VR scene heeft een *'point of view' (POV)*; het punt van waar de gebruiker de omgeving bekijkt. 3D systemen gebruiken over het algemeen hiervoor een camera, een object dat bepaald waar in de scene een gebruiker is gepositioneerd.
-s
+Elke VR scene heeft een *'point of view' (POV)*; het punt van waar de gebruiker de omgeving bekijkt. 3D systemen gebruiken over het algemeen hiervoor een virtuele camera, een object dat bepaald waar in de scene een gebruiker is gepositioneerd.
+
 In VR moeten we het renderen van de POV dubbel doen, voor elk oog.
 * Bepalen positie van de hoofdcamera in de scene.
 * Vanaf deze hoofdcamera twee cameras renderen die iets van elkaar afstaan. (Linkeroog en rechteroog)
@@ -30,7 +30,7 @@ In VR moeten we het renderen van de POV dubbel doen, voor elk oog.
 
 # Low-cost Virtual Reality
 
-Het kopen van hardware en componenten, waar in het vorige hoofdstuk over gesproken is, is een vrij grote drempel om overheen te stappen. Met de komst van de *'Cardboard'* is er een hele nieuwe beweging van VR ervaringen ontstaan. 
+Het kopen van hardware en componenten is voor veel consumenten een vrij grote drempel om overheen te stappen. Met de komst van de *'Cardboard'* is er een hele nieuwe beweging van VR ervaringen ontstaan. 
 
 Cardboard refereert naar de techniek waarbij je een bestaande smartphone omzet in een *'VR box'*. De smartphone stop je in een *'drop-in viewer'* waardoor er een head-mounted display ontstaat.
 
