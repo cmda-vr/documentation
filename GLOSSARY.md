@@ -68,3 +68,6 @@ Een Native-app wordt specifiek ontwikkeld voor een platform (Android, iOS, Windo
 
 ## Web Applicatie
 Een web-app is een web applicatie, deze aplicatie is te vinden door een URL in te voeren in een webbrowser. Een Web-app wordt in principe niet aangeboden in een App-store.
+
+## Drop-in viewer
+Een low-cost bril met lenzen waar een smartphone ingezet kan worden om zo een head-mounted display te maken. De bekendste vorm hiervan is de Google Cardboard.
