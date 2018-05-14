@@ -25,7 +25,8 @@
 
 ## 5. Prototyping
 * [Werkwijze](prototyping/WORKING.md)
-* [Patterns](prototyping/PATTERNS.md)
+* [(show)case](prototyping/SHOWCASE.md)
+* [360-video](prototyping/video.md)
 
 ## 6. Afsluiting
 * [Conclusie](reflection/CONCLUSION.md)

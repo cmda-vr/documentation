@@ -25,5 +25,8 @@ In eerste instantie hebben we vooral gekeken naar puzzle games die op bestaande 
 ### Spelshows
 Het mooie aan [Wie is de Mol](https://wieisdemol.avrotros.nl/home/) is dat veel van de opdrachten in groepsverband worden uitgevoerd. Veel communicatie verloopt over een portofoon en vaak hebben ze informatie van elkaar nodig om tot een oplossing.
 
-## Escape Room
+## Concept
 Na nog wat brainstormen zijn we uiteindelijk op het idee gekomen om een Escape Room na te bootsen die elementen communicatieve elementen leent van Wie is de Mol en het analytische game aspect (patronen) uit de game wereld.
+
+### Terugkoppeling
+Na afloop van de selectiedag nemen de kandidaten de drop-in viewers mee en zouden we deze op een bepaalde manier opnnieuw kunnen gebruiken. Bijvoorbeeld een puzzel die ze thuis kunnen spelen of een persoonnlijke video.
