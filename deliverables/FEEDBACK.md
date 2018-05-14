@@ -56,16 +56,24 @@
 * VR is voornamelijk een fysieke (lichamelijke) ervaring. Probeer ook vast te leggen wat er buiten de virtuele omgeving gaat gebeuren.
 * Wat zijn de conventies van verschillende platformen? Probeer vooraf de context van het huidige VR landschap te schetsen.
 * Een woordenlijst is meestal op alfabetische volgorde.
-* 
+
 
 ## Docenten
-> Gedurende m'n afstudeerperiode heb ik met meerdere docenten gepraat over m'n afstudeerproject.
+> Gedurende m'n afstudeerperiode heb ik met meerdere docenten gepraat over m'n afstudeerproject. 
 
 ### Walter
 * Als het lastig tot onmogelijk is om met de stakeholder te regelen dat je bij de daadwerkelijke doelgroep kan testen spreek dan met junior consultants die bij een vorige selectiedag zijn geweest en met aankomende kandidaten (studenten).
 * Conclusie van het project kan natuurlijk ook zijn dat het geen goed idee om VR tijdens recruitment inn te zetten.
 * Over het technisch uitwerken; Walter gelooft wel dat je kan coden maar zou als coach meer interesse hebben in de onderbouwing van het prototype.
 * Als een stakeholder geen keuze maakt moet je soms zelf de knoop doorhakken, al is het maar voor je eigen project.
+
+### Vasilis
+Kijk of je tussen de groenlichtpresentatie en eindoplevering nog zaken kan enhancen. Desnoods iets waar je zelf nog onderzoek naar wilt doen en laat aan je stakeholder wat eventueel nog alternatieven kunnen zijn op het project wat je gemaakt hebt.
+
+### Anne Marleen
+Tijdens het afstudeerproject kom je er juist achter waar je wel of niet de focus op wilt leggen. Maak dus vooral in de laatste periode keuzes waar je jezelf nog echt in wilt ontwikkelen.
+
+
 
 ## Tips & Tricks
 > Eventuele tips and tricks die ter spraken komen tijdens de wekelijkse feedbacksessie.
