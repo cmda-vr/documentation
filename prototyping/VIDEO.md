@@ -1,11 +1,11 @@
 # 360-video
 
-De drop-in viewers die tijdens de junior carrousel gebruikt worden nemen de kandidaten na afloop mee. Via een link krijgen ze na afloop een 360-video met een persoonlijke boodschap van Salem Samhoud, oprichter van de &samhoud groep.
+De drop-in viewers die tijdens de junior caroussel gebruikt worden nemen de kandidaten na afloop mee. Via een link krijgen ze na afloop een 360-video met een persoonlijke boodschap van Salem Samhoud, oprichter van de &samhoud groep.
 
 > Wegens de informatie die tijdens de video's ter sprake komt is het niet mogelijk om de video's (en het prototype) publiekelijk in deze documentatie op te nemen.
 
 ### Bedank
-Deze 360-video is voor alle deelnemers van de carrousel, op sommige dagen sluit Salem zelf de dag af met een presentatie maar dat is niet altijd mogelijk. Een 360-video is een unieke manier om alsnog iets persoonlijks mee te nemen. In deze video bedankt Salem de kandidaten voor hun deelname en geeft ze nog een aantal levenslessen mee.
+Deze 360-video is voor alle deelnemers van de caroussel, op sommige dagen sluit Salem zelf de dag af met een presentatie maar dat is niet altijd mogelijk. Een 360-video is een unieke manier om alsnog iets persoonlijks mee te nemen. In deze video bedankt Salem de kandidaten voor hun deelname en geeft ze nog een aantal levenslessen mee.
 
 ### Uitnodiging
 Nadat de kandidaten telefonisch te horen hebben gekregen of ze door zijn naar het vervolggesprek krijgen ze in de vorm van een 360-video een persoonlijke uitnodiging van Salem. In deze video nodigt Salem ze uit voor het gesprek en geeft ze een opdracht mee.

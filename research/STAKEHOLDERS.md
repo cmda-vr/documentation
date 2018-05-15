@@ -18,4 +18,4 @@ Voor dit project zinn er grofweg drie partijen die belang hebben bij deze toepas
 
 **&samhoud|media;** specifiek ik als individu die het onderzoek en de uitwerking op me neem. Deze partij is in deze context ook opdrachtnemer.
 
-**Kandidaten Junior Caroussel;** toekomstige consulstants. Dus specifiek ook alleen gebruikers die een uitnodiging hebben ontvangen voor de selectiedag.
+**Kandidaten Junior Caroussel;** toekomstige consultants. Dus specifiek ook alleen gebruikers die een uitnodiging hebben ontvangen voor de selectiedag.
