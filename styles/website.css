@@ -29,6 +29,10 @@
   line-height: 2;
 }
 
+.markdown-section strong {
+  color: #009EE0;
+}
+
 .markdown-section img {
   box-shadow: 0 20px 20px rgba(0,0,0,.08);
 }

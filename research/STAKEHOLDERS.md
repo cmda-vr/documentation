@@ -7,11 +7,8 @@ De grote opdrachtgever in dit verhaal is &samhoud consultancy. Het idee om de se
 &samhoud|consultancy en &samhoud|media zijn twee bedrijven binnen de overkoepelde &samhoud groep. Ze fungeren in principe los van elkaar maar het komt met regelmaat voor dat er samenwerkingen plaatsvinden. Meestal naar externe klanten toe maar tijden dit projfect dus vooral intern.
 
 ### Contactpersoon
-Binnen &samhoudmedia was mijn project onder supervisie van copywriter en concept developer [Tijmen van Rooijen](https://www.linkedin.com/in/tijmen-van-rooijen-923b4561/).
+Binnen &samhoudmedia was mijn project onder supervisie van copywriter en concept developer [Tijmen van Rooijen](https://www.linkedin.com/in/tijmen-van-rooijen-923b4561/). Als contactpersoon bij &samhoud consultancy sprak ik voornamelijk met [Sascha Vloet](https://www.linkedin.com/in/saschavloet/). Zij is corporate recruiter bij &samhoud en gaat dus grotendeels over het hele recruitement process.
 
-Als contactpersoon bij &samhoud consultancy sprak ik voornamelijk met [Sascha Vloet](https://www.linkedin.com/in/saschavloet/). Zij is corporate recruiter bij &samhoud en gaat dus grotendeels over het hele recruitement process.
-
-### Communicatie
 De kantoren van beide organisaties zitten respectievelijk in Utrecht en Amsterdam. Eens in de zoveel weken was het voor Sascha mogelijk om naar Amsterdam te komen voor een catch-up. Dat was een mooi moment om de voortgang te bespreken en eventuele obstakels weg te werken.
 
 ## Belanghebbende

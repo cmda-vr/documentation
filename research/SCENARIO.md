@@ -11,15 +11,15 @@ De focus van de toepassing ligt bij de selectiedag waar deze ingezet gaat worden
 ## Selectiedag
 Voor een selectiedag worden zo'n 25 kandidaten uitgenodigd, de kandidaten staan gedurende de dag eigenlijk constant met elkaar in contact. Een groot deel van de selectiedag is in groepsverband maar er zijn ook individuele momenten. Aan de hand van een rooster weten de kandidaten waar ze moeten zijn en wat de tijdsindeling van de dag is.
 
-### Ochtend
+**Ochtend**  
 De ochtend is voornamelijk informatief. Er is een algemene opening en er wordt in de vorm van een presentatie veel verteld over de bedrijfsvoering. Er is ruimte om vragen te stellen en elkaar voor te stellen .
 
 Na deze opening werken de kandidaten wat meer hands-on, na uitleg over de case werken ze deze in aparte groepen uit. De case is vaak in papieren vorm, ze krijgen een aantal stukken (grafieken, excel sheets, interview) en moeten op basis daarvan van een passende oplossing pitchen. De case lossen de kandidaten individueel op maar pitchen deze in groepsverband.
 
-### Middag
+**Middag**  
 Na een lunch (met collega's die al bij &samhoud werken) worden de kandidaten opgesplits in drie grote groepen. Afwisselend zullen de kandidaten een individueel gesprek voeren met een observant (medewerker) van &damhoud. Dit zou je kunnen vergelijken met een kort traditioneel solliciatiegesprek.
 
-### Avond
+**Avond**  
 Na afloop is er vaak een borrel, niet alleen met de kandidaten maar vaak ook met medewerkers van &samhoud erbij. 
 
 ## Resultaten
