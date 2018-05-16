@@ -1,4 +1,8 @@
-# Visie
+## Overdracht
+Doordat alle prototypes publiekelijk beschikbaar zijn is het gemakkelijk om verder te werken. Developers bij &samhoud zouden met enige technische kennis zelf aanpassingen kunnen maken. Elk project is goed gedocumenteerd, zonder actief bij het project betrokken te zijn geweest moet het voor iedere developer mogelijk zijn om eraan te werken. 
 
-1. Wat gaat er met het project gebeuren als ik klaar ben?
-2. Wat zijn zaken waar ik graag nog aan had willen werken? (tijd? / meer resources?)
+
+## Enhancement
+Vanwege de beschikbare tijd is er een limiet aan wat ik technisch kon uitwerken. Mocht de ruimte er voor zijn had ik graag het huidige prototype (vooral de escape room) nog verder willen enhancen. Door bijvoorbeeld eens te kijken of het prototype beter wordt als er geavanceerdere hardware gebruikt kon worden. De grootste limitatie (althans, dit is een bewuste keuze geweest) is de beperkte input van controllers. Hierdoor valt een hoop interactie weg. Vanuit technisch perspectief was het interessant geweest om te kijken hoe de huidige versies met die mogelijkheden enhanced kan worden.
+
+Verder is er nu bij de case één mogelijke uitkomst, vanuit technisch perspectief was het ook interessant geweest om te kijken of bepaalde hints bijvoorbeeld random genereerd hadden kunnen worden. Of in het gekste geval bijvoorbeeld met machine learning (Tensorflow) door objecten of avatars bepaalde interactie te geven.
