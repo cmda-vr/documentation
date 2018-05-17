@@ -4,7 +4,7 @@ De grote opdrachtgever in dit verhaal is &samhoud consultancy. Het idee om de se
 
 ![Stakeholder diagram](/resources/stakeholders.jpg)
 
-&samhoud|consultancy en &samhoud|media zijn twee bedrijven binnen de overkoepelde &samhoud groep. Ze fungeren in principe los van elkaar maar het komt met regelmaat voor dat er samenwerkingen plaatsvinden. Meestal naar externe klanten toe maar tijden dit projfect dus vooral intern.
+&samhoud|consultancy en &samhoud|media zijn twee bedrijven binnen de overkoepelende &samhoud groep. Ze fungeren in principe los van elkaar maar het komt met regelmaat voor dat er samenwerkingen plaatsvinden. Meestal naar externe klanten toe maar tijdens dit project dus vooral intern.
 
 ### Contactpersoon
 Binnen &samhoudmedia was mijn project onder supervisie van copywriter en concept developer [Tijmen van Rooijen](https://www.linkedin.com/in/tijmen-van-rooijen-923b4561/). Als contactpersoon bij &samhoud consultancy sprak ik voornamelijk met [Sascha Vloet](https://www.linkedin.com/in/saschavloet/). Zij is corporate recruiter bij &samhoud en gaat dus grotendeels over het hele recruitement process.
@@ -19,3 +19,5 @@ Voor dit project zinn er grofweg drie partijen die belang hebben bij deze toepas
 **&samhoud|media;** specifiek ik als individu die het onderzoek en de uitwerking op me neem. Deze partij is in deze context ook opdrachtnemer.
 
 **Kandidaten Junior Caroussel;** toekomstige consultants. Dus specifiek ook alleen gebruikers die een uitnodiging hebben ontvangen voor de selectiedag.
+
+Naast de wensen en eisen van deze externe partijen komen bepaalde keuzes ook voort uit richtlijnen van de Hogeschool van Amsterdam mede als onderwerpen waar ik me op wil focussen.

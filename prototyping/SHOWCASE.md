@@ -7,7 +7,7 @@ Om de kandidaten in groepsverband een puzzel te laten oplossen is er gekozen voo
 ### Flow
 Het scenario is relatief simpel. Tijdens de selectiedag betreden de kandidaten een ruimte zonder enige vorm van instructie. Voor hun ligt een houten kist met een cijferslot en een viertal drop-in viewers. Ze werken aan het gezamenlijke doel om de houten kist open te krijgen. 
 
-Zodra ze de head-mounted display opzetten begeven alle vier de kandidaten zich in een virtuele ruimte. Dit lijken in eerste instantie dezelfde kamers maar iedere kandidaat ziet net andere details. Denk bijvoorbeeld aan een boekenkast waar, bij elke kandidaat, een aantal andere kleur boeken inzitten. Deze subtiele verschillen zijn gelijk hints naar de code voor het cijferslot.
+Zodra ze de head-mounted display opzetten begeven alle vier de kandidaten zich in een virtuele ruimte. Dit lijken in eerste instantie dezelfde kamers maar iedere kandidaat ziet net andere details. Denk bijvoorbeeld aan een boekenkast waar, bij elke kandidaat, een aantal andere kleur boeken liggen. Deze subtiele verschillen zijn gelijk hints naar de code voor het cijferslot.
 
 > Je kijkt naar beneden en ziet dat jouw avatar rode schoenen heeft, bij een andere kandidaat staan er in  de boekenast vier rode boeken. Jouw persoonlijke cijfer is in dit geval 4.
 
