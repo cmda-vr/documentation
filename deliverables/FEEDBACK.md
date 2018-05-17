@@ -47,6 +47,11 @@
 * Hardware beperk je tot de HMD, opmerking maken over CAVE voor compleetheid.
 * Hoe kan je tijdens een sessie bij de kandidaten meten dat ze geen motion sickness ervaren?
 * Moet je als observant kunnen meekijken op een ander scherm en wat moet er op dat scherm precies getoond gaan worden?
+* Iets voor klanten maken binnen een bedrijf is ook research en ook een doelgroep. Een doelgroep binnen het bedrijf maar past zeker in het straatje.
+* Vanuit technisch perspectief veel leuker om te doen, dat onderzoekende en niet per se in een commercieel hoek (alhoewel commercieel?) het kan het bedrijf zelf wel voor meer klanten bezorgen.
+* Je kan er gedurende het project ook achter komen dat je moet shiften of iets voor een andere doelgroep kan zijn.
+* Volgers en leiders, meerdere leiders iemand late overnemen?
+
 
 ## Documentatie
 > Gerichte feedback op de geschreven documentatie van Sjef Smeets & Harold Konickx.
