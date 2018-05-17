@@ -2,13 +2,13 @@
 
 De consultancy tak van &samhoud zoekt constant manieren om nieuwe technieken in te zetten tijdens het uitvoeren van hun consultancy taken. Vooral tijdens recruitment van nieuwe junior consultants zien ze veel mogelijkheden om op een meer interactieve en digitale manier het sollicatieproces te gaan voeren.
 
-Tijdens een selectiedag voeren de consultants een aantal cases uit (zowel individueel als in groepsverband). Aan de hand van deze cases wordt gemeten over welke communicatieve vaardigheden iemand beschikt of kijken ze naar iemands analytisch vermogen. 
+Tijdens een selectiedag voeren de consultants een aantal cases uit (zowel individueel als in groepsverband). Aan de hand van deze cases wordt door observanten gemeten over welke communicatieve of analytische vaardigheden een kandidaat beschikt.
 
 > Hoe kan een **Web Virtual Reality toepassing** tijdens de **interne selectiedag** van **&samhoud consultancy** de huidige cases aanvullen en interactiever maken zodat **de competenties van aankomende junior consultants** beter te meten zijn?
 
 Biedt een VR toepassing in dit geval een meerwaarde in het recruitment process en wat zou deze toepassing moeten bieden om praktisch ingezet te worden?
 
-Met dit vraagstuk kwamen ze bij dochterbedrijf &samhoudmedia. Een creatief bureau gespecialiseerd in augmented en virtual reality producties, wij zagen gelijk een kans om deze cases met de mogelijkheden van VR een stuk interactiever te maken.
+Met dit vraagstuk kwam &samhoud|consultancy bij dochterbedrijf &samhoud|media. Als creatief bureau gespecialiseerd in augmented en virtual reality producties, zag &samhoud|media kansen om deze cases met de mogelijkheden van VR een stuk interactiever te maken.
 
 ## Onderzoeksvragen
 

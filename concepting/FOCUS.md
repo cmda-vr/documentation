@@ -3,7 +3,7 @@
 Naar aanleiding van het gedane onderzoek en meerdere gesprekken met de opdrachtgever (&samhoud|consultancy)  en opdrachtnemer (&samhoud|media) hebben we in overleg een duidelijke afbakening van het project gemaakt. Een afbakening van het uiteindelijke concept en product zorgt voor een specifiekere oplossing en meer focus met duidelijkere taken om actie op te ondernemen.
 
 ## Meerwaarde VR
-Een Virtual Reality toepassing vergroot over het algemeen de **user engagement**. Doordat de puzzels een stuk interactiever en visueler zijn gaan mensen eerder op in de ervaring.
+Een Virtual Reality toepassing vergroot over het algemeen de **user engagement**. Doordat de cases een stuk interactiever en visueler zijn gaan mensen eerder op in de ervaring.
 
 Door het toepassen van de digitale middelen zijn de competenties een stuk beter meetbaar, er is zo een grotere hoeveelheid data beschikbaar die een observant kan inzien.
 
@@ -11,19 +11,19 @@ Door het toepassen van de digitale middelen zijn de competenties een stuk beter 
 * Beter meetbare competenties
 * Meer data beschikbaar
 
-Daarnaast is een credo van &samhoud 'usual unusual' ze proberen altijd net even anders te zijn dan de rest. Een VR toepassing tijdens een sollicitatie past dus erg bij deze visie en de strategie om altijd te innoveren in recruitment.
+Daarnaast is een credo van &samhoud 'usual unusual', met recruitment wordt altijd geprobeerd anders te zijn dan de rest. Een VR toepassing tijdens een sollicitatie past dus erg bij deze visie en de strategie om altijd te innoveren in recruitment.
 
 Tijdens zo'n selectiedag is het natuurlijk ook van belang een bepaalde impressie / indruk achter te laten bij de kandidaten over de bedrijfsvoering van de consultancy tak. Kandidaten worden met een interactieve toepassing op een positieve manier verrast en maken kennis met de mogelijkheden van andere business lines binnen de &samhoud group.
 
 ## Low-cost hardware
-Vanwege de overvloed aan hardware hebben keuzes gemaakt welke componenten voor deze situatie goed werken. Daarom maken we van maar een klein spectrum aan hardware componenten gebruik. We kiezen ervoor om de toepassing te optimaliseren voor low-cost components. Specifiek dus de zogeheten drop-in viewers (google cardboards) waarbij je de smartphone gebruikt als head-mounted display.
+Vanwege de overvloed aan hardware zijn er keuzes gemaakt welke componenten voor deze situatie goed werken. Er wordt gebruikt gemaakt van een klein spectrum aan hardware componenten. De toepassing is geoptimaliseerd voor low-cost components, specifiek de zogeheten drop-in viewers (google cardboards) waarbij een kandidaat de smartphone gebruikt als head-mounted display.
 
 * Cardboards zijn relatief goedkoop, lage opstartkosten
-* Lichtgewicht dus makkelijk op te zetten en af te bouwen tijdens een selectiedag
+* Lichtgewicht dus makkelijk op te zetten en af te breken tijdens een selectiedag
 * Makkelijk om meerdere aan te schaffen voor gebruik in groepsverband
 * Portabiliteit, na afloop kunnen kandidaten deze meenemen
 
-Ook na de selectieprocedure op locatie willen we de cardboard gaan gebruiken voor een terugkoppeling, de kandidaten kunnen na afloop de drop-in viewer gemakkelijk meenemen. Aangezien we voornamelijk toetsen op communicatieve vaardigheden nemen we het feit dat low cost componenten geen controllers hebben voor input op de koop toe.
+Ook na de selectieprocedure op locatie worden de drop-in viewers gebruikt voor een terugkoppeling, de kandidaten kunnen na afloop de drop-in viewer gemakkelijk meenemen.
 
 ## Keuze WebVR
 De voordelen van WebVR staan iets meer in-depth beschreven in de [context](/vr/WEBVR.md) sectie. De grootste voordelen zijn; 
