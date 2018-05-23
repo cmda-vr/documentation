@@ -16,6 +16,7 @@
 * Opdrachtnemer: refereert naar &samhoud|media.
 * Kandidaten: refereert naar aankomende junior consultants.
 
+
 # Woordenlijst
 
 ## API
