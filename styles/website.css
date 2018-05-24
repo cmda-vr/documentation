@@ -95,14 +95,21 @@
   box-shadow: none;
 }
 
-.markdown-section .glossary-term:hover,
-.markdown-section .glossary-term:focus {
+.markdown-section .glossary-term:hover {
   text-decoration: none;
   box-shadow: none;
   background: none;
   color: #009EE0;
 }
 
+.markdown-section .glossary-term:focus {
+  background: #009EE0;
+  color: #fff;
+}
+
+
 .book-summary ul.summary li a:focus {
   text-decoration: underline;
+  background: #009EE0;
+  color: #fff;
 }
