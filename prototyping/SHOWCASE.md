@@ -9,6 +9,8 @@ Het scenario is relatief simpel. Tijdens de selectiedag betreden de kandidaten e
 
 Zodra ze de head-mounted display opzetten begeven alle vier de kandidaten zich in een virtuele ruimte. Dit lijken in eerste instantie dezelfde kamers maar iedere kandidaat ziet net andere details. Denk bijvoorbeeld aan een boekenkast waar, bij elke kandidaat, een aantal andere kleur boeken liggen. Deze subtiele verschillen zijn gelijk hints naar de code voor het cijferslot.
 
+Het is bij de Escape Room niet per sé van belang dat ze daadwerkelijk uit de ruimte ontsnappen, de manier waarop de kandidaten de case aanpakken is meer van belang Proces is belangrijk dan resultaat.
+
 > Je kijkt naar beneden en ziet dat jouw avatar rode schoenen heeft, bij een andere kandidaat staan er in  de boekenast vier rode boeken. Jouw persoonlijke cijfer is in dit geval 4.
 
 De kandidaten kunnen niet in elkaars kamer kijken en mogen de VR bril niet afzetten tijdens hun sessie waardoor ze alleen met spraak met elkaar kunnen communiceren.
