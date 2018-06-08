@@ -16,6 +16,11 @@ De kandidaten kunnen niet in elkaars kamer kijken en mogen de VR bril niet afzet
 ### Techniek
 Zoals eerder benoemd maak ik bijna uitsluitend gebruik van [A-Frame](https://aframe.io/). Voor het registeren van componenten heb ik in eerste instantie een bolierplate opgezet die de applicatie met [Webpack](https://webpack.js.org/) bundled.
 
+**Input**  
+Doordat er gebruikt gemaakt gaat worden van drop-in viewers zijn de mogelijkheden qua input beperkt. Bij drop-in viewers zijn er vaak geen game controllers of motion tracking hardware aanwezig. Door deze limitatie is het belangrijk om tijdens het technisch uitwerken rekening te houden met bepaalde interactie patronen (gaze tracking bijvoorbeeld) en vormen van input.
+
+Dit is in lijn met de requirement list, de applicatie optimaliseren voor deze specifieke low-cost hardware componenten en rekening houden met input en motion sickness.
+
 **Tech Stack**  
 * [A-Frame](https://aframe.io/)
 * [Webpack 4.0](https://www.npmjs.com/package/webpack)

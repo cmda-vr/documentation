@@ -3,7 +3,7 @@
 Naar aanleiding van het gedane onderzoek en meerdere gesprekken met de opdrachtgever (&samhoud|consultancy)  en opdrachtnemer (&samhoud|media) hebben we in overleg een duidelijke afbakening van het project gemaakt. Een afbakening van het uiteindelijke concept en product zorgt voor een specifiekere oplossing en meer focus met duidelijkere taken om actie op te ondernemen.
 
 ## Meerwaarde VR
-Een Virtual Reality toepassing vergroot over het algemeen de **user engagement**. Doordat de cases een stuk interactiever en visueler zijn gaan mensen eerder op in de ervaring.
+Een Virtual Reality toepassing vergroot over het algemeen de **user engagement**. Doordat de cases een stuk interactiever en visueler zijn gaan mensen eerder op in de ervaring. Door een visuele digitale toepassing gaat de 'visual attention' in het brein omhoog en wordt er 70% meer opgeslagen in het geheugen ten opzichte van tekst of papier.
 
 Door het toepassen van de digitale middelen zijn de competenties een stuk beter meetbaar, er is zo een grotere hoeveelheid data beschikbaar die een observant kan inzien.
 
