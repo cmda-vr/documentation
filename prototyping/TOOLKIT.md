@@ -3,6 +3,8 @@ Het is voor de observant belangrijk dat de applicatie(s) snel en gemakkelijk zij
 
 Dit is een belangrijke requirement vanuit de opdrachtgever. De toepassingen moeten op een centrale plek gehost worden en vanuit één website makkelijk opgestart kunnen worden.
 
+![Prototype Toolkit](/resources/prototype-toolkit.jpg)
+
 Hiervoor maak ik gebruik van [Node.js](), [Express]() en [Pug]() om de desbetreffende pagina's te renderen en door te linken naar de juiste puzzels.
 
 [GitHub Repository](https://github.com/samhoudmedia/showcase/blob/master/README.md)

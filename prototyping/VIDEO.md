@@ -10,6 +10,8 @@ Deze 360-video is voor alle deelnemers van de caroussel, op sommige dagen sluit 
 ### Uitnodiging
 Nadat de kandidaten telefonisch te horen hebben gekregen of ze door zijn naar het vervolggesprek krijgen ze in de vorm van een 360-video een persoonlijke uitnodiging van Salem. In deze video nodigt Salem ze uit voor het gesprek en geeft ze een opdracht mee.
 
+![Prototype Video](/resources/prototype-360.jpg)
+
 ## Opname
 Het was mogelijk om met Salem een afspraak in te plannen voor de opname. Samen met Jesse Spruijt (productie stagiar) heb ik de nodige voorbereidingen getroffen.
 
@@ -21,6 +23,9 @@ De keuze om aan tafel te zitten zorgt voor een formele setting. Achter Salem is 
 
 **Audio:**  
 Audio is een ander belangrijk aspect bij het opnemen van een 360-video. Veel video's maken gebruik van zogeheten'spatial-audio' waarbij het volume van het geluid harder of zachter wordt naarmate je verder van een 'subject' wegdraait. In dit geval hebben we ervoor gekozen om het geluid mono op te nemen en zo ook onder de video te zetten. Hetgeen wat Salem zegt is zo dermate belangrijk dat we dit op een constant volume wouden hebben.
+
+![Prototype Opname](/resources/prototype-opname.jpg)
+
 
 ### Techniek
 De video is opgenomen met een [Insta 360](https://www.insta360.com) camera, een relatief simpele camera waarbij het opnemen vrij gemakkelijk gaat. 'Point and shoot' kwam goed uit bij de geringe tijd die we beschikbaar hadden.
