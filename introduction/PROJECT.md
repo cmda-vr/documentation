@@ -16,11 +16,11 @@ Nu wil het zo zijn dat studiegenoot [Bart Oude Elferink ](http://www.goddelijkeg
 
 Bij &samhoudmedia hadden ze wel interesse in een project met WebVR en er was ruimte om mij, vooral op conceptueel niveau, te ondersteunen tijdens het  project.
 
-[&Samhoudmedia](https://www.samhoudmedia.com/) is een creatief bureau gespecialiseerd in augmented en virtual reality producties. Voor grote A-merken creëren ze innovatieve concepten binnen VR en AR vakgebied.
+[&samhoudmedia](https://www.samhoudmedia.com/) is een creatief bureau gespecialiseerd in augmented en virtual reality producties. Voor grote A-merken creëren ze innovatieve concepten binnen VR en AR vakgebied.
 
 > “ We’re front runners in the field of augmented reality (AR) and virtual reality (VR). “
 
 Zo hebben ze gewerkt aan de Albert Heijn dino campagne met Freek Vonk, Albert Heijn ruimtereis met André Kuijpers en recent nog samen met de Rabobank aan Rabo PinPin. Aan de Oosterdokskade (VR cinema) werken voornamelijk mensen die in het digitale tijdperk zijn opgegroeid. Oog voor digitaal, media en marketing trends. 
 
-![&Samhoudmedia office](https://samhoudmedia.com/storage/app/uploads/public/5ab/521/148/5ab521148b72d041395142.jpg)
+![&samhoudmedia office](https://samhoudmedia.com/storage/app/uploads/public/5ab/521/148/5ab521148b72d041395142.jpg)
 > Het kantoor aan de Oosterdokskade in Amsterdam. Je ziet mij werken aan het einde van de rechterkant van de tafel.

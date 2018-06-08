@@ -8,7 +8,7 @@ Tijdens een selectiedag voeren de consultants een aantal cases uit (zowel indivi
 
 Biedt een VR toepassing in dit geval een meerwaarde in het recruitment process en wat zou deze toepassing moeten bieden om praktisch ingezet te worden?
 
-Met dit vraagstuk kwam &samhoud|consultancy bij dochterbedrijf &samhoud|media. Als creatief bureau gespecialiseerd in augmented en virtual reality producties, zag &samhoud|media kansen om deze cases met de mogelijkheden van VR een stuk interactiever te maken.
+Met dit vraagstuk kwam &samhoud consultancy bij dochterbedrijf &samhoud media. Als creatief bureau gespecialiseerd in augmented en virtual reality producties, zag &samhoud media kansen om deze cases met de mogelijkheden van VR een stuk interactiever te maken.
 
 ## Onderzoeksvragen
 

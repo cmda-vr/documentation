@@ -12,8 +12,8 @@
 # Begripsbepaling
 * Ontwikkelaar; in deze context specifiek web ontwikkelaars (front-end developers).
 * Low-cost; alle virtual reality hardware die in de 'Cardboard' categorie vallen. Je gebruikt een smartphone als head-mounted display.
-* Opdrachtgever; refereert naar &samhoud|consultancy.
-* Opdrachtnemer: refereert naar &samhoud|media.
+* Opdrachtgever; refereert naar &samhoud consultancy.
+* Opdrachtnemer: refereert naar &samhoud media.
 * Kandidaten: refereert naar aankomende junior consultants.
 
 
@@ -50,7 +50,7 @@ Een head-mounted display (HMD) is een beeldscherm dat op het hoofd gedragen word
 Een combinatie van verschillende meetapparaten. Veel van deze meetinstrumenten zitten ook in onze telefoon. (gyroscope, magnetometer)
 
 ## Mixed Reality
-Gemengde werkelijkheid of interrealiteit is de vermenging van de werkelijke wereld en een virtuele (schijnbare) wereld die met behulp van computers wordt gecreëerd. De term Mixed Reality wordt vaak gebruik als een catch-all. Een paraplu waaronder alle verschillende technieken onderhangen. Waaronder dus ook onze huidige realiteit.
+Gemengde werkelijkheid of interrealiteit is de vermenging van de werkelijke wereld en een virtuele (schijnbare) wereld die met behulp van computers wordt gecreëerd. De term Mixed Reality wordt vaak gebruik als een catch-all. Een paraplu waaronder alle verschillende technieken onder hangen. Waaronder dus ook onze huidige realiteit.
 
 ## Native Applicatie
 Een Native-app wordt specifiek ontwikkeld voor een platform (Android, iOS, Windows Phone) in een eigen codeertaal. Een Native-app is een applicatie die wordt aangeboden in de App-store van je smartphone of Tablet.

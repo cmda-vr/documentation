@@ -17,7 +17,7 @@ Het was mogelijk om met Salem een afspraak in te plannen voor de opname. Samen m
 De plaatsing van de camera is bij dit videoformaat erg van belang. De plek van de camera zijn in dit geval de ogen van de kijker. Zelf lopen wij na de start van de opname uit het frame.
 
 **Setting:**  
-De keuze om aan tafel te zitten zorgt voor een formele setting. Achter Salem is een groot raam (waar het een en ander beweegt) maar de focus ligt duidelijk op Salem. Vandaar dat hij ook gelijk in de Field of View van de kijker zich bevindt.
+De keuze om aan tafel te zitten zorgt voor een formele setting. Achter Salem is een groot raam (waar het een en ander beweegt) maar de focus ligt duidelijk op Salem. Vandaar dat hij zich gelijk in de Field of View van de kijker zich bevindt.
 
 **Audio:**  
 Audio is een ander belangrijk aspect bij het opnemen van een 360-video. Veel video's maken gebruik van zogeheten'spatial-audio' waarbij het volume van het geluid harder of zachter wordt naarmate je verder van een 'subject' wegdraait. In dit geval hebben we ervoor gekozen om het geluid mono op te nemen en zo ook onder de video te zetten. Hetgeen wat Salem zegt is zo dermate belangrijk dat we dit op een constant volume wouden hebben.

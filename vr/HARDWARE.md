@@ -1,5 +1,5 @@
 ## Hardware voor Virtual Reality
-Consumer grade VR hardware is nog maar relatief kort op de markt.  Elk biedt een ander type ervaring met verschillende prijsniveaus. Tien jaar geleden was het niet geheel ongewoon dat 'liefhebbers' verschikkelijk veel geld uitgaven voor dergelijke systemen. Vanaf 2012 (komst Oculus en dus Consumer Grade) lag de prijs rond de €1000,-. Deze prijzen zijn de afgelopen jaren nog verder gedaalt, een HTC vive is al voor €600,- te bestellen.
+Consumer grade VR hardware is nog maar relatief kort op de markt.  Elk biedt een ander type ervaring met verschillende prijsniveaus. Tien jaar geleden was het niet geheel ongewoon dat 'liefhebbers' verschikkelijk veel geld uitgaven voor dergelijke systemen. Vanaf 2012 (komst Oculus en dus Consumer Grade) lag de prijs rond de €1000,-. Deze prijzen zijn de afgelopen jaren nog verder gedaald, een HTC vive is al voor €600,- te bestellen.
 
 Een gemiddelde VR hardware kit heeft over het algemeen vier componenten;
 
@@ -11,7 +11,7 @@ Een gemiddelde VR hardware kit heeft over het algemeen vier componenten;
 * **Deskop of Mobiel platform;** Rekenkracht die de applicatie (software) kan uitvoeren.
 
 **Head-mounted display:**  
-Het hoofdingredient van VR, een beeldscherm dat elke seconde 60 frames genereerd aan afbeeldingen. Voor elk oog één afzonderlijk scherm die net iets van elkaar afstaan om de natuurlijke positie van onze ogen na te bootsen.
+Het hoofdingredïent van VR, een beeldscherm dat elke seconde 60 frames genereert aan afbeeldingen. Voor elk oog één afzonderlijk scherm die net iets van elkaar afstaan om de natuurlijke positie van onze ogen na te bootsen.
 
 ![hardware-1](/resources/hardware-1.jpg)
 

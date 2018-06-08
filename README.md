@@ -13,11 +13,11 @@
 | Startdatum         | 04.02.2018          |
 | Eindatum           | 29.06.2018              |
 | Stagebegeleider    | S. Smeets             |
-| Bedrijf            | &Samhoud Media      |
+| Bedrijf            | &samhoud Media      |
 | Functie            | WebVR Concepting |
 
 #### Contactgegevens Bedrijf:
-* &Samhoud media
+* &samhoud media
 * Oosterdokskade 5
 * 1011 AD Amsterdam
 * +316 27 00 69 16

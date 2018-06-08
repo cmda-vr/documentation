@@ -26,7 +26,7 @@ Iets chiquer igericht, ander pand. Woonkeuken is veel meer huizelijk. Hele grote
 
 Overtuigd door het sollicitatieprocess om bij &samhoud te gaan werken. Master finance.
 
-Economie, werkervaring. &Samhoud, sustainaltics. Finance master. Deloitte. Intern onderzoek samenleving. 
+Economie, werkervaring. &samhoud, sustainaltics. Finance master. Deloitte. Intern onderzoek samenleving. 
 
 Chage management, strategie. Zelf onderzoeken. Stukken maken. Slidedeck paper.
 

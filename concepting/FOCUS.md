@@ -1,6 +1,6 @@
 # Afbakening
 
-Naar aanleiding van het gedane onderzoek en meerdere gesprekken met de opdrachtgever (&samhoud|consultancy)  en opdrachtnemer (&samhoud|media) hebben we in overleg een duidelijke afbakening van het project gemaakt. Een afbakening van het uiteindelijke concept en product zorgt voor een specifiekere oplossing en meer focus met duidelijkere taken om actie op te ondernemen.
+Naar aanleiding van het gedane onderzoek en meerdere gesprekken met de opdrachtgever (&samhoud consultancy)  en opdrachtnemer (&samhoud media) hebben we in overleg een duidelijke afbakening van het project gemaakt. Een afbakening van het uiteindelijke concept en product zorgt voor een specifiekere oplossing en meer focus met duidelijkere taken om actie op te ondernemen.
 
 ## Meerwaarde VR
 Een Virtual Reality toepassing vergroot over het algemeen de **user engagement**. Doordat de cases een stuk interactiever en visueler zijn gaan mensen eerder op in de ervaring. Door een visuele digitale toepassing gaat de 'visual attention' in het brein omhoog en wordt er 70% meer opgeslagen in het geheugen ten opzichte van tekst of papier.
@@ -33,6 +33,6 @@ De voordelen van WebVR staan iets meer in-depth beschreven in de [context](/vr/W
 * Als developer kan ik gebruik maken van de bestaande kennis en infrastructuur die het web te bieden heeft.
 
 ## Ethiek
-Het recruitment process is vaak een gevoelige tak van sport, je kunt vraagtekens zetten bij het toepassen van een VR ervaring in deze context. &samhoud vind dit ethisch verantwoord; 'kandidaten zijn digitale ervaringen vaak als een positieve verassing en het interessant om te zien wat de mogelijkheden zijn binnen het vakgebied.'
+Het recruitment process is vaak een gevoelige tak van sport, je kunt vraagtekens zetten bij het toepassen van een VR ervaring in deze context. &samhoud consultancy vind dit ethisch verantwoord; 'kandidaten zien digitale ervaringen vaak als een positieve verassing en vinden het tevens interessant om te zien wat de mogelijkheden zijn binnen het vakgebied.'
 
 Uiteindelijk zal de beslissing van een selectie altijd door een medewerker (persoon) genomen worden. Het gaat natuurlijk ook om de impressie gedurende de hele dag, niet alleen de virtuele case.

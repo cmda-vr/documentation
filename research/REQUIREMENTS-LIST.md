@@ -1,5 +1,5 @@
 # Requirements List
-Na het vaststellen van de context en het verduidelijken van de doelgroep hebb ik samen met de opdrachtgever op drie hoofdcategorieën een programma van eisen opgesteld. 
+Na het vaststellen van de context en het verduidelijken van de doelgroep heb ik samen met de opdrachtgever op drie hoofdcategorieën een programma van eisen opgesteld. 
 * Technische limitaties en eisen
 * Wensen opdrachtgever
 * Verwachtingen kandidaat
@@ -26,4 +26,4 @@ Op een schaal van één tot drie hebben we elke eis prioriteit gegeven.
 | Vereiste | Prioriteit|
 |-|-|
 | De kandidaat brengt zijn eigen smartphone mee| 3 |
-| De kandidaat brengt heeft de meest recente browser versie op zijn of haar smartphone| 2 |
+| De kandidaat heeft de meest recente browser versie op zijn of haar smartphone| 2 |

@@ -7,7 +7,7 @@ Het was vooral van belang om goed te kijken naar de competenties die tijdens de 
 ## Cases
 
 **Inviduele case**  
-Tijdens de individuele case krijgen de kandidaten een aantal zakelijke stukken te zien (excel sheets, analytics) en moeten vervolgens pitchen wat een eventuele aanpak zou zijn om deze data te verbeteren. De invdividuele case is vrij gefocust op data analyse en klantgerichtheid, het is moeilijk om deze te vertalen naar een digitale toepassing.
+Tijdens de individuele case krijgen de kandidaten een aantal zakelijke stukken te zien (excel sheets, analytics) en moeten vervolgens pitchen wat een eventuele aanpak zou zijn om deze data te verbeteren. De individuele case is vrij gefocust op data analyse en klantgerichtheid, het is moeilijk om deze te vertalen naar een digitale toepassing.
 
 > *Klantgerichtheid en projectmanagement zijn competenties die voornamelijk bij de inviduele case worden gemeten.*
 
@@ -19,7 +19,7 @@ We kwamen er al snel achter dat de groepscase het meest interessant was. De huid
 ## Inspiratie
 
 **Games**  
-In eerste instantie hebben we vooral gekeken naar puzzle games die op bestaande platformen draaien. [I expect you to die](https://iexpectyoutodie.schellgames.com/), [Keep talking and Nobody Explodes](http://www.keeptalkinggame.com/) en [Statik](http://statik.institute/) zijn practhige voorbeelden binnen dit genre.
+In eerste instantie hebben we vooral gekeken naar puzzle games die op bestaande platformen draaien. [I expect you to die](https://iexpectyoutodie.schellgames.com/), [Keep talking and Nobody Explodes](http://www.keeptalkinggame.com/) en [Statik](http://statik.institute/) zijn prachtige voorbeelden binnen dit genre.
 
 **Spelshows**  
 Het mooie aan [Wie is de Mol](https://wieisdemol.avrotros.nl/home/) is dat veel van de opdrachten in groepsverband worden uitgevoerd. Veel communicatie verloopt over een portofoon en vaak hebben ze informatie van elkaar nodig om tot een oplossing.

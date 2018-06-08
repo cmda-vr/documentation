@@ -17,7 +17,7 @@ De ochtend is voornamelijk informatief. Er is een algemene opening en er wordt i
 Na deze opening werken de kandidaten wat meer hands-on, na uitleg over de case werken ze deze in aparte groepen uit. De case is vaak in papieren vorm, ze krijgen een aantal stukken (grafieken, excel sheets, interview) en moeten op basis daarvan van een passende oplossing pitchen. De case lossen de kandidaten individueel op maar pitchen deze in groepsverband.
 
 **Middag**  
-Na een lunch (met collega's die al bij &samhoud werken) worden de kandidaten opgesplits in drie grote groepen. Afwisselend zullen de kandidaten een individueel gesprek voeren met een observant (medewerker) van &damhoud. Dit zou je kunnen vergelijken met een kort traditioneel solliciatiegesprek.
+Na een lunch (met collega's die al bij &samhoud werken) worden de kandidaten opgesplitst in drie grote groepen. Afwisselend zullen de kandidaten een individueel gesprek voeren met een observant (medewerker) van &samhoud consultancy. Dit zou je kunnen vergelijken met een kort traditioneel solliciatiegesprek.
 
 **Avond**  
 Na afloop is er vaak een borrel, niet alleen met de kandidaten maar vaak ook met medewerkers van &samhoud erbij. 
@@ -25,7 +25,7 @@ Na afloop is er vaak een borrel, niet alleen met de kandidaten maar vaak ook met
 ## Resultaten
 Na de selectiedag horen ze vaak in redelijke korte tijd wat de resultaten zijn. Over het algemeen worden alle kandidaten geinformeerd via de telefoon en krijgen ze op dat moment feedback waarom ze wel of niet door zijn. Dit is op basis van de observaties en de competenties die gedurende de dag tijdens de verschillende onderdelen zijn verzameld op een beoordelingsformulier.
 
-Als uit de selectiedag blijkt dat je binnen het plaatje past word je voor een laatste gesprek uitgenodigd. Dit gesprek is met de oprichters van &samhoud, op basis hiervan kan je alsnog worden afgewezen.
+Als uit de selectiedag blijkt dat je binnen het plaatje past wordt je voor een laatste gesprek uitgenodigd. Dit gesprek is met de oprichters van &samhoud, op basis hiervan kan je alsnog worden afgewezen.
 
 ## Situatieschets
 In verband met de privacy van de kandidaten was het vrij lastig om beeldmateriaal en contactgegevens te verzamelen. Toch heb ik gedurende m'n project met meerdere kandidaten kunnen spreken. Zowel consultants die nog niet lang bij het bedrijf werken als kandidaten die helaas zijn afgewezen. Door deze gesprekken (interviews) heb ik een redelijk beeld kunnen schetsen van hoe kandidaten de dag hebben ervaren zonder zelf aanwezig te kunnen zijn. Een aantal punten die naar voren kwamen;
@@ -35,4 +35,4 @@ In verband met de privacy van de kandidaten was het vrij lastig om beeldmateriaa
 * Iedereen is gedurende de dag vrij zenuwachtig, van tevoren worden er weinig instructies gegeven en ook tijdens de uitleg van de cases wordt er bewust wat verwarring geschept.
 * Er is veel verschil over de mate waarin de resultaten naar je worden terugkoppeld, sommigen krijgen veel feedback andere minimaal.
 * De selectiedag is voor veel kandidaten een bevestiging dat &samhoud een bedrijf is waar ze voor willen werken. De gehele sfeer en de visie die ze verkondigen is erg informeel.
-* Uit de cases komen geen winnaar. Iedereen heeft een andere aanpak, het gaat dus niet zozeer om het resultaat maar eerder om de wanier op. De uitkomst is minder van belang.
+* Uit de cases komen geen winnaars. Iedereen heeft een andere aanpak, het gaat dus niet zozeer om het resultaat maar eerder om de manier waarop. De uitkomst is minder van belang.
