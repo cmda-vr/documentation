@@ -6,6 +6,9 @@ Een van de talks is me tot de dag van vandaag altijd bijgebleven, die van [Ada R
 
 Nu ik het laatste halfjaar van de studie nog kan experimenteren wil ik die kans pakken en mezelf binnen VR / AR ruimte wat meer ontwikkelen, en dan voornamelijk op technisch vlak. VR op het web is het laatste jaar erg toegankelijk en laagdrempelig geworden en het verbaasde mezelf hoe weinig ik eigenlijk afweet van de technologie en interactie methodes binnen dit vakgebied.
 
+## Profilering
+Voor aanvang van het project ligt mijn focus dus grotendeels op het technisch uitwerken van het product. Al is het vakgebied van VR op veel vlakken nog een 'jungle' waardoor er weinig goed gedocumenteerd staat en literatuur niet in overvloed beschikbaar is. Naast het technisch uitwerken is het onderzoek naar interactiepatronen binnen VR en het vakgbied in z'n geheel (in de vorm van onderzoek) ook iets waar veel tijd in zal gaan zitten.
+
 ## De opdrachtgever
 Met deze visie ben ik contact gaan zoeken met verschillende partijen. In eerste instantie binnen het research lectoraat van de Hogeschool van Amsterdam en vervolgens bij verschillende VR agencies in Noord-Holland.
 
