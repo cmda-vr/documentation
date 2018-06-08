@@ -18,5 +18,6 @@
 [Bekijk Groenlicht Presentatie](https://slides.dandevri.es/greenlight/)
 
 ### Videoregistratie
-[Videoregistratie | Toolkit](https://youtu.be/tyo6ARajhEE)  
+[Videoregistratie | Toolkit](https://youtu.be/tyo6ARajhEE)
+
 [Videoregistratie | 360-video](https://youtu.be/nQ55enLeDfk)
