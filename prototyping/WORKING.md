@@ -9,6 +9,8 @@ Vrijwel vanaf het begin heb ik toestemming gekregen om een [GitHub organisatie](
 
 Verder werk ik meestal 2 á 3 dagen in de week op het kantoor van &samhoudmedia aan de Oosterdokskade in Amsterdam. Met enige regelmaat was ik ook op het kantoor van &samhoud te vinden aan de Maliebaan in Utrecht.
 
+Bij &samhoudmedia en &samhoud zijn er bijna geen technische (developers) mensen aanwezig. Dit zorgt ervoor dat ik op dat vlak wellicht wat meer op school moet leunen en eventueel externe developers waar noodzakelijk. Vanwege het gebrek aan technische kennis is het voor mij ook zaak en daarbij een uitdaging om alles goed en duidelijk op papier te zetten en over te brengen naar alle stakeholders.
+
 Om ervoor te zorgen dat m'n taken overzichtelijk en gepriotiseerd bleven en werkte ik met een versimpelde versie van The Design Sprint. Specifieke taken worden bijgehouden in Kanban tool Trello.
 
 ### Sprint Overview
