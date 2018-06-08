@@ -25,11 +25,23 @@ Red, Brett. ’Virtual Reality Human Interface Guidelines’. Online. Internet. 
 
 Apple. ‘AR Human Interface Guidelines’. Online. Internet. Beschikbaar: https://developer.apple.com/ios/human-interface-guidelines/technologies/ augmented-reality/
 
+Leap Motion. 'Explorations in VR'. Online. Internet. Beschikbaar: https://developer.leapmotion.com/explorations/#110
+
 ## Artikelen
 
 Supermedium. 'Guidelines for WebVR Applications'. Online. Internet. Beschikbaar: https://www.supermedium.com/blog/webvr-guidelines
 
 Valdivia Gabriel. 'Immersive Design: The Next 10 Years of Interfaces'. Online. Internet. Beschikbaar: https://uxdesign.cc/immersive-design-the-next-10-years-of-interfaces-16122cb6eae6
+
+Strageekery. 'VR is still a novelty, but Google’s light-field technology could make it serious art'. Online. Internet. Beschikbaar:
+https://www.technologyreview.com/s/610458/vr-is-still-a-novelty-but-googles-light-field-technology-could-make-it-serious-art/
+
+Strageekery. 'How Rez Infinite creates immersive locomotion'. Online. Internet. Beschikbaar:
+https://medium.com/inborn-experience/vr-user-experience-immersive-locomotion-32f9df4a60f0
+
+Arturo Paracuellos. 'Progressive WebXR'. Online. Internet. Beschikbaar: https://blog.mozvr.com/progressive-webxr-ar-store/
+
+Hike One. 'Six tools designers can use in their VR worlds'. Online. Internet. Beschikbaar: https://arvrjourney.com/see-more-in-virtual-reality-9dc58800b7ce
 
 ## Documentatie
 ‘A-Frame Docs’. A web framework for building virtual reality experiences. (living): Metaverse. Online. Internet. 13 januari 2018. Beschikbaar: https://aframe.io/docs/0.7.0/ introduction/

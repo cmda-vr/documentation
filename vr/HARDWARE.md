@@ -3,7 +3,7 @@ Consumer grade VR hardware is nog maar relatief kort op de markt.  Elk biedt een
 
 Een gemiddelde VR hardware kit heeft over het algemeen vier componenten;
 
-*Afbeeldingen zijn van mijn eigen Playstation VR die op het moment voor €300,- vekrijgbaar is.*
+*Afbeeldingen zijn van een Playstation VR die op het moment voor €300,- vekrijgbaar is.*
 
 * **Stereoscopic displays;** Head-mounted display (HMD), een beeldscherm dat op het hoofd gedragen wordt. Vaak in de vorm van een helm.
 * **Motion tracking;** Component dat meet of we ons hoofd of lichaam bewegen. Vaak een combinatie van sensoren in de bril en externe camera's.
