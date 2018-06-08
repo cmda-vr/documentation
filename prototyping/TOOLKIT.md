@@ -20,3 +20,6 @@ Hiervoor maak ik gebruik van [Node.js](), [Express]() en [Pug]() om de desbetref
 Voor basic styling heb ik op basis van de &samhoud brand styleguide een pattern library gemaakt die de statische .pdf omzet in web componenten. 
 
 [GitHub Repository](https://github.com/samhoudmedia/system-sam)
+
+### Videoregistratie
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tyo6ARajhEE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
