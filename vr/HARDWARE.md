@@ -7,20 +7,28 @@ Een gemiddelde VR hardware kit heeft over het algemeen vier componenten;
 
 * **Stereoscopic displays;** Head-mounted display (HMD), een beeldscherm dat op het hoofd gedragen wordt. Vaak in de vorm van een helm.
 * **Motion tracking;** Component dat meet of we ons hoofd of lichaam bewegen. Vaak een combinatie van sensoren in de bril en externe camera's.
-* **Input devices;** Een controller,,, vaak gebasseerd op een game controller. Ook wel motion controllers genoemd.
+* **Input devices;** Een controller, vaak gebasseerd op een game controller. Ook wel motion controllers genoemd.
 * **Deskop of Mobiel platform;** Rekenkracht die de applicatie (software) kan uitvoeren.
 
 **Head-mounted display:**  
 Het hoofdingredient van VR, een beeldscherm dat elke seconde 60 frames genereerd aan afbeeldingen. Voor elk oog één afzonderlijk scherm die net iets van elkaar afstaan om de natuurlijke positie van onze ogen na te bootsen.
 
+![hardware-1](/resources/hardware-1.jpg)
+
 **Motion Tracking Hardware:**  
 Meet de beweging van ons hoofd met een *'inertial measurement unit' (IMU)*. Vaak een combinatie van verschillende meetapparaten die ook in veel van onze telefoons te vinden zijn. (accelerometer, gyroscope)
+
+![hardware-2](/resources/hardware-2.jpg)
 
 **Input devices:**  
 Omdat de beeldschermen onze ogen bedekken is het niet gemakkelijk om een muis of toetsenbord als input te gebruiken. Vaak hebben verschillende merken hun eigen game controllers.
 
+![hardware-3](/resources/hardware-3.jpg)
+
 **Computing platforms:**  
 Al deze randapparatuur sluiten we vaak aan op hardware (computers, smartphones) die de software applicatie draait.
+
+![hardware-4](/resources/hardware-4.jpg)
 
 ## Scene
 Elke VR scene heeft een *'point of view' (POV)*; het punt van waar de gebruiker de omgeving bekijkt. 3D systemen gebruiken over het algemeen hiervoor een virtuele camera, een object dat bepaald waar in de scene een gebruiker is gepositioneerd.
