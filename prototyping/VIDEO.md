@@ -41,5 +41,5 @@ Na een eerste versie klaar te hebben begon ik deze aan een aantal mensen voor te
 * Als iemand eenmaal de cardboard ophad, terwijl het intro nog aan het afspelen was, was het niet helemaal duidelijk wanneer de video ging afspelen. Door een 'progress bar' toe te voegen kreeg de gebruiker meer feedback.
 * De stem van Salem was in sommige gevallen nog wat onduidelijk.
 
-### Video Registratie
+### Videoregistratie
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nQ55enLeDfk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
