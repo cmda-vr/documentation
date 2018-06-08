@@ -11,7 +11,7 @@
 | | |
 |-|-|
 | Startdatum         | 04.02.2018          |
-| Eindatum           | 29.06.2018              |
+| Eindatum           | 08.06.2018              |
 | Stagebegeleider    | S. Smeets             |
 | Bedrijf            | &samhoud Media      |
 | Functie            | WebVR Concepting |
