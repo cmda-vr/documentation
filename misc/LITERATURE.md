@@ -43,6 +43,8 @@ Arturo Paracuellos. 'Progressive WebXR'. Online. Internet. Beschikbaar: https://
 
 Hike One. 'Six tools designers can use in their VR worlds'. Online. Internet. Beschikbaar: https://arvrjourney.com/see-more-in-virtual-reality-9dc58800b7ce
 
+Heather Andrew. 'How augmented reality affects the brain'. Online. Internet. Beschikbaar: https://www.zappar.com/blog/how-augmented-reality-affects-brain/
+
 ## Documentatie
 ‘A-Frame Docs’. A web framework for building virtual reality experiences. (living): Metaverse. Online. Internet. 13 januari 2018. Beschikbaar: https://aframe.io/docs/0.7.0/ introduction/
 
