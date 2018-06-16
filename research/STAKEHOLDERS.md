@@ -1,6 +1,6 @@
 # Stakeholders
 
-De grote opdrachtgever in dit verhaal is &samhoud consultancy. Het idee om de selectiedag digitaler te maken speelde al langer bij hun. Toen &samhoudmedia hier hoogte van kreeg leek het ons een mooie samenwerking. Het is een goed vraagstuk om met een oplossing vanuit ons vakgebied te komen. 
+De grote opdrachtgever in dit verhaal is [&samhoud consultancy](http://consultancy.samhoud.com/en/home). Het idee om de selectiedag digitaler te maken speelde al langer bij hun. Toen &samhoud media hier hoogte van kreeg leek het ons een mooie samenwerking. Het is een goed vraagstuk om met een oplossing vanuit ons vakgebied te komen. 
 
 ![Stakeholder diagram](/resources/stakeholders.jpg)
 
@@ -9,7 +9,7 @@ De grote opdrachtgever in dit verhaal is &samhoud consultancy. Het idee om de se
 ### Contactpersoon
 Binnen &samhoudmedia was mijn project onder supervisie van copywriter en concept developer [Tijmen van Rooijen](https://www.linkedin.com/in/tijmen-van-rooijen-923b4561/). Als contactpersoon bij &samhoud consultancy sprak ik voornamelijk met [Sascha Vloet](https://www.linkedin.com/in/saschavloet/). Zij is corporate recruiter bij &samhoud en gaat dus grotendeels over het hele recruitement process.
 
-De kantoren van beide organisaties zitten respectievelijk in Utrecht en Amsterdam. Eens in de zoveel weken was het voor Sascha mogelijk om naar Amsterdam te komen voor een catch-up. Dat was een mooi moment om de voortgang te bespreken en eventuele obstakels weg te werken.
+De kantoren van beide organisaties zitten respectievelijk in [Utrecht](http://consultancy.samhoud.com/en/contact) en [Amsterdam](https://samhoudmedia.com/contact). Eens in de zoveel weken was het voor Sascha mogelijk om naar Amsterdam te komen voor een catch-up. Dat was een mooi moment om de voortgang te bespreken en eventuele obstakels weg te werken.
 
 ## Belanghebbenden
 Voor dit project zijn er grofweg drie partijen die belang hebben bij deze toepassing.
@@ -20,4 +20,4 @@ Voor dit project zijn er grofweg drie partijen die belang hebben bij deze toepas
 
 **Kandidaten Junior Caroussel;** toekomstige consultants. Dus specifiek ook alleen gebruikers die een uitnodiging hebben ontvangen voor de selectiedag.
 
-Naast de wensen en eisen van deze externe partijen komen bepaalde keuzes ook voort uit richtlijnen van de Hogeschool van Amsterdam mede als onderwerpen waar ik me op wil focussen.
+Naast de wensen en eisen van deze externe partijen komen bepaalde keuzes ook voort uit richtlijnen van de Hogeschool van Amsterdam en daarbij persoonlijke leerdoelen voor het afstudeerproject.

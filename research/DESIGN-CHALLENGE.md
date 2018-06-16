@@ -10,6 +10,11 @@ Biedt een VR toepassing in dit geval een meerwaarde in het recruitment process e
 
 Met dit vraagstuk kwam &samhoud consultancy bij dochterbedrijf &samhoud media. Als creatief bureau gespecialiseerd in augmented en virtual reality producties, zag &samhoud media kansen om deze cases met de mogelijkheden van VR een stuk interactiever te maken.
 
+## Probleemsituatie
+Bij huidige case(s) op papier ligt de nadruk op het oplossen van een vakinhoudelijke business case. Om een voorbeeld te nemen; *hier zie je de weekstart van bedrijf X, analyseer de data en pitch een passende oplossing.* Deze case werkt goed om bij een kandidaat te meten of deze structuur aanbrengt door op juiste wijze **projectmanagement** toe te passen of bijvoorbeeld denkt vanuit het perspectief van de klant, **klantgerichtheid**.
+
+Het probleem bij deze vorm is dat voornamelijk de competenties; **communicatief**, **analytisch** en **samenwerken** door de observanten moeilijk meetbaar zijn. Communicatie en samenwerken zijn, uit ervaren van de observanten, alleen goed te meten in groepsverband terwijl de huidige cases zich vooral focussen op de kandidaat als individu.
+
 ## Onderzoeksvragen
 
 ### Beschrijvend onderzoek
