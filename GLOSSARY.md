@@ -28,7 +28,7 @@ Toegevoegde realiteit of TR (Engels: augmented reality of AR) is een live, direc
 ## CAVE
 Een omgeving waar projectoren worden gericht op drie tot zes muren vann een kubus in een ruimte. Eigenlijk een groot video theater in een ruimte. In sommige gevallen is het mogelijk om doormiddel van motion tracking jezelf te verplaatsen in deze ruimte.
 
-## Drop-in viewer
+## Drop-in viewers
 Een low-cost bril met lenzen waar een smartphone ingezet kan worden om zo een head-mounted display te maken. De bekendste vorm hiervan is de Google Cardboard.
 
 ## Field of View

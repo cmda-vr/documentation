@@ -27,6 +27,10 @@
 * Sjef Smeets
 * j.p.a.smeets@hva.nl
 
+#### Contactgegevens Bedrijfsbegeleider:
+* Tijmen van Rooijen
+* tijmen@samhoudmedia.com
+
 #### Contactgegevens Student:
 * Danny de Vries
 * 06 – 41025262
