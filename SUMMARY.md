@@ -20,15 +20,15 @@
 * [Requirements List](research/REQUIREMENTS-LIST.md)
 
 ## 4. Concepting
-* [Afbakening](concepting/FOCUS.md)
 * [Idee Ontwikkeling](concepting/IDEAS.md)
+* [Afbakening](concepting/FOCUS.md)
 * [Concepten](concepting/CONCEPTS.md)
 
 ## 5. Prototyping
 * [Werkwijze](prototyping/WORKING.md)
-* [(show)case](prototyping/SHOWCASE.md)
-* [360-video](prototyping/VIDEO.md)
 * [Toolkit](prototyping/TOOLKIT.md)
+* [360-video](prototyping/VIDEO.md)
+* [Validatie](prototyping/TESTING.md)
 
 ## 6. Afsluiting
 * [Conclusie](reflection/CONCLUSION.md)
