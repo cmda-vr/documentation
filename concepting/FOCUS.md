@@ -17,6 +17,9 @@ Daarnaast is een credo van &samhoud 'usual unusual', met recruitment wordt altij
 
 Tijdens zo'n selectiedag is het natuurlijk ook van belang een bepaalde impressie / indruk achter te laten bij de kandidaten over de bedrijfsvoering van de consultancy tak. Kandidaten worden met een interactieve toepassing op een positieve manier verrast en maken kennis met de mogelijkheden van andere business lines binnen de &samhoud group.
 
+## Techniek
+**DUS EERST MEERWAARDE VR UITLEGGEN DAN KOPPELING NAAR VR EN DAN EEN VERGELIJKING MAKEN VAN DE VERSCHILLENDE FRAMEWORKS**
+
 ## Low-cost hardware
 Vanwege de overvloed aan hardware zijn er keuzes gemaakt welke componenten voor deze situatie goed werken. Er wordt gebruikt gemaakt van een klein spectrum aan hardware componenten. De toepassing is geoptimaliseerd voor low-cost components, specifiek de zogeheten drop-in viewers (google cardboards) waarbij een kandidaat de smartphone gebruikt als head-mounted display.
 
@@ -26,6 +29,8 @@ Vanwege de overvloed aan hardware zijn er keuzes gemaakt welke componenten voor 
 * Portabiliteit, na afloop kunnen kandidaten deze meenemen
 
 Ook na de selectieprocedure op locatie worden de drop-in viewers gebruikt voor een terugkoppeling, de kandidaten kunnen na afloop de drop-in viewer gemakkelijk meenemen.
+
+**HIER DAN NOG WAT OVER LIMITATIES EN MAGNEET CARDBOARD**
 
 ## Keuze WebVR
 De voordelen van WebVR staan iets meer in-depth beschreven in de [context](/vr/WEBVR.md) sectie. De grootste voordelen zijn; 
