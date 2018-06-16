@@ -1,6 +1,6 @@
 # Design Challenge
 
-De consultancy tak van &samhoud zoekt constant manieren om nieuwe technieken in te zetten tijdens het uitvoeren van hun consultancy taken. Vooral tijdens recruitment van nieuwe junior consultants zien ze veel mogelijkheden om op een meer interactieve en digitale manier het sollicatieproces te gaan voeren.
+De [consultancy](consultancy.samhoud.com/) tak van [&samhoud](http://www.samhoud.com/) zoekt constant manieren om nieuwe technieken in te zetten tijdens het uitvoeren van hun consultancy taken. Vooral tijdens recruitment van nieuwe [junior consultants](https://career.samhoud.com/apply?junior-consultant-101367) zien ze veel mogelijkheden om op een meer interactieve en digitale manier het sollicatieproces te gaan voeren.
 
 Tijdens een selectiedag voeren de consultants een aantal cases uit (zowel individueel als in groepsverband). Aan de hand van deze cases wordt door observanten gemeten over welke communicatieve of analytische vaardigheden een kandidaat beschikt.
 
@@ -12,16 +12,26 @@ Met dit vraagstuk kwam &samhoud consultancy bij dochterbedrijf &samhoud media. A
 
 ## Onderzoeksvragen
 
-* Wat zijn de competenties die &samhoud consultancy bij kandidaten wil meten?
-* Wat is het verloop van de dag en welke activiteiten vinden er plaats?
-* Hoe worden de resultaten van de selectie teruggekoppeld?
-* Wat is het ideale profiel van een junior consultant?
-* Wat is de meerwaarde van een digitale toepassing ten opzichte van de huidige papieren cases?
+### Beschrijvend onderzoek
+* Wat zijn de [competenties](https://productbiografie.dandevri.es/research/FOCUS-GROUP.html) die &samhoud consultancy bij kandidaten wil meten?
+* Wat is het [verloop van de dag](https://productbiografie.dandevri.es/research/SCENARIO.html) en welke activiteiten vinden er plaats?
+* Hoe worden de resultaten van de selectie [teruggekoppeld](https://productbiografie.dandevri.es/research/SCENARIO.html)?
+* Wat is het ideale [profiel](https://productbiografie.dandevri.es/research/FOCUS-GROUP.html) van een junior consultant?
+* Wie zijn de [stakeholders](https://productbiografie.dandevri.es/research/STAKEHOLDERS.html) gedurende het project?
 
+### Voorspellend onderzoek
+* Wat is de [meerwaarde](https://productbiografie.dandevri.es/concepting/FOCUS.html) van een digitale toepassing ten opzichte van de huidige papieren cases?
+* Zijn de competenties door een digitale ervaring [beter meetbaar](https://productbiografie.dandevri.es/concepting/FOCUS.html)?
+* Welke [data](https://productbiografie.dandevri.es/prototyping/TOOLKIT.html) komt er beschikbaar en kan deze inzichtelijk voor kandidaten worden gemaakt?
 
----
-* Welke Frameworks en API's zijn er beschikbaar om WebVR toepassingen te maken?
-* Welke Browsers en Hardware devices kan je ondersteunen in de browser?
+### Vergelijkend onderzoek
+* Worden er bij [vergelijkende bedrijven](https://productbiografie.dandevri.es/concepting/CONCEPTS.html) Virtual Reality ingezet?
+* Worden er op het moment VR [puzzel games](https://productbiografie.dandevri.es/concepting/CONCEPTS.html) ontwikkeld?
+* Zijn er [modellen of canvassen](https://productbiografie.dandevri.es/concepting/CONCEPTS.html) die bedrijven gebruiken om competenties / vaardigheden te meten?
+
+### Uitvoerend onderzoek
+* Welke [Frameworks en API's](https://productbiografie.dandevri.es/prototyping/TOOLKIT.html) zijn er beschikbaar om WebVR toepassingen te maken?
+* Welke [Browsers en Hardware](https://productbiografie.dandevri.es/prototyping/TOOLKIT.html) devices kan je ondersteunen in de browser?
 * Hoe detecteer je input en hoe kan je met deze input detectie de ervaring
 enhancen?
 * Hoe kan je zonder input devices (controllers) toch interactie en events triggeren.

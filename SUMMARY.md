@@ -21,7 +21,8 @@
 
 ## 4. Concepting
 * [Afbakening](concepting/FOCUS.md)
-* [Idee Ontwikkeling](concepting/CONCEPTS.md)
+* [Idee Ontwikkeling](concepting/IDEAS.md)
+* [Concepten](concepting/CONCEPTS.md)
 
 ## 5. Prototyping
 * [Werkwijze](prototyping/WORKING.md)
