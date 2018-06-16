@@ -1,3 +1,5 @@
+**DIT MEER AANSCHERPEN MET BRONNEN**
+
 # Afbakening
 
 Naar aanleiding van het gedane onderzoek en meerdere gesprekken met de opdrachtgever (&samhoud consultancy)  en opdrachtnemer (&samhoud media) hebben we in overleg een duidelijke afbakening van het project gemaakt. Een afbakening van het uiteindelijke concept en product zorgt voor een specifiekere oplossing en meer focus met duidelijkere taken om actie op te ondernemen.

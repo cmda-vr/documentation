@@ -1,3 +1,5 @@
+**HIER GAAT HET DUS VOORAL OM DE TECHNISCHE UITWERKING EN AANPASSING OP BASIS VAN DE VALIDATIE**
+
 ## Toolkit
 Het is voor de observant belangrijk dat de applicatie(s) snel en gemakkelijk zijn op te starten. Hiervoor heb ik een centrale toolkit (website) gemaakt vanwaar alle puzzels opgestart kunnen worden. 
 
@@ -56,3 +58,5 @@ Dit is in lijn met de requirement list, de applicatie optimaliseren voor deze sp
 * [Webpack HTML Plugin](https://github.com/webpack/webpack-dev-server)
 * [ESLint](https://eslint.org/)
 * [EditorConfig](http://editorconfig.org/)
+
+## Validatie

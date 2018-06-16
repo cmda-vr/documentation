@@ -16,3 +16,6 @@ Tijdens de werving van kandidaten focussen ze zich vooral op een jongere generat
 * Leeftijd: 23 / 30
 * Werkervaring: Net afgestudeerd tot 3 jaar werkervaring.
 * Opleiding: Technische of economische opleiding.
+
+## Eindgebruikers
+De primaire doelgroep tijdens dit project zijn de recruiters (observanten) van &samhoud consultancy. De eindgebruikers van het project zijn de kandidaten van de selectiedag.

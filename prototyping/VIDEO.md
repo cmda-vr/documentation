@@ -1,3 +1,5 @@
+**HIER GAAT HET DUS VOORAL OM DE TECHNISCHE UITWERKING EN AANPASSING OP BASIS VAN DE VALIDATIE**
+
 # 360-video
 
 De drop-in viewers die tijdens de junior caroussel gebruikt worden nemen de kandidaten na afloop mee. Via een link krijgen ze na afloop een 360-video met een persoonlijke boodschap van Salem Samhoud, oprichter van de &samhoud groep.
@@ -32,7 +34,7 @@ De video is opgenomen met een [Insta 360](https://www.insta360.com) camera, een 
 
 [Adobe Premiere Pro CC](https://www.adobe.com/products/premiere.html) heeft nieuwe mogelijkheden om 360-video te bewerken en in post-productie nog te schaven. Het syncen van de audio en het toevoegen van graphics (intro / outro) kan met deze tool prima.
 
-## Testing
+## Validatie
 Na een eerste versie klaar te hebben begon ik deze aan een aantal mensen voor te leggen. Op basis van mijn bevindingen heb ik in iteraties het prototype aangepast.
 
 * Nadat er op de link werd geklikt begon de video automatisch met afspelen waardoor er veel te weinig tijd was voor iemand om de telefoon in de drop-in viewer te stoppen. Om dit af te vangen krijgt de gebruiker eerst een opstartscherm te zien met instructies.

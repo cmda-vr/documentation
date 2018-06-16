@@ -11,6 +11,7 @@
 * [Hardware](vr/HARDWARE.md)
 * [Design](vr/VR-DESIGN.md)
 * [Techniek](vr/TECH.md)
+* [Interaction](vr/INTERACTION.md)
 
 ## 3. Research
 * [Design Challenge](research/DESIGN-CHALLENGE.md)
@@ -22,13 +23,13 @@
 ## 4. Concepting
 * [Idee Ontwikkeling](concepting/IDEAS.md)
 * [Afbakening](concepting/FOCUS.md)
+* [Oplossingsrichting](concepting/SOLUTIONS.md)
 * [Concepten](concepting/CONCEPTS.md)
 
 ## 5. Prototyping
 * [Werkwijze](prototyping/WORKING.md)
 * [Toolkit](prototyping/TOOLKIT.md)
 * [360-video](prototyping/VIDEO.md)
-* [Validatie](prototyping/TESTING.md)
 
 ## 6. Afsluiting
 * [Conclusie](reflection/CONCLUSION.md)

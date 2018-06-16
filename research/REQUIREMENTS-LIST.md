@@ -44,4 +44,5 @@ Op basis van de requirements is er in overleg ook gebrainstormd over features en
 | In de ruimte waar de toepassing gebruikt gaat worden kunnen er videocamera's aanwezig zijn om de fysieke sessie op te nemen | S |
 | De observant kan op een extern beeldscherm live meekijken met wat de kandidaten in de head-mounted displays zien | S |
 | Na afloop van de sessie kan er een reconstructie (replay) van de digitale ervaring worden gemaakt om zo het kijkgedrag van de gebruiker in kaart te brengen | C |
+| Het eindproduct moet alleen toegankelijk zijn voor observanten (intern gebruik)  | C |
 | Een versie van de toepassing voor duurdere hardware kits waar meer interactie mogelijk is door de input van game controllers | W |
