@@ -23,3 +23,36 @@ Voor basic styling heb ik op basis van de &samhoud brand styleguide een pattern 
 
 ### Videoregistratie
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tyo6ARajhEE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+# ~~show~~case
+
+Om de kandidaten in groepsverband een puzzel te laten oplossen is er gekozen voor een Escape Room achtig concept. Deze leent communicatieve element vanuit televisie spelshows en analytische patronen vanuit de game wereld.
+
+## Escape Room
+
+### Flow
+Het scenario is relatief simpel. Tijdens de selectiedag betreden de kandidaten een ruimte zonder enige vorm van instructie. Voor hun ligt een houten kist met een cijferslot en een viertal drop-in viewers. Ze werken aan het gezamenlijke doel om de houten kist open te krijgen. 
+
+Zodra ze de head-mounted display opzetten begeven alle vier de kandidaten zich in een virtuele ruimte. Dit lijken in eerste instantie dezelfde kamers maar iedere kandidaat ziet net andere details. Denk bijvoorbeeld aan een boekenkast waar, bij elke kandidaat, een aantal andere kleur boeken liggen. Deze subtiele verschillen zijn gelijk hints naar de code voor het cijferslot.
+
+Het is bij de Escape Room niet per sé van belang dat ze daadwerkelijk uit de ruimte ontsnappen, de manier waarop de kandidaten de case aanpakken is meer van belang Proces is belangrijk dan resultaat.
+
+> Je kijkt naar beneden en ziet dat jouw avatar rode schoenen heeft, bij een andere kandidaat staan er in  de boekenast vier rode boeken. Jouw persoonlijke cijfer is in dit geval 4.
+
+De kandidaten kunnen niet in elkaars kamer kijken en mogen de VR bril niet afzetten tijdens hun sessie waardoor ze alleen met spraak met elkaar kunnen communiceren.
+
+### Techniek
+Zoals eerder benoemd maak ik bijna uitsluitend gebruik van [A-Frame](https://aframe.io/). Voor het registeren van componenten heb ik in eerste instantie een bolierplate opgezet die de applicatie met [Webpack](https://webpack.js.org/) bundled.
+
+**Input**  
+Doordat er gebruikt gemaakt gaat worden van drop-in viewers zijn de mogelijkheden qua input beperkt. Bij drop-in viewers zijn er vaak geen game controllers of motion tracking hardware aanwezig. Door deze limitatie is het belangrijk om tijdens het technisch uitwerken rekening te houden met bepaalde interactie patronen (gaze tracking bijvoorbeeld) en vormen van input.
+
+Dit is in lijn met de requirement list, de applicatie optimaliseren voor deze specifieke low-cost hardware componenten en rekening houden met input en motion sickness.
+
+**Tech Stack**  
+* [A-Frame](https://aframe.io/)
+* [Webpack 4.0](https://www.npmjs.com/package/webpack)
+* [Webpack Dev Server](https://github.com/webpack/webpack-dev-server)
+* [Webpack HTML Plugin](https://github.com/webpack/webpack-dev-server)
+* [ESLint](https://eslint.org/)
+* [EditorConfig](http://editorconfig.org/)
