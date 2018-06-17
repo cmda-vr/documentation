@@ -40,6 +40,9 @@ Het aantal beelden per seconde (bps, Engels: frames per second, fps) is een maat
 ## Frameworks
 Een framework is een geheel van softwarecomponenten dat gebruikt kan worden bij het programmeren van applicaties. Vaak besluit een groep ontwikkelaars een toepassing te bouwen met behulp van een bestaand framework. Ontwikkelaars kunnen dan gemakkelijker elkaars werk overnemen.
 
+## Gaze Tracking
+Het meten van de afstand van de ogen ten opzichte van het gezicht. Bij VR door een cirkel in het midden van de head-mounted display te plaatsen, zoiets wordt in het engels vaak crosshair genoemd.
+
 ## Hardware
 Met hardware of apparatuur worden in de computertechniek alle fysieke componenten aangeduid die in een computer een rol spelen.
 
