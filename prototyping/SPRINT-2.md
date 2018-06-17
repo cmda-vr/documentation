@@ -1,4 +1,4 @@
-# Oplossingsrichting
+# Sprint 2 - Puzzels
 
 ## The Manual
 Met de teamrollen van Belbin in het achterhoofd ben ik in eerste instantie aan de slag gegaan met het prototypen van een versimpelde versie van **[Keep Talking and Nobody Explodes](https://productbiografie.dandevri.es/concepting/IDEAS.html).**
