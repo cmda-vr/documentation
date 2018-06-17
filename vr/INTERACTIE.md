@@ -1,3 +1,5 @@
+# Interactie
+
 Doordat er veel versnippering is qua hardware en hoe (voornamelijk games) interactiepatronen inzetten heb ik een kort overzicht gemaakt van veelvoorkomende varianten.
 
 ## Input

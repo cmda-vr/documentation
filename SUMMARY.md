@@ -11,7 +11,7 @@
 * [Hardware](vr/HARDWARE.md)
 * [Design](vr/VR-DESIGN.md)
 * [Techniek](vr/TECH.md)
-* [Interaction](vr/INTERACTION.md)
+* [Interactie](vr/INTERACTIE.md)
 
 ## 3. Research
 * [Design Challenge](research/DESIGN-CHALLENGE.md)
