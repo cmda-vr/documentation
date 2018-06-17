@@ -30,7 +30,7 @@ Een virtual reality puzzle game waarin je een geheime agent bent die dodelijke s
 
 | Kracht | Competentie |
 |-|-|
-| Elke sitatuatie een nieuw probleem oplossen, hints liggen verstopt door de kamer heen | Analytisch|
+| Elke situatie een nieuw probleem oplossen, hints liggen verstopt door de kamer heen | Analytisch|
 | Meerdere stappen in een bepaalde volgorde uitvoeren| Analytisch|
 | Luisteren naar wat er in het oortje van het personage gesproken wordt | Communicatief |
 
