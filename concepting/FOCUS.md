@@ -1,5 +1,3 @@
-**DIT MEER AANSCHERPEN MET BRONNEN**
-
 # Afbakening
 
 Naar aanleiding van het gedane onderzoek en meerdere gesprekken met de opdrachtgever (&samhoud consultancy)  en opdrachtnemer (&samhoud media) hebben we in overleg een duidelijke afbakening van het project gemaakt. Een afbakening van het uiteindelijke concept en product zorgt voor een specifiekere oplossing en meer focus met duidelijkere taken om actie op te ondernemen.
@@ -17,9 +15,6 @@ Daarnaast is een credo van &samhoud 'usual unusual', met recruitment wordt altij
 
 Tijdens zo'n selectiedag is het natuurlijk ook van belang een bepaalde impressie / indruk achter te laten bij de kandidaten over de bedrijfsvoering van de consultancy tak. Kandidaten worden met een interactieve toepassing op een positieve manier verrast en maken kennis met de mogelijkheden van andere business lines binnen de &samhoud group.
 
-## Techniek
-**DUS EERST MEERWAARDE VR UITLEGGEN DAN KOPPELING NAAR VR EN DAN EEN VERGELIJKING MAKEN VAN DE VERSCHILLENDE FRAMEWORKS**
-
 ## Low-cost hardware
 Vanwege de overvloed aan hardware zijn er keuzes gemaakt welke componenten voor deze situatie goed werken. Er wordt gebruikt gemaakt van een klein spectrum aan hardware componenten. De toepassing is geoptimaliseerd voor low-cost components, specifiek de zogeheten drop-in viewers (google cardboards) waarbij een kandidaat de smartphone gebruikt als head-mounted display.
 
@@ -30,14 +25,15 @@ Vanwege de overvloed aan hardware zijn er keuzes gemaakt welke componenten voor 
 
 Ook na de selectieprocedure op locatie worden de drop-in viewers gebruikt voor een terugkoppeling, de kandidaten kunnen na afloop de drop-in viewer gemakkelijk meenemen.
 
-**HIER DAN NOG WAT OVER LIMITATIES EN MAGNEET CARDBOARD**
-
-## Keuze WebVR
+### Techniek
 De voordelen van WebVR staan iets meer in-depth beschreven in de [context](/vr/WEBVR.md) sectie. De grootste voordelen zijn; 
 
 * Korte opstart: er hoeft geen aparte applicatie geinstalleerd te worden. Het opstarten van een ervaring kan bestaat dus simpelweg uit het bezoeken van url in de browser.
 * Cross-platform compabiliteit: de opdrachtgever zit niet verbonden aan specifieke hardware of bestaande platformen.
 * Als developer kan ik gebruik maken van de bestaande kennis en infrastructuur die het web te bieden heeft.
+
+### Input
+Voor het project beperken we ons tot drop-in viewers zonder controllers en de magneet als trigger. Er is teveel fragmentatie binnen de soorten drop-in viewers, zoals op de eigen [Google Cardboard specificatie](https://vr.google.com/cardboard/get-cardboard/) site te zien is kun je er niet standaard van uitgaan dat een drop-in viewer de functie van de magneet heeft. Daarnaast zijn de prijzen van cardboard viewers zonder magneet vaak [goedkoper](https://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=cardboard+viewer&viewtype=G) waardoor het qua inkoopkosten aantrekkelijk is om ze in wholesale aan te schaffen. De cardboards worden natuurlijk niet hergebruikt maar meegennomen door de kandidaten.
 
 ## Ethiek
 Het recruitment process is vaak een gevoelige tak van sport, je kunt vraagtekens zetten bij het toepassen van een VR ervaring in deze context. &samhoud consultancy vind dit ethisch verantwoord; 'kandidaten zien digitale ervaringen vaak als een positieve verassing en vinden het tevens interessant om te zien wat de mogelijkheden zijn binnen het vakgebied.'

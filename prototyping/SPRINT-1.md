@@ -60,7 +60,7 @@ require('aframe');
 Doordat je in A-Frame uitsluitend werkt in html (afgezien van custom events en de build tools eromheen) wordt de `index.html` al snel lang en onoverzichtelijk. Omdat ik toch al gebruik maakte van Webpack was het een logisch keuze om daarbij `html-loader` te gebruiken zodat ik HTML snippets en partials kan `includen`.
 
 ### A-assets
-Daarnaast wordt het door A-Frame aangeraden om gebruik te maken van het assets systeem. Door externe files (afbeeldingen, modellen) te cachen in memory zijn er voor vervolgbezoeken aan de pagina minder requests nodig.
+Daarnaast wordt het door A-Frame aangeraden om gebruik te maken van het assets systeem. Door externe files (afbeeldingen, modellen) te cachen in memory zijn er voor vervolgbezoeken aan de pagina minder requests nodig ([A-Frame, Best Practices](https://aframe.io/docs/0.8.0/introduction/best-practices.html)).
 
 ## Feedback volgende Iteratie
 Doordat er bij de opdrachtgever geen technische mensen aanwezig zijn heb ik vanuit deze partij weinig feedback gekregen. Vandaar dat ik vooral op de opleiding en aan mede-studenten m'n broncode heb laten zien. Over het algemeen was deze duidelijk en begrijpbaar.
