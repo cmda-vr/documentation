@@ -62,4 +62,13 @@ Vooral de laatste paar jaren zijn bedrijven meer aan het experimenteren met het 
 | [Militaire simulaties](https://www.army.mil/article/84453/) | Training |
 | [Austronaut simulatie](https://unimersiv.com/how-nasa-is-using-virtual-and-augmented-reality-to-train-astronauts-37/) | Training |
 | [KLM Flight Simulator](https://www.youtube.com/watch?v=0iSYp-ny54o)| Training |
+
+### Recruitment
+Een aantal voorbeelden waarbij VR in het recruitment proces ingezet is.
+
+| Voorbeeld | Type |
+|-|-|
 | [Albert Heijn Onboarding](https://www.samhoudmedia.com/agency/welkom-bij-onze-albert-heijn)| Onboarding |
+| [Young Capital](https://www.youngcapital.nl/public_images/Files/yc-recruiter/index.html)| Office Tour |
+| [General Mills](https://www.youtube.com/watch?v=IeOkqu7nNB0)| Office Tour |
+| [Jet](https://techcrunch.com/2015/10/27/jet-uses-samsung-gear-vr-to-recruit-new-candidates/)| Office Tour |
