@@ -17,6 +17,8 @@ Al deze manier van input kunnen gebruikt worden op het web ([Google, Adding Inpu
 ### Magneet drop-in viewers
 Bij de drop-in viewers is er, afgezien van het materiaal (karton of plastic), vaak onderscheid te maken tussen de manier van input. Drop-in viewers kunnen *wel* of *niet* input creeëren door de een magneet aan de zijkant van de viewer te plaatsen. Door het bewegen van de magneet pakt de telefoon het [signaal van de magnetometer](https://www.youtube.com/watch?v=-zpK4btcH84) op.
 
+Het gebruik van de magneet zou een eis kunnen zijn aan de hardware die we voor het project gebruiken. Al weegt het feit dat we zonder het gebruik van de magneet meer drop-in viewers kunnen ondersteunen en daarnaast (zoals hieronder beschreven staat) aardig wat andere manieren van interactie zijn zwaarder.
+
 ## Interactie
 
 Deze manieren van interactie en selecteren zijn specifiek gericht op hardware die geen gebruik maakt van controllers (zowel 3dof als 6dof) of de magnetometer.
