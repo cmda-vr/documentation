@@ -53,3 +53,13 @@ Het mooie aan [Wie is de Mol](https://wieisdemol.avrotros.nl/home/) is dat veel 
 | Medespelers hebben elkaar nodig om verder te komen in het spel| Communicatief, Groepsverband |
 | Communicatie verloopt vaak stroef door portofoons | Communicatief |
 | Communicatie verloopt vaak stroef door portofoons | Communicatief |
+
+## Praktische toepassing
+Vooral de laatste paar jaren zijn bedrijven meer aan het experimenteren met het inzetten van Virtual Reality voor trainingen of het onboarden van nieuwe medewerkers.
+
+| Voorbeeld | Type |
+|-|-|
+| [Militaire simulaties](https://www.army.mil/article/84453/) | Training |
+| [Austronaut simulatie](https://unimersiv.com/how-nasa-is-using-virtual-and-augmented-reality-to-train-astronauts-37/) | Training |
+| [KLM Flight Simulator](https://www.youtube.com/watch?v=0iSYp-ny54o)| Training |
+| [Albert Heijn Onboarding](https://www.samhoudmedia.com/agency/welkom-bij-onze-albert-heijn)| Onboarding |
