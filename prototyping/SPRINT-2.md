@@ -1,5 +1,9 @@
 # Sprint 2 - Puzzels
 
+**Week 11 - 13**
+
+Na het opzetten van de boilerplates en de eerste technische opzet ben ik aan de slag gaan om de eerste puzzels uit te werken.
+
 ## The Manual
 Met de teamrollen van Belbin in het achterhoofd ben ik in eerste instantie aan de slag gegaan met het prototypen van een versimpelde versie van **[Keep Talking and Nobody Explodes](https://productbiografie.dandevri.es/concepting/IDEAS.html).**
 
@@ -55,8 +59,17 @@ Bij deze puzzel heb ik twee versies gemaakt, één waarbij de ontbrekende puzzel
 
 | Positief | 
 |-|
-| Concrete uitdaging en oplossing | 
+| Het eindresultaat is snel duidelijk waardoor het voor iedereen snel begrijpbaar is | 
+| Visuele weergave is aantrekkelijk en herkenbaar | 
 
 | Negatief | 
 |-|
 | Focus van puzzel ligt wederom veel op het individu | 
+
+## Feedback volgende Iteratie
+
+| Feedback opdrachtgever | 
+|-|
+| 'Het opstarten van de puzzels kost veel werk, we moeten steeds naar aparte links.' | 
+| 'De puzzels geven een goede impressie van de werking van WebVR en eventuele toepassingen maar we missen eigenlijk nog een praktische inzetbaar toepassing.' | 
+| 'Bij &samhoud maken we bijna uitsluitend gebruik van iPhones, kunnen we dat van kandidaten ook verwachten?' | 

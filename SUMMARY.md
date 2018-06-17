@@ -27,7 +27,7 @@
 
 ## 5. Prototyping
 * [Werkwijze](prototyping/WORKING.md)
-* [Sprint 1 - Bolierplates](prototyping/SPRINT-1.md)
+* [Sprint 1 - Boilerplates](prototyping/SPRINT-1.md)
 * [Sprint 2 - Puzzels](prototyping/SPRINT-2.md)
 * [Sprint 3 - 360-video's](prototyping/SPRINT-3.md)
 * [Sprint 4 - Toolkit](prototyping/SPRINT-4.md)

@@ -1,13 +1,10 @@
-**HIER GAAT HET DUS VOORAL OM DE TECHNISCHE UITWERKING EN AANPASSING OP BASIS VAN DE VALIDATIE**
-
 ## Toolkit
-Het is voor de observant belangrijk dat de applicatie(s) snel en gemakkelijk zijn op te starten. Hiervoor heb ik een centrale toolkit (website) gemaakt vanwaar alle puzzels opgestart kunnen worden. 
-
-Dit is een belangrijke requirement vanuit de opdrachtgever. De toepassingen moeten op een centrale plek gehost worden en vanuit één website makkelijk opgestart kunnen worden.
+De puzzels, waaronder de eerste opzet van de Escape Room, zijn samengebracht tot een centrale toolkit (website) vanwaar alle 
+alle puzzels gemakkelijk opgestart kunnen worden. Dit is een belangrijke requirement vanuit de opdrachtgever. De toepassingen moeten op een centrale plek gehost worden en vanuit één website makkelijk opgestart kunnen worden.
 
 ![Prototype Toolkit](/resources/prototype-toolkit.jpg)
 
-Hiervoor maak ik gebruik van [Node.js](), [Express]() en [Pug]() om de desbetreffende pagina's te renderen en door te linken naar de juiste puzzels.
+Hiervoor maak ik gebruik van [Node.js](https://nodejs.org/en/), [Express](https://expressjs.com/) en [Pug](https://pugjs.org/api/getting-started.html) om de desbetreffende pagina's te renderen en door te linken naar de juiste puzzels. De opzet met Node en Express is vooral gekozen voor de eventuele enhancement van een accountsysteem. De toolkit is alleen bedoelt voor intern gebruik. Een eventuele feature die ik nog graag had willen toevoegen is dat alleen observant met een &samhoud mailadres kunnen inloggen.
 
 [GitHub Repository](https://github.com/samhoudmedia/showcase/blob/master/README.md)
 
@@ -26,22 +23,9 @@ Voor basic styling heb ik op basis van de &samhoud brand styleguide een pattern 
 ### Videoregistratie
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tyo6ARajhEE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# ~~show~~case
+## Puzzels
 
-Om de kandidaten in groepsverband een puzzel te laten oplossen is er gekozen voor een Escape Room achtig concept. Deze leent communicatieve element vanuit televisie spelshows en analytische patronen vanuit de game wereld.
-
-## Escape Room
-
-### Flow
-Het scenario is relatief simpel. Tijdens de selectiedag betreden de kandidaten een ruimte zonder enige vorm van instructie. Voor hun ligt een houten kist met een cijferslot en een viertal drop-in viewers. Ze werken aan het gezamenlijke doel om de houten kist open te krijgen. 
-
-Zodra ze de head-mounted display opzetten begeven alle vier de kandidaten zich in een virtuele ruimte. Dit lijken in eerste instantie dezelfde kamers maar iedere kandidaat ziet net andere details. Denk bijvoorbeeld aan een boekenkast waar, bij elke kandidaat, een aantal andere kleur boeken liggen. Deze subtiele verschillen zijn gelijk hints naar de code voor het cijferslot.
-
-Het is bij de Escape Room niet per sé van belang dat ze daadwerkelijk uit de ruimte ontsnappen, de manier waarop de kandidaten de case aanpakken is meer van belang Proces is belangrijk dan resultaat.
-
-> Je kijkt naar beneden en ziet dat jouw avatar rode schoenen heeft, bij een andere kandidaat staan er in  de boekenast vier rode boeken. Jouw persoonlijke cijfer is in dit geval 4.
-
-De kandidaten kunnen niet in elkaars kamer kijken en mogen de VR bril niet afzetten tijdens hun sessie waardoor ze alleen met spraak met elkaar kunnen communiceren.
+Met de teamrollen van Belbin in het achterhoofd ben ik in eerste instantie aan de slag gegaan met het prototypen van verschillende puzzels.
 
 ### Techniek
 Zoals eerder benoemd maak ik bijna uitsluitend gebruik van [A-Frame](https://aframe.io/). Voor het registeren van componenten heb ik in eerste instantie een bolierplate opgezet die de applicatie met [Webpack](https://webpack.js.org/) bundled.
@@ -59,4 +43,15 @@ Dit is in lijn met de requirement list, de applicatie optimaliseren voor deze sp
 * [ESLint](https://eslint.org/)
 * [EditorConfig](http://editorconfig.org/)
 
-## Validatie
+## Escape Room
+
+Om de kandidaten meer in groepsverband een case te laten oplossen is er in een later stadium gekozen om de sterke aspecten van alle puzzels samen te voegen tot een (virtuele) Escape Room. Vanwege tijdsgebrek heb ik hier alleen een eerste opzet van kunnen maken. De gebruikte techniek voor de Escape Room is nagenoeg hetzelfe als de voorgaande puzzels.
+
+Het is belangrijk om te benoemen dat m'n Design Challenge NIET de Escape Room is. Het gaat om het inzetten van WebVR tijdens de selectiedag en of dat uberhaupt mogelijk is. De Escape Room is daar EEN VORM van, die ik verder had kunnen en willen uitwerken als er meer tijd was geweest.
+
+## Validatie en Feedback
+| Rol | Omschrijving |
+|-|-|
+| Opdrachtgever | De detail pagina's geven ook voor andere observanten en recruiters een impressie wat het doel is van een bepaalde case |
+| Designer | De stijl van de website sluit goed aan bij de styleguide maar hier en daar mis ik wel verfijning in animatie |
+| Designer | Door gebruik te maken van de kaarten en afbeeldingen is het makkelijk een impressie te krijgen naar welke case je kijkt, zonder de ondertitels te lezen of naar de detail pagina te gaan |

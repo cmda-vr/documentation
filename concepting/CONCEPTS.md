@@ -1,8 +1,5 @@
-**HIER MEER OVER HOE DE TOOLKIT TOT STAND IS GEKOMEN**
+# Concepten
 
-**FOCUS DAN IETS VERLEGGEN NAAR DE ESCAPE ROOM, DAT DIT IN EEN LAAT STADIUM IS GEKOMEN**
+Na het brainstormen, de idee ontwikkeling en de afbakening qua techniek en hardware zijn we uiteindelijk op twee producten uitgekomen om te prototypen. In eerste instantie een aantal kleine versimpelde cases op basis van verschillende Virtual Reality Puzzle games die beschreven staan in de sectie [idee ontwikkeling](https://productbiografie.dandevri.es/concepting/IDEAS.html). In een later stadium zijn we uiteindelijk op het idee gekomen om een (virtuele) Escape Room na te bootsen. Hoe dit iteratieve proces en het uitwerken van prototypes zijn gegaan staat in het volgende prototyping hoofdstuk beschreven.
 
-# Concept
-Na nog wat brainstormen zijn we uiteindelijk op het idee gekomen om een (virtuele) Escape Room na te bootsen. Deze leent communicatieve elementen van Wie is de Mol en analytische puzzel patronen uit de game wereld.
-
-Na afloop van de selectiedag nemen de kandidaten de drop-in viewers mee en zouden we deze op een bepaalde manier opnieuw kunnen gebruiken. Bijvoorbeeld een puzzel die ze thuis kunnen spelen of een persoonlijke video. Daarnaast zou het eventueel een mogelijkheid zijn om hun eigen prestatie terug te kijken. Het terugkoppelen van feedback door de observanten (via de telefoon) is goed al is het wellicht nog concreter om te laten zien waar deze feedback op gebasseerd is.
+Na afloop van de selectiedag nemen de kandidaten de drop-in viewers mee en is het idee om deze op bepaalde manier opnieuw te kunnen gebruiken. Bijvoorbeeld in de vorm van een puzzel die ze thuis kunnen spelen of een persoonlijke video. Daarnaast zou het eventueel een mogelijkheid zijn om de kandidaten achteraf een optie te geven om hun eigen prestatie terug te bekijken.
