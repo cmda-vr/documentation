@@ -3,7 +3,7 @@
 Doordat er veel versnippering is qua hardware en hoe (voornamelijk games) interactiepatronen inzetten heb ik een kort overzicht gemaakt van veelvoorkomende varianten.
 
 ## Input
-Er is op het web niet één duidelijke manier van input. Door verschillende platforms en apparaten zijn er verschillende soorten input mogelijk ([Aframe, Interaction](https://aframe.io/docs/0.8.0/introduction/interactions-and-controllers.html#adding-3dof-controllers-daydream-controls-gearvr-controls)).
+Er is op het web niet één duidelijke manier van input. Door verschillende platforms en apparaten zijn er verschillende soorten input mogelijk ([A-Frame, Interaction](https://aframe.io/docs/0.8.0/introduction/interactions-and-controllers.html#adding-3dof-controllers-daydream-controls-gearvr-controls)).
 
 Al deze manier van input kunnen gebruikt worden op het web ([Google, Adding Input](https://developers.google.com/web/fundamentals/vr/adding-input-to-a-webvr-scene/)).
 

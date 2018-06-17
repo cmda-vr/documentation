@@ -33,7 +33,7 @@ Bovenop deze API's zijn er abstractielagen gemaakt in de vorm van frameworks.
 | [ReactVR](https://facebook.github.io/react-360/) | Leercurve React|
 | [Three.js](https://threejs.org/) | Te Complex |
 
-Uiteindelijk heb ik de keuze gemaakt om voornamelijk gebruikt te maken van A-frame.
+Uiteindelijk heb ik de keuze gemaakt om voornamelijk gebruikt te maken van A-Frame.
 
 | Reden |
 |-|

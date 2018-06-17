@@ -1,6 +1,6 @@
-# A-frame documentation
+# A-Frame documentation
 
-## What is A-frame
+## What is A-Frame
 > A-Frame is a web framework for building virtual reality (VR) experiences. 
 
 It's based on top of HTML making it simple to get started. It is not just a 3D scene graph or a markup language. A-Frame aims to define fully immersive interactive VR experiences that go beyond basic 360° content, making full use of positional tracking and controllers.
@@ -27,9 +27,9 @@ Technology that uses head-mounted headsets with displays to put users into an im
 All headsets provide atleast rotational tracking. Positional tracking are becoming minimum viable experience.
 
 ### What is WebVR?
-It's a JavaScript API creating VR experiences in the browser. A-frame uses the WebVR API to gain access to VR headset data. *Note that WebVR, which provides data, should not be confused nor conflated with WebGL, which provides graphics and rendering.*
+It's a JavaScript API creating VR experiences in the browser. A-Frame uses the WebVR API to gain access to VR headset data. *Note that WebVR, which provides data, should not be confused nor conflated with WebGL, which provides graphics and rendering.*
 
-### Where does A-frame want to take WebVR
+### Where does A-Frame want to take WebVR
 VR content with native-like performance. *A-Frame believes the minimum viable bar will trend towards positionally-tracking headsets with positionally-tracked controllers.* A-Frame wants everyone to be able to get involved with VR content creation
 
 ### Support
