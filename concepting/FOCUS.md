@@ -13,6 +13,8 @@ Een digitale case kan de volgende vormen van immersie vergroten;
 
 Daarnaast wordt er veel onderzoek gedaan naar welke activiteiten er plaatsvinden in het brein. Uit recent onderzoek ([Zappar, Heather Andrew](https://www.zappar.com/blog/how-augmented-reality-affects-brain/)) bleek nog dat door een AR toepassing de 'visual attention' in het brein vergroot wordt er 70% meer opgeslagen in het geheugen opgeslagen word ten opzichte van tekst op papier.
 
+In 2015 heeft het British Musem ([Museums and the Web 2016](https://mw2016.museumsandtheweb.com/paper/virtual-reality-at-the-british-museum-what-is-the-value-of-virtual-reality-environments-for-learning-by-children-and-young-people-schools-and-families/)) geëxperimteerd met het inzetten van Virtual Reality om de waarde van dit medium te meten. Wederom was de conclusie dat VR een positieve impact heeft op de reactie en de 'involement' van gebruikers.
+
 ### Teamrollen en Competenties
 Als de kandidaten in groepsverband gaan werken is het voor de observanten interessant om te zien hoe de kandidaten zich gedragen tijdens de ervaring. Door de head-mounted displays kunnen ze alleen door spraak met elkaar communiceren waardoor de teamrollen ([Belbin](http://www.belbin.com/about/belbin-team-roles/)) beter naar voren komen.
 
