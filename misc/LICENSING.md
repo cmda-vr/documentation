@@ -15,7 +15,7 @@ Open-source software (OSS) is software waarbij de broncode publiekelijk beschikb
 De broncode van deze software wordt in veel gevallen *gehost* op het GitHub platform. In een zogeheten *repository* (digitale map) staat de broncode online. Het GitHub platform biedt allerlei extra features die bijvoorbeeld de samenwerking in een team bevorderen of het makkelijker maken voor andere developers om aa de slag te gaan met jouw broncode.
 
 ### Versiebeheer
-Het GitHub platform maakt gebruik van het versiebeheer systeem *Git*. Versiebeheer houdt bij welke wijzigingen in code er worden gemaakt. Met versiebeheer maak je eigenlijk om de zoveel tijd een 'snapshot' van je broncode.
+Het GitHub platform maakt gebruik van het versiebeheer systeem *Git*. Versiebeheer houdt bij welke wijzigingen in code er worden gemaakt. Met versiebeheer maak je eigenlijk om de zoveel tijd een ‘snapshot’ van je broncode.
 
 Er is dus wel duidelijke verschil tussen Git & GitHub. Git is de onderliggende techniek en GitHub is een platform die deze techniek implementeert.
 

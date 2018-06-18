@@ -11,7 +11,7 @@
 
 # Begripsbepaling
 * Ontwikkelaar; in deze context specifiek web ontwikkelaars (front-end developers).
-* Low-cost; alle virtual reality hardware die in de 'Cardboard' categorie vallen. Je gebruikt een smartphone als head-mounted display.
+* Low-cost; alle virtual reality hardware die in de ‘Cardboard’ categorie vallen. Je gebruikt een smartphone als head-mounted display.
 * Opdrachtgever; refereert naar &samhoud consultancy.
 * Opdrachtnemer: refereert naar &samhoud media.
 * Kandidaten: refereert naar aankomende junior consultants.
@@ -59,10 +59,10 @@ Gemengde werkelijkheid of interrealiteit is de vermenging van de werkelijke were
 Een Native-app wordt specifiek ontwikkeld voor een platform (Android, iOS, Windows Phone) in een eigen codeertaal. Een Native-app is een applicatie die wordt aangeboden in de App-store van je smartphone of Tablet.
 
 ## Randapparatuur
-Randapparatuur (Engels; periferal) is in de context van computers hardware die niet behoort tot de centrale rekeneenheid maar 'ernaast' gebruikt wordt om de computer geschikt te maken voor een bepaalde taak.
+Randapparatuur (Engels; periferal) is in de context van computers hardware die niet behoort tot de centrale rekeneenheid maar ‘ernaast’ gebruikt wordt om de computer geschikt te maken voor een bepaalde taak.
 
 ## Recruitment
-Het werven, screenen, testen en selecteren van geschikte kandidaten voor een bepaalde functie in een organisatie. Dit hele traject noemt men vaak het 'recruitment process'. 
+Het werven, screenen, testen en selecteren van geschikte kandidaten voor een bepaalde functie in een organisatie. Dit hele traject noemt men vaak het ‘recruitment process’. 
 
 ## Virtual Reality
 Virtuele werkelijkheid of schijnwerkelijkheid (Engels: virtual reality, afgekort: VR) simuleert een omgeving via een computer om een gebruiker via diverse zintuigen onder te dompelen in een ervaring. Jou overtuigen van het feit dat je in een andere omgeving bent. Met technologie manipuleren we het brein om ervoor te zorgen dat iemand volledig opgaat in een nieuwe virtuele omgeving.

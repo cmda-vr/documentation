@@ -33,7 +33,7 @@ Op basis van het concept van [I Expect You To Die](https://productbiografie.dand
 
 Bij het maken van de eerste versie heb ik geprobeerd om de setting in 3D met objecten modellen na te bootsen, hier kwam ik er al vrij snel achter dat het te tijdrovend is om alles in objecten te doen.
 
-Toen ben ik gaan kijken naar een alternatief en uiteindelijk bij een 360-foto uitgekomen. In plaats van aparte modellen in te laden heb ik een bestaande 360-foto gepakt en hierin een 4-cijferige code 'verstopt'. 
+Toen ben ik gaan kijken naar een alternatief en uiteindelijk bij een 360-foto uitgekomen. In plaats van aparte modellen in te laden heb ik een bestaande 360-foto gepakt en hierin een 4-cijferige code ‘verstopt’. 
 
 ![Hotel Room](/resources/hotel-room.jpg)
 
@@ -51,7 +51,7 @@ Toen ben ik gaan kijken naar een alternatief en uiteindelijk bij een 360-foto ui
 | Meerdere moeilijkheidsgradaties door te spelen met de zichtbaarheid van de hints | 
 
 ## Soma Cube
-Als laatste heb ik nog een kort uitstapje gemaakt door de Soma Cube van Piet Hein te digitaliseren, Sascha gaf in onze gesprekken aan dat ze het eventueel ook leuk zouden vinden om kandidaten iets meer te 'testen' op inzicht.
+Als laatste heb ik nog een kort uitstapje gemaakt door de Soma Cube van Piet Hein te digitaliseren, Sascha gaf in onze gesprekken aan dat ze het eventueel ook leuk zouden vinden om kandidaten iets meer te ‘testen’ op inzicht.
 
 Bij deze puzzel heb ik twee versies gemaakt, één waarbij de ontbrekende puzzelstukken in de ruimte aanwezig zijn. Een ander waarbij de gebuiker het puzzelstuk op papier moet tekenen.
 
@@ -70,6 +70,6 @@ Bij deze puzzel heb ik twee versies gemaakt, één waarbij de ontbrekende puzzel
 
 | Feedback opdrachtgever | 
 |-|
-| 'Het opstarten van de puzzels kost veel werk, we moeten steeds naar aparte links.' | 
-| 'De puzzels geven een goede impressie van de werking van WebVR en eventuele toepassingen maar we missen eigenlijk nog een praktische inzetbaar toepassing.' | 
-| 'Bij &samhoud maken we bijna uitsluitend gebruik van iPhones, kunnen we dat van kandidaten ook verwachten?' | 
+| ‘Het opstarten van de puzzels kost veel werk, we moeten steeds naar aparte links.‘ | 
+| ‘De puzzels geven een goede impressie van de werking van WebVR en eventuele toepassingen maar we missen eigenlijk nog een praktische inzetbaar toepassing.’ | 
+| ‘Bij &samhoud maken we bijna uitsluitend gebruik van iPhones, kunnen we dat van kandidaten ook verwachten?’ | 

@@ -1,5 +1,5 @@
 ## Hardware voor Virtual Reality
-Voor de gemiddelde consument is VR hardware nog maar relatief kort (zie [Oculus Development Kit](https://en.wikipedia.org/wiki/Oculus_Rift#Development_Kit_1)) op de markt. De verschillende soorten VR apparaten focussen elk op andere prijssegmenten en verschillende kenmerken. Tien jaar geleden was het niet geheel ongewoon dat 'liefhebbers' verschikkelijk veel geld uitgaven voor dergelijke systemen. Vanaf 2012 (komst Oculus en dus Consumer Grade) lag de prijs rond de €1000,-. Deze prijzen zijn de afgelopen jaren nog verder gedaald, zoals blijkt uit de [Tweakers Pricewatch](https://tweakers.net/pricewatch/480416/htc-vive.html), een [HTC vive head-mounted display](https://www.vive.com/eu/) is al voor €600,- te bestellen.
+Voor de gemiddelde consument is VR hardware nog maar relatief kort (zie [Oculus Development Kit](https://en.wikipedia.org/wiki/Oculus_Rift#Development_Kit_1)) op de markt. De verschillende soorten VR apparaten focussen elk op andere prijssegmenten en verschillende kenmerken. Tien jaar geleden was het niet geheel ongewoon dat ‘liefhebbers’ verschikkelijk veel geld uitgaven voor dergelijke systemen. Vanaf 2012 (komst Oculus en dus Consumer Grade) lag de prijs rond de €1000,-. Deze prijzen zijn de afgelopen jaren nog verder gedaald, zoals blijkt uit de [Tweakers Pricewatch](https://tweakers.net/pricewatch/480416/htc-vive.html), een [HTC vive head-mounted display](https://www.vive.com/eu/) is al voor €600,- te bestellen.
 
 De meeste VR hardware kits hebben over het algemeen vier componenten ([Tony Parisi, Learning Virtual Reality](http://shop.oreilly.com/product/0636920038467.do));
 
@@ -16,7 +16,7 @@ Het hoofdingredïent van VR, een beeldscherm dat elke seconde 60 frames genereer
 ![hardware-1](/resources/hardware-1.jpg)
 
 **Motion Tracking Hardware:**  
-Meet de beweging van het hoofd met een *['inertial measurement unit](https://en.wikipedia.org/wiki/Inertial_measurement_unit)' (IMU)*. Vaak een combinatie van verschillende meetapparaten, zoals de accelerometer en gyroscope, in veel smartphones te vinden zijn. 
+Meet de beweging van het hoofd met een *[‘inertial measurement unit’](https://en.wikipedia.org/wiki/Inertial_measurement_unit) (IMU)*. Vaak een combinatie van verschillende meetapparaten, zoals de accelerometer en gyroscope, in veel smartphones te vinden zijn. 
 
 ![hardware-2](/resources/hardware-2.jpg)
 
@@ -31,7 +31,7 @@ Al deze randapparatuur sluiten de gebruikers vaak aan op hardware (computers, sm
 ![hardware-4](/resources/hardware-4.jpg)
 
 ## Scene
-Elke VR omgeving heeft een *'point of view' (POV)*; het punt van waar de gebruiker de omgeving bekijkt. 3D systemen gebruiken hiervoor over het algemeen een virtuele camera, een object dat bepaald waar in de scene een gebruiker is gepositioneerd.
+Elke VR omgeving heeft een *‘point of view’ (POV)*; het punt van waar de gebruiker de omgeving bekijkt. 3D systemen gebruiken hiervoor over het algemeen een virtuele camera, een object dat bepaald waar in de scene een gebruiker is gepositioneerd.
 
 In VR moeten we het renderen van de POV dubbel doen, voor elk oog.
 * Bepalen positie van de hoofdcamera in de scene.
@@ -40,9 +40,9 @@ In VR moeten we het renderen van de POV dubbel doen, voor elk oog.
 
 # Low-cost Virtual Reality
 
-De aanschafprijs van hardware en componenten is voor veel consumenten een vrij grote drempel om overheen te stappen. Met de komst van de *['Cardboard'](https://vr.google.com/cardboard/)* is er een hele nieuwe groep consumenten en ontwikkelaars van [VR ervaringen](https://experiments.withgoogle.com/collection/webvr) ontstaan. 
+De aanschafprijs van hardware en componenten is voor veel consumenten een vrij grote drempel om overheen te stappen. Met de komst van de *[‘Cardboard’](https://vr.google.com/cardboard/)* is er een hele nieuwe groep consumenten en ontwikkelaars van [VR ervaringen](https://experiments.withgoogle.com/collection/webvr) ontstaan. 
 
-Cardboard refereert naar de techniek waarbij je een bestaande smartphone omzet in een *['VR box'](https://www.quora.com/What-is-a-VR-box)*. De smartphone stop je in een *'drop-in viewer'* waardoor er een head-mounted display ontstaat.
+Cardboard refereert naar de techniek waarbij je een bestaande smartphone omzet in een *[‘VR box’](https://www.quora.com/What-is-a-VR-box)*. De smartphone stop je in een *‘drop-in viewer’* waardoor er een head-mounted display ontstaat.
 
 Het is een minder meeslepende ervaring ten opzichte van dure hardware, en veel mensen die al langer met Virtual Reality bezig zijn vinden het een inferieure ervaring ([Tony Parisi, Learning Virtual Reality](http://shop.oreilly.com/product/0636920038467.do)), maar het is voor veel consumenten wel de eerste aanraking met Virtual Reality.
 

@@ -4,11 +4,11 @@
 
 Tijdens de eerste brainstormsessie kwam het al eens naar voren, door de portabiliteit van de low-cost hardware componenten zouden we afgezien van de selectiedag iets qua terugkoppeling kunnen doen. In eerste instantie was het idee om een aantal mini-games te maken maar om eerlijk te zijn zag ik daar het nut niet zo van in.
 
-Er is al een [non-vr minigame](https://career.samhoud.com/playthegame) beschikbaar voor &consultancy kandidaten en voor mij was het moeilijk te onderbouwen wat de toegevoegde waarde van de games zou zijn, het voelde als een 'gimmick' die onnodig veel tijd zou kosten om te ontwikkelen.
+Er is al een [non-vr minigame](https://career.samhoud.com/playthegame) beschikbaar voor &consultancy kandidaten en voor mij was het moeilijk te onderbouwen wat de toegevoegde waarde van de games zou zijn, het voelde als een ‘gimmick’ die onnodig veel tijd zou kosten om te ontwikkelen.
 
 ## Probleemsituatie
 Tijdens een wekelijkse catch-up kwam Sascha met een interessant gegeven;
-> 'Salem kan helaas niet altijd aanwezig zijn bij de selectiedag, alleen tijdens het vervolggesprek na de selectiedag is hij erbij.'
+> ‘Salem kan helaas niet altijd aanwezig zijn bij de selectiedag, alleen tijdens het vervolggesprek na de selectiedag is hij erbij.’
 
 Toen ik hierover doorvroeg bleek ook dat de uitnodiging voor het vervolggesprek vaak door de recruiters telefonisch of over de mail gedaan wordt. Toen klikte het opeens, wat nou als we een persoonlijke boodschap met Salem opnemen die de kandidaten uitnodigd voor het volgende gesprek?
 
@@ -16,9 +16,9 @@ Vanaf dat punt ging alles eigenlijk vrij snel, Salem was diezelfde week nog besc
 
 ## Meerwaarde 360-video
 
-De keuze voor 360-video ten opzichte van 'reguliere' video content komt vooral voort uit marketing doeleinden. De [Click-through rate](http://magnifyre.com/360-degree-video-case-study/) en [engagement bij advertenties](https://www.thinkwithgoogle.com/advertising-channels/video/360-video-advertising/) liggen hoger bij een 360-ervaring. Al zijn dit valide redenen om te kijken voor dit medium, binnen de context van dit project hecht ik hier weinig waarde aan.
+De keuze voor 360-video ten opzichte van ‘reguliere’ video content komt vooral voort uit marketing doeleinden. De [Click-through rate](http://magnifyre.com/360-degree-video-case-study/) en [engagement bij advertenties](https://www.thinkwithgoogle.com/advertising-channels/video/360-video-advertising/) liggen hoger bij een 360-ervaring. Al zijn dit valide redenen om te kijken voor dit medium, binnen de context van dit project hecht ik hier weinig waarde aan.
 
-Voor mij zit het hem vooral in het feit dat jede gebruiker meer door de ervaring kunt [leiden](https://vimeo.com/blog/post/virtual-reality-vs-360-degree-video) door focus points te maken. Omdat het om een 'persoonlijke boodschap' van Salem betreft kun je de ervaring een stuk intiemer maken. Door de setting en manier van opnemen (beschreven in de volgende sectie) leidt dit minimaal van de boodschap die Salem gedurende de video verteld. 
+’ van Salem betreft kun je de ervaring een stuk intiemer maken. Door de setting en manier van opnemen (beschreven in de volgende sectie) leidt dit minimaal van de boodschap die Salem gedurende de video verteld. 
 
 ## Concept
 

@@ -5,7 +5,7 @@
 In de week van de groenlichtpresentatie begon er toch wel wat te knagen, de afgelopen weken heb ik veel meer hands-on technische prototypes uitgewerkt en de puzzels dienen als interessante exploraties maar voor m'n gevoel mist ik nog echt een case die in groepsverband tijdens de selectiedag ingezet kon worden.
 
 Ondanks het gedane onderzoek en de prototype puzzels, die als goede basis diende voor een proof of concept, was de opdrachtgever het met me eens.
-> 'Het zou mooi zijn als we alle sterke punten van voorgaande puzzels konden combineren tot één grote groepscase.'
+> ‘Het zou mooi zijn als we alle sterke punten van voorgaande puzzels konden combineren tot één grote groepscase.’
 
 Het einde van het project naderde snel maar er waren nog een aantal weken over. Toen hebben we collectief besloten om de iteraties en enhancements van de vorige puzzels te laten voor wat het is en de focus te verleggen naar één grote groepscase.
 

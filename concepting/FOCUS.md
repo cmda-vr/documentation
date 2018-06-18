@@ -5,23 +5,23 @@ Naar aanleiding van het gedane onderzoek en meerdere gesprekken met de opdrachtg
 ## Meerwaarde Virtual Reality
 
 ### User Engagement
-Een Virtual Reality toepassing vergroot over het algemeen de **user engagement**. Doordat de cases een stuk interactiever en visueler zijn gaan mensen eerder op in de ervaring. In de wereld van Virtual Reality wordt dit onderscheden met twee termen'Immersie' ([Frederick P. Brooks](https://www.cs.unc.edu/~brooks/WhatsReal.pdf)) en 'presence' ([Valve, Michael Abrash](http://media.steampowered.com/apps/abrashblog/Abrash%20Dev%20Days%202014.pdf)). 
+Een Virtual Reality toepassing vergroot over het algemeen de **user engagement**. Doordat de cases een stuk interactiever en visueler zijn gaan mensen eerder op in de ervaring. In de wereld van Virtual Reality wordt dit onderscheden met twee termen‘Immersie’ ([Frederick P. Brooks](https://www.cs.unc.edu/~brooks/WhatsReal.pdf)) en ‘presence’ ([Valve, Michael Abrash](http://media.steampowered.com/apps/abrashblog/Abrash%20Dev%20Days%202014.pdf)). 
 
 Een digitale case kan de volgende vormen van immersie vergroten;
 * tactische immersie (Ernest W. Adams); wanneer een speler tactische operaties uitvoert die een zekere vaardigheid vergen.
 * ruimtelijke immersie (Staffan Bjork); spatiale of ruimtelijke immersie doet zich voor wanneer een speler de gesimuleerde ruimte als perceptueel overtuigend ervaart.
 
-Daarnaast wordt er veel onderzoek gedaan naar welke activiteiten er plaatsvinden in het brein. Uit recent onderzoek ([Zappar, Heather Andrew](https://www.zappar.com/blog/how-augmented-reality-affects-brain/)) bleek nog dat door een AR toepassing de 'visual attention' in het brein vergroot wordt er 70% meer opgeslagen in het geheugen opgeslagen word ten opzichte van tekst op papier.
+Daarnaast wordt er veel onderzoek gedaan naar welke activiteiten er plaatsvinden in het brein. Uit recent onderzoek ([Zappar, Heather Andrew](https://www.zappar.com/blog/how-augmented-reality-affects-brain/)) bleek nog dat door een AR toepassing de ‘visual attention’ in het brein vergroot wordt er 70% meer opgeslagen in het geheugen opgeslagen word ten opzichte van tekst op papier.
 
-In 2015 heeft het British Musem ([Museums and the Web 2016](https://mw2016.museumsandtheweb.com/paper/virtual-reality-at-the-british-museum-what-is-the-value-of-virtual-reality-environments-for-learning-by-children-and-young-people-schools-and-families/)) geëxperimteerd met het inzetten van Virtual Reality om de waarde van dit medium te meten. Wederom was de conclusie dat VR een positieve impact heeft op de reactie en de 'involement' van gebruikers.
+In 2015 heeft het British Musem ([Museums and the Web 2016](https://mw2016.museumsandtheweb.com/paper/virtual-reality-at-the-british-museum-what-is-the-value-of-virtual-reality-environments-for-learning-by-children-and-young-people-schools-and-families/)) geëxperimteerd met het inzetten van Virtual Reality om de waarde van dit medium te meten. Wederom was de conclusie dat VR een positieve impact heeft op de reactie en de ‘involvement’ van gebruikers.
 
 ### Teamrollen en Competenties
 Als de kandidaten in groepsverband gaan werken is het voor de observanten interessant om te zien hoe de kandidaten zich gedragen tijdens de ervaring. Door de head-mounted displays kunnen ze alleen door spraak met elkaar communiceren waardoor de teamrollen ([Belbin](http://www.belbin.com/about/belbin-team-roles/)) beter naar voren komen.
 
 ### Context
-Daarnaast is een credo van &samhoud ['usual unusual'](http://consultancy.samhoud.com/en/about), met recruitment wordt altijd geprobeerd anders te zijn dan de rest. Een VR toepassing tijdens een sollicitatie past dus erg bij deze visie en de strategie om altijd te innoveren in recruitment.
+Daarnaast is een credo van &samhoud [‘usual unusual’](http://consultancy.samhoud.com/en/about), met recruitment wordt altijd geprobeerd anders te zijn dan de rest. Een VR toepassing tijdens een sollicitatie past dus erg bij deze visie en de strategie om altijd te innoveren in recruitment.
 
-Tijdens zo'n selectiedag is het natuurlijk ook van belang een bepaalde impressie / indruk achter te laten bij de kandidaten over de bedrijfsvoering van de consultancy tak. Kandidaten worden met een interactieve toepassing op een positieve manier verrast en maken kennis met de mogelijkheden van andere business lines binnen de &samhoud group.
+Tijdens de selectiedag is het natuurlijk ook van belang een bepaalde impressie / indruk achter te laten bij de kandidaten over de bedrijfsvoering van de consultancy tak. Kandidaten worden met een interactieve toepassing op een positieve manier verrast en maken kennis met de mogelijkheden van andere business lines binnen de &samhoud group.
 
 ### Data
 Naast het feit dat de sessie met videocamera's opgenomen kan worden (iets wat nu niet gebeurd) zou het voor de observant een mogelijkheid kunnen zijn om live op een extern scherm mee te kijken met wat de kandidaten in de display zien. Daarnaast is het nog mogelijk om een [reconstructie](https://github.com/dmarcos/aframe-motion-capture-components) (replay) van de sessie te maken door de positie en de input van controllers te [loggen](https://www.npmjs.com/package/aframe-log-component).
@@ -48,6 +48,6 @@ De voordelen van WebVR staan grotendeels beschreven in de [techiek](https://prod
 * Als developer kan ik gebruik maken van de bestaande kennis en infrastructuur die het web te bieden heeft.
 
 ## Ethiek
-Het recruitment process is vaak een gevoelige tak van sport, je kunt vraagtekens zetten bij het toepassen van een VR ervaring in deze context. &samhoud consultancy vind dit ethisch verantwoord; 'kandidaten zien digitale ervaringen vaak als een positieve verassing en vinden het tevens interessant om te zien wat de mogelijkheden zijn binnen het vakgebied.'
+Het recruitment process is vaak een gevoelige tak van sport, je kunt vraagtekens zetten bij het toepassen van een VR ervaring in deze context. &samhoud consultancy vind dit ethisch verantwoord; ‘kandidaten zien digitale ervaringen vaak als een positieve verassing en vinden het tevens interessant om te zien wat de mogelijkheden zijn binnen het vakgebied.’
 
 Uiteindelijk zal de beslissing van een selectie altijd door een medewerker (persoon) genomen worden. Het gaat natuurlijk ook om de impressie gedurende de hele dag, niet alleen de virtuele case.

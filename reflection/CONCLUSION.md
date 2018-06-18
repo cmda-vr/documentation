@@ -1,13 +1,13 @@
 # Conclusie
 
-Binnen de context van &samhoud consultancy en de informele sfeer die gedurende de selectiedag heerst past het inzetten van WebVR bij de strategie om altijd te innoveren in recruitment waarbij 'usual unusual' voor &samhoud consultancy centraal staat. In een stricter sollicitatieproces kan ik me voorstellen dat het inzetten van een VR ervaring ongepast kan zijn.
+Binnen de context van &samhoud consultancy en de informele sfeer die gedurende de selectiedag heerst past het inzetten van WebVR bij de strategie om altijd te innoveren in recruitment waarbij ‘usual unusual’ voor &samhoud consultancy centraal staat. In een stricter sollicitatieproces kan ik me voorstellen dat het inzetten van een VR ervaring ongepast kan zijn.
 
 De interactieve digitale cases zijn een aanvulling op de huidige cases die tijdens de selectiedag worden behandeld. Het resultaat, na afloop van de selectiedag, voor de kandidaten hangt niet volledig af van de prestaties tijdens de WebVR toepassing.
 
 Hetzelfde geldt grotendeels voor de 360-video's. Naast het feit dat de resultaten telefonisch naar de kandidaat worden gecommuniceerd is het inzetten van een 360-video als persoonlijke boodschap een mooie aanvulling. Vanuit ethisch perspectief is er gekozen om de afwijzing alleen telefonisch te houden.
 
 **Sascha Vloet namens &samhoud consultancy:**
-> 'Kandidaten van de junior caroussel geven aan de WebVR case als positieve verassing te ervaren. Ze vinden het vooral interessant om de mogelijkheden binnen andere businesslines (van &samhoud) te zien.'
+> ‘Kandidaten van de junior caroussel geven aan de WebVR case als positieve verassing te ervaren. Ze vinden het vooral interessant om de mogelijkheden binnen andere businesslines (van &samhoud) te zien.’
 
 ## Ontwerpvraag
 

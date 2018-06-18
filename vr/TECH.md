@@ -1,5 +1,5 @@
 # Virtual Reality op het Web
-Vrijwel alle applicaties die draaien op [dure hardware](https://www.vive.com/eu/product/vive-pro/) zijn zogeheten *'native'* applicaties die specifiek voor een bepaald platform worden gemaakt. Naast een native applicatie is het mogelijk om een Virtual Reality applicatie te maken die draait in een browser. Dit heeft voor zowel de gebruikers van de applicatie en ontwikkelaars voordelen. 
+Vrijwel alle applicaties die draaien op [dure hardware](https://www.vive.com/eu/product/vive-pro/) zijn zogeheten *‘native’* applicaties die specifiek voor een bepaald platform worden gemaakt. Naast een native applicatie is het mogelijk om een Virtual Reality applicatie te maken die draait in een browser. Dit heeft voor zowel de gebruikers van de applicatie en ontwikkelaars voordelen. 
 
 > Het doel van WebVR is om het voor zowel ontwikkelaars als gebruikers toegankelijker (drempelvrij) te maken om Virtual Reality te ervaren. Ongeacht de devices en input die ze tot hun beschikking hebben. - Google Chrome Developers
 
@@ -30,4 +30,4 @@ Elke front-end developer zou (met behulp van frameworks) een VR applicatie op he
 
 Na de aankoop van [Oculus VR door Facebook](https://www.theguardian.com/technology/2014/mar/25/facebook-buys-virtual-reality-gaming-firm-oculus) begon [Mozilla](https://mixedreality.mozilla.org/) te werken aan een implementatie hiervan in Browsers, de [WebVR API](https://immersive-web.github.io/webvr/) was geboren. Hiermee was het mogelijk om verschillende VR devices te detecteren en 3D scene's te renderen.
 
-Deze API biedt een ontwikkelaar alle functionaliteit die nodig is om een VR applicatie in de browser te programmeren. Op basis daarvan zijn er verschillende ['frameworks'](https://createwebvr.com/) gebouwd. Deze frameworks abstraheren de onderliggende techniek nog verder waardoor de drempel voor een ontwikkelaar extreem laag ligt.
+Deze API biedt een ontwikkelaar alle functionaliteit die nodig is om een VR applicatie in de browser te programmeren. Op basis daarvan zijn er verschillende [‘frameworks’](https://createwebvr.com/) gebouwd. Deze frameworks abstraheren de onderliggende techniek nog verder waardoor de drempel voor een ontwikkelaar extreem laag ligt.
