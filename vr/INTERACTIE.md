@@ -25,7 +25,7 @@ In mijn ontwerp kan het gebruik van de magneet een eis kunnen zijn aan de hardwa
 
 Deze manieren van interactie en selecteren zijn specifiek gericht op hardware die geen gebruik maakt van controllers (zowel 3dof als 6dof) of de magnetometer.
 
-| Input | Voorbeelden |
+| Input | Voorbeeld |
 |-|-|
 | Gaze Tracking | [A-Frame Event](https://skezo.github.io/Reticulum/examples/basic.html) |
 | Look and Lock | [VRhig](http://vrhig.com/) |
@@ -34,4 +34,4 @@ Deze manieren van interactie en selecteren zijn specifiek gericht op hardware di
 | Moving Viewport | [Google](https://developers.google.com/web/showcase/2017/playcanvas) |
 
 ## Beweging
-Beweging in de scene is zonder controllers relatief lastig. Je kunt nergens naartoe pointen of int Met controllers word vaak gebruikt gemaakt van [Lofting Movement](https://webvr.donmccurdy.com/checkpoints/) (ookwel teleportatie). Zonder controllers kunnen we een combinatie maken van [Gaze Tracking](https://en.wikipedia.org/wiki/Eye_tracking) en [Checkpoints](https://webvr.donmccurdy.com/checkpoints/).
+Beweging in de scene is zonder controllers relatief lastig. Met controllers word vaak gebruikt gemaakt van [Lofting Movement](https://webvr.donmccurdy.com/checkpoints/) (ookwel teleportatie). Zonder controllers kunnen we een combinatie maken van [Gaze Tracking](https://en.wikipedia.org/wiki/Eye_tracking) en [Checkpoints](https://webvr.donmccurdy.com/checkpoints/).
