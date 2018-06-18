@@ -5,12 +5,12 @@
 Na het opzetten van de boilerplates en de eerste technische opzet ben ik de eerste puzzels gaan uitwerken.
 
 ## The Manual
-Met de teamrollen van Belbin in het achterhoofd ben ik in eerste instantie aan de slag gegaan met het prototypen van een versimpelde versie van **[Keep Talking and Nobody Explodes](https://productbiografie.dandevri.es/concepting/IDEAS.html).**
+Met de teamrollen van Belbin in het achterhoofd ben ik aan de slag gegaan met het prototypen van een versimpelde versie van **[Keep Talking and Nobody Explodes](https://productbiografie.dandevri.es/concepting/IDEAS.html).**
 
-* De persoon met de head-mounted display is de [Monitor Evaluator](http://www.belbin.com/about/team-role-spotlight-monitor-evaluator/) (ziet alle opties en maakt keuzes in wat hij of zij verteld).
+* De persoon met de head-mounted display is de [Monitor Evaluator](http://www.belbin.com/about/team-role-spotlight-monitor-evaluator/) (ziet alle opties en maakt keuzes in wat wordt verteld).
 * De persoon met de instructies is de [Coordinator of Implementer](https://en.wikipedia.org/wiki/Team_Role_Inventories#Co-ordinator) (zet de aanwijzingen om in acties).
 
-De kracht zit hem hier in de samenwerking tussen twee personen. Elke persoon heeft z'n eigen informatie en alleen door goed met elkaar te communiceren kunnen ze verder komen.
+De kracht zit hem hier in de samenwerking tussen twee personen. Elke persoon heeft eigen informatie en door goed met elkaar te communiceren kunnen ze verder komen.
 
 ![Manual Prototypes](/resources/manual.jpg)
 > Een screenshot van de VR scene en het instructieboek.
@@ -30,11 +30,11 @@ De kracht zit hem hier in de samenwerking tussen twee personen. Elke persoon hee
 | Meerdere moeilijkheidsgraden door de tekstuele instructies op de handleiding moeilijker te maken | 
 
 ## Hotel Room
-Op basis van het concept van [I Expect You To Die](https://productbiografie.dandevri.es/concepting/IDEAS.html) heb ik een prototype gemaakt die de setting van de game nabootst.
+Op basis van het concept [I Expect You To Die](https://productbiografie.dandevri.es/concepting/IDEAS.html) heb ik een prototype gemaakt die de setting van de game nabootst.
 
-Bij het maken van de eerste versie heb ik geprobeerd om de setting in 3D met objecten modellen na te bootsen, hier kwam ik er al vrij snel achter dat het te tijdrovend is om alles in objecten te doen.
+Bij het maken van de eerste versie heb ik geprobeerd om de setting in 3D met objecten modellen na te bootsen, maar ik kwam er achter dat het te tijdrovend is om alles in objecten te doen.
 
-Toen ben ik gaan kijken naar een alternatief en uiteindelijk bij een 360-foto uitgekomen. In plaats van aparte modellen in te laden heb ik een bestaande 360-foto gepakt en hierin een 4-cijferige code ‘verstopt’. 
+Daarom ben ik gaan kijken naar een alternatief en uiteindelijk ben ik bij een 360-foto uitgekomen. In plaats van aparte modellen in te laden heb ik een bestaande 360-foto gepakt en hierin een 4-cijferige code ‘verstopt’. 
 
 ![Hotel Room](/resources/hotel-room.jpg)
 > Screenshot van de 360 hotel kamer
@@ -53,7 +53,7 @@ Toen ben ik gaan kijken naar een alternatief en uiteindelijk bij een 360-foto ui
 | Meerdere moeilijkheidsgradaties door te spelen met de zichtbaarheid van de hints | 
 
 ## Soma Cube
-Als laatste heb ik nog een kort uitstapje gemaakt door de [Soma Cube van Piet Hein](https://en.wikipedia.org/wiki/Soma_cube) te digitaliseren, Sascha gaf in onze gesprekken aan dat ze het eventueel ook leuk zouden vinden om kandidaten iets meer te ‘testen’ op inzicht.
+Als laatste heb ik kort gekeken naar gemaakt door de [Soma Cube van Piet Hein](https://en.wikipedia.org/wiki/Soma_cube) te digitaliseren, Sascha gaf in onze gesprekken aan dat ze het eventueel ook leuk zouden vinden om kandidaten iets meer te ‘testen’ op inzicht.
 
 Bij deze puzzel heb ik twee versies gemaakt, één waarbij de ontbrekende puzzelstukken in de ruimte aanwezig zijn. Een ander waarbij de gebuiker het puzzelstuk op papier moet tekenen.
 
