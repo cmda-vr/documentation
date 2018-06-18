@@ -3,7 +3,7 @@
 ## Junior Consultant
 Junior [consultants](https://www.consultancy.nl/carriere/wat-is-een-consultant) werken aan complexe problemen voor verschillende bedrijven. Ze analyseren business problemen en ontwikkelen effectieve oplossingen. Strategische en abstracte vraagstukken zet een consultant om in concrete acties en methodes, bijvoorbeeld in de vorm van team meetings, trainingen of workshops.
 
-De recuiters van &samhoud vragen van junior consultants vooral communicatieve, creatieve en analytische vaardigheden. ([Vacature, &samhoud consultancy](https://career.samhoud.com/apply?junior-consultant-101367)) Een overzicht van competenties waar de ideale consultant aan zou moeten voldoen:
+De recuiters van &samhoud vragen van junior consultants vooral communicatieve, creatieve en analytische vaardigheden ([Vacature, &samhoud consultancy](https://career.samhoud.com/apply?junior-consultant-101367)). Een overzicht van competenties waar de ideale consultant aan zou moeten voldoen:
 * Analytisch vermogen: veel data tot de kern kunnen brengen.
 * Pro-actief: altijd opzoek om impact te kunnen maken met een oplossing.
 * Ontwikkeling: persoonlijke groei en kansen voor innovatie zien.

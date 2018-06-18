@@ -50,7 +50,7 @@ Google. ‘WebVR fundamentals’. Online. Internet. Beschikbaar:
 
 ### Performance
 
-Keep track of performance, consistent high framerate is typically 60Hz. (or 16ms per frame including the per-frame browser’s overhead)
+Keep track of performance, consistent high framerate is typically 60Hz (or 16ms per frame including the per-frame browser’s overhead).
 
 You need to make sure that you aren't just hitting your frame timing most of the time, but that you have enough headroom on every frame that you can handle any variance that the device throws at you.
 

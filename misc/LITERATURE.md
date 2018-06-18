@@ -46,6 +46,6 @@ Hike One. ‘Six tools designers can use in their VR worlds’. Online. Internet
 Heather Andrew. ‘How augmented reality affects the brain’. Online. Internet. Beschikbaar: https://www.zappar.com/blog/how-augmented-reality-affects-brain/
 
 ## Documentatie
-‘A-Frame Docs’. A web framework for building virtual reality experiences. (living): Metaverse. Online. Internet. 13 januari 2018. Beschikbaar: https://aframe.io/docs/0.7.0/ introduction/
+‘A-Frame Docs’. A web framework for building virtual reality experience (living): Metaverse. Online. Internet. 13 januari 2018. Beschikbaar: https://aframe.io/docs/0.7.0/ introduction/
 
  ‘WebVR API’. Concepts and Usage (4 January 2018): MDN Web Docs. Online. Internet. 13 januari 2018. Beschikbaar: https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API

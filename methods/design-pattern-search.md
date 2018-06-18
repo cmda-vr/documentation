@@ -18,7 +18,7 @@ Most VR experiences involve another crucial component: inter- action. Does the s
 
 
 ## Hardware
-* **Drop-in viewers:** turn your smartphone into a VR box. (Cardboard etc.) drop the smartphone into a viewer with lenses.
+* **Drop-in viewers:** turn your smartphone into a VR box (cardboard etc.). Drop the smartphone into a viewer with lenses.
 
 
 ## Interaction

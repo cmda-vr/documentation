@@ -15,7 +15,7 @@ Om ervoor te zorgen dat m'n taken overzichtelijk en gepriotiseerd bleven werkte 
 
 ### Sprint Overview
 
-De lengte van een sprint is variabelen, niet elke sprint duurt even lang. In veel gevallen heb ik ze weten te beperken tot een week zoals hieronder staat beschreven maar het kan voorkomen dat taken doorlopen in volgende week. (Door bijvoorbeeld communicatie met de opdrachtgever)
+De lengte van een sprint is variabelen, niet elke sprint duurt even lang. In veel gevallen heb ik ze weten te beperken tot een week zoals hieronder staat beschreven maar het kan voorkomen dat taken doorlopen in volgende week (door bijvoorbeeld communicatie met de opdrachtgever),
 
 * **Maandag:** probleemstelling duidelijk maken en bepalen waar de rest van de week de focus op ga leggen.
 * **Dinsdag:** uitwerken en op papier zetten van mogelijke oplossingen.

@@ -10,7 +10,7 @@
 Creating visualizations based on audio.
 
 ## Education
-Enhancing the lecture experience. You can give students a quick link to demonstrate or show models. For example during a history lesson, showing the model of architecture or the inside of a museum. (Exploring 360 images / models or something)
+Enhancing the lecture experience. You can give students a quick link to demonstrate or show models. For example during a history lesson, showing the model of architecture or the inside of a museum (exploring 360 images / models or something).
 
 ## Physical Location / Multi Location
 Being at different physical locations but come together in VR to experience something, Can be pretty interesting using sockets or something.

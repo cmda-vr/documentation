@@ -35,7 +35,7 @@ Elke VR omgeving heeft een *‘point of view’ (POV)*: het punt van waar de geb
 
 In VR moeten we het renderen van de POV dubbel doen, voor elk oog.
 * Bepalen positie van de hoofdcamera in de scene.
-* Vanaf deze hoofdcamera twee cameras renderen die iets van elkaar afstaan. (Linkeroog en rechteroog)
+* Vanaf deze hoofdcamera twee cameras renderen die iets van elkaar afstaan (linker en rechteroog).
 * Twee viewports renderen in de head-mounted display.
 
 # Low-cost Virtual Reality

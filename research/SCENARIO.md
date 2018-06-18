@@ -4,7 +4,7 @@ De focus van de toepassing ligt bij de [selectiedag](https://issuu.com/samhoud/d
 
 * **Werving**: op congressen of branche evenementen komen de recruiters eventuele kandidaten tegen die ze ter plekke uitnodigen om te solliciteren op een bepaalde functie. Daarnaast komen veel sollicitaties online binnen, zoals bijvoorbeeld via [LinkedIn](https://www.linkedin.com/company/&samhoud/) of [open vacatures](https://career.samhoud.com/jobs).
 * **Screening**: na het verzamelen van andere kandidaten screenen de recuiters op curriculum, werkervaring en eventuele eerste impressies.
-* **Selectie**: na het screenen worden geschikte kandidaten uitgenodigd om deel te nemen aan een selectiedag. (ookwel junior caroussel)
+* **Selectie**: na het screenen worden geschikte kandidaten uitgenodigd om deel te nemen aan een selectiedag (ookwel junior caroussel).
 
 ![Scenario Recruitment Process](/resources/scenario.jpg)
 

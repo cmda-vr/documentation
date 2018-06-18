@@ -50,7 +50,7 @@ Met hardware of apparatuur worden in de computertechniek alle fysieke componente
 Een head-mounted display (HMD) is een beeldscherm dat op het hoofd gedragen wordt. Het kan de vorm hebben van een bril (men spreekt dan van een virtualrealitybril, kortweg VR-bril), of in een helm ingebouwd zijn.
 
 ## Inertial Measurement Unit
-Een combinatie van verschillende meetapparaten. Veel van deze meetinstrumenten zitten ook in onze telefoon. (gyroscope, magnetometer)
+Een combinatie van verschillende meetapparaten. Veel van deze meetinstrumenten zitten ook in onze telefoon (gyroscope, magnetometer).
 
 ## Mixed Reality
 Gemengde werkelijkheid of interrealiteit is de vermenging van de werkelijke wereld en een virtuele (schijnbare) wereld die met behulp van computers wordt gecreëerd. De term Mixed Reality wordt vaak gebruik als een catch-all. Een paraplu waaronder alle verschillende technieken onder hangen. Waaronder dus ook onze huidige realiteit.
