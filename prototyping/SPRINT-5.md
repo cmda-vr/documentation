@@ -2,12 +2,12 @@
 
 **Week 16 - 18**
 
-In de week van de groenlichtpresentatie begon er toch wel wat te knagen, de afgelopen weken heb ik veel meer hands-on technische prototypes uitgewerkt en de puzzels dienen als interessante exploraties maar voor m'n gevoel mist ik nog echt een case die in groepsverband tijdens de selectiedag ingezet kon worden.
+In de week van de groenlichtpresentatie begon er toch wel wat te knagen, de afgelopen weken heb ik veel meer hands-on technische prototypes uitgewerkt en de puzzels dienen als interessante exploraties maar voor m'n gevoel miste ik nog echt een case die in groepsverband tijdens de selectiedag ingezet kon worden.
 
-Ondanks het gedane onderzoek en de prototype puzzels, die als goede basis diende voor een proof of concept, was de opdrachtgever het met me eens.
+Ondanks het gedane onderzoek en de prototypes, die als goede basis diende voor een proof of concept, was de opdrachtgever het met me eens.
 > ‘Het zou mooi zijn als we alle sterke punten van voorgaande puzzels konden combineren tot één grote groepscase.’
 
-Het einde van het project naderde snel maar er waren nog een aantal weken over. Toen hebben we collectief besloten om de iteraties en enhancements van de vorige puzzels te laten voor wat het is en de focus te verleggen naar één grote groepscase.
+Het einde van het project naderde snel maar er waren nog een aantal weken over. Toen heb ik samen met de opdrachtgever besloten om de iteraties en enhancements van de vorige puzzels te laten voor wat het is en de focus te verleggen naar één grote groepscase.
 
 ## Concepts
 
@@ -35,7 +35,7 @@ Een bepaald persoon is de enige die de kamer mag zien en moet dus vertrouwen op 
 * Zo test je de meeste communicatie skills omdat je echt moet vertrouwen op de vaardigheden van iemand anders.
 * Je kan bij de persoon die de bril op heeft niet per se alles erg goed meten.
 
-## Flow
+## Uiteindelijke Flow
 Het scenario is relatief simpel. Tijdens de selectiedag betreden de kandidaten een ruimte zonder enige vorm van instructie. Voor hun ligt een houten kist met een cijferslot en een viertal drop-in viewers. Ze werken aan het gezamenlijke doel om de houten kist open te krijgen.
 
 Zodra ze de head-mounted display opzetten begeven alle vier de kandidaten zich in een virtuele ruimte. Dit lijken in eerste instantie dezelfde kamers maar iedere kandidaat ziet net andere details. Denk bijvoorbeeld aan een boekenkast waar, bij elke kandidaat, een aantal andere kleur boeken liggen. Deze subtiele verschillen zijn gelijk hints naar de code voor het cijferslot.

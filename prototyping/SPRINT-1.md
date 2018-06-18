@@ -51,16 +51,16 @@ A-Frame bouwt hevig voort op een componenten systeem waarbij je nieuwe features 
 ```
 Deze opzet zorgt er al snel voor dat het moeilijk wordt om versies van [externe componenten](https://aframe.io/aframe-registry/) bij te houden. Daarbij resulteerd het inladen van verschillende externe scripts tot [render-blocking](https://developers.google.com/speed/docs/insights/BlockingJS).
 
-Door gebruik te maken van Webpack en NPM modules is het beter om verschillende modules te bundlen.
+Door gebruik te maken van [Webpack](https://webpack.js.org/) en [NPM modules](https://www.npmjs.com/) is het beter om verschillende modules te bundlen.
 
 ```
 require('aframe');
 ```
 ### Declarative HTML
-Doordat je in A-Frame uitsluitend werkt in html (afgezien van custom events en de build tools eromheen) wordt de `index.html` al snel lang en onoverzichtelijk. Omdat ik toch al gebruik maakte van Webpack was het een logisch keuze om daarbij `html-loader` te gebruiken zodat ik HTML snippets en partials kan `includen`.
+Doordat je in A-Frame uitsluitend werkt in html (afgezien van custom events en de build tools eromheen) wordt de `index.html` al snel lang en onoverzichtelijk. Omdat ik toch al gebruik maakte van Webpack was het een logisch keuze om daarbij [`html-loader`](https://github.com/webpack-contrib/html-loader) te gebruiken zodat ik HTML snippets en partials kan [`includen`](https://github.com/samhoudmedia/aframe-boilerplate/blob/master/src/index.html).
 
 ### A-assets
-Daarnaast wordt het door A-Frame aangeraden om gebruik te maken van het assets systeem. Door externe files (afbeeldingen, modellen) te cachen in memory zijn er voor vervolgbezoeken aan de pagina minder requests nodig ([A-Frame, Best Practices](https://aframe.io/docs/0.8.0/introduction/best-practices.html)).
+Daarnaast wordt het door A-Frame aangeraden om gebruik te maken van het [Asset Management System](https://www.google.com/search?q=a-frame+assets&ie=utf-8&oe=utf-8&client=firefox-b-ab). Door externe files (afbeeldingen, modellen) te cachen in memory zijn er voor vervolgbezoeken aan de pagina minder requests nodig ([A-Frame, Best Practices](https://aframe.io/docs/0.8.0/introduction/best-practices.html)).
 
 ## Feedback volgende Iteratie
-Doordat er bij de opdrachtgever geen technische mensen aanwezig zijn heb ik vanuit deze partij weinig feedback gekregen. Vandaar dat ik vooral op de opleiding en aan mede-studenten m'n broncode heb laten zien. Over het algemeen was deze duidelijk en begrijpbaar.
+Doordat er bij de opdrachtgever geen technische mensen aanwezig zijn heb ik vanuit deze partij weinig feedback gekregen. Vandaar dat ik vooral op de opleiding en aan mede-studenten m'n broncode heb laten zien. De broncode was duidelijk leesbaar, de readme's gaven goede instructies voor het opstarten van het project en de keuze voor het gebruik van Webpack was onderbouwd.

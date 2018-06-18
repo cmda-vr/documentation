@@ -41,7 +41,7 @@ Ook na de selectieprocedure op locatie worden de drop-in viewers gebruikt voor e
 Voor het project beperken we ons tot drop-in viewers zonder controllers en de magneet als trigger. Er is teveel fragmentatie binnen de soorten drop-in viewers, zoals op de eigen [Google Cardboard specificatie](https://vr.google.com/cardboard/get-cardboard/) site te zien is kun je er niet standaard van uitgaan dat een drop-in viewer de functie van de magneet heeft. Daarnaast zijn de prijzen van cardboard viewers zonder magneet vaak goedkoper, zie bijvoorbeeld de [prijzen op Alibaba](https://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=cardboard+viewer&viewtype=G), waardoor het qua inkoopkosten aantrekkelijk is om ze in wholesale aan te schaffen. De cardboards worden niet hergebruikt maar meegennomen door de kandidaten waardoor er een groot aantal viewers beschikbaar moet zijn.
 
 ### Techniek
-De voordelen van WebVR staan grotendeels beschreven in de [techiek](https://productbiografie.dandevri.es/vr/TECH.html) sectie. De grootste voordelen zijn: 
+De voordelen van WebVR staan grotendeels beschreven in de [techniek](https://productbiografie.dandevri.es/vr/TECH.html) sectie. De grootste voordelen zijn: 
 
 * Korte opstart: er hoeft geen aparte applicatie geinstalleerd te worden. Het opstarten van een ervaring kan bestaat dus simpelweg uit het bezoeken van url in de browser.
 * Cross-platform compabiliteit: de opdrachtgever zit niet verbonden aan specifieke hardware of bestaande platformen.
