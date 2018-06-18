@@ -1,5 +1,5 @@
 # 360-video's
-Via een link (bij de terugkoppeling via de mail) krijgen ze na afloop een 360-video met een persoonlijke boodschap van Salem Samhoud, oprichter van de &samhoud groep.
+Via een link (bij de terugkoppeling via de mail) krijgen de kandidaten na afloop een 360-video met een persoonlijke boodschap van Salem Samhoud, oprichter van de &samhoud groep.
 
 > Wegens de informatie die tijdens de video's ter sprake komt is het niet mogelijk om de video's (en het prototype) publiekelijk in deze documentatie op te nemen.
 
@@ -14,11 +14,11 @@ Nadat de kandidaten telefonisch te horen hebben gekregen of ze door zijn naar he
 ## Opname
 Het was mogelijk om met Salem een afspraak in te plannen voor de opname. Samen met [Jesse Spruijt](https://www.linkedin.com/in/jesse-spruijt-179627156/) (productie stagiar) heb ik de nodige voorbereidingen getroffen.
 
-**Camera:**  
+**Camera**  
 De plaatsing van de camera is bij dit videoformaat erg van belang. ([Facebook, Best Practices](https://www.facebook.com/facebookmedia/blog/better-practices-for-360)) De plek van de camera zijn in dit geval de ogen van de kijker. Zelf lopen wij na de start van de opname uit het frame.
 
 **Setting:**  
-De keuze om aan tafel te zitten zorgt voor een formele setting. Achter Salem is een groot raam (waar het een en ander beweegt) maar de focus ligt duidelijk op Salem. Vandaar dat hij zich gelijk in de Field of View van de kijker bevindt.
+De keuze om aan tafel te zitten zorgt voor een formele setting. Achter Salem is een groot raam (waar op de achtergrond beweging is van verkeer) maar de focus ligt duidelijk op Salem. Vandaar dat hij zich gelijk in de Field of View van de kijker bevindt.
 
 **Audio:**  
 Audio is een ander belangrijk aspect bij het opnemen van een 360-video. Veel video's maken gebruik van zogeheten ‘spatial-audio’ waarbij het volume van het geluid harder of zachter wordt naarmate je verder van een ‘subject’ wegdraait. In dit geval hebben we ervoor gekozen om het geluid mono op te nemen en zo ook onder de video te zetten. Hetgeen wat Salem zegt is zo dermate belangrijk dat we dit op een constant volume wouden hebben.

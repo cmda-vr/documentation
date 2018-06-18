@@ -1,10 +1,10 @@
 ## Toolkit
 De puzzels, waaronder de eerste opzet van de Escape Room, zijn samengebracht tot een centrale toolkit (website) vanwaar alle 
-alle puzzels gemakkelijk opgestart kunnen worden. De toepassingen moeten op een centrale plek gehost worden en vanuit één website makkelijk opgestart kunnen worden.
+puzzels gemakkelijk opgestart kunnen worden. De toepassingen worden zo op een centrale plek gehost en de puzzels kunnen op deze manier vanuit één website makkelijk opgestart kunnen worden.
 
 ![Prototype Toolkit](/resources/prototype-toolkit.jpg)
 
-Hiervoor maak ik gebruik van [Node.js](https://nodejs.org/en/), [Express](https://expressjs.com/) en [Pug](https://pugjs.org/api/getting-started.html) om de desbetreffende pagina's te renderen en door te linken naar de juiste puzzels. De opzet met Node en Express is vooral gekozen voor de eventuele enhancement van een accountsysteem. De toolkit is alleen bedoelt voor intern gebruik. Een eventuele feature, die ik nog graag had willen toevoegen, is dat alleen observanten met een &samhoud mailadres kunnen inloggen.
+[Node.js](https://nodejs.org/en/), [Express](https://expressjs.com/) en [Pug](https://pugjs.org/api/getting-started.html) is de tech stack die de desbetreffende pagina's te renderen en doorlinken naar de juiste puzzels. De opzet met Node en Express is vooral gekozen voor de eventuele enhancement van een accountsysteem. De toolkit is alleen bedoelt voor intern gebruik. Een eventuele feature, die ik nog graag had willen toevoegen, is dat alleen observanten met een &samhoud mailadres kunnen inloggen.
 
 [GitHub Repository](https://github.com/samhoudmedia/showcase/blob/master/README.md)
 
@@ -28,7 +28,7 @@ Voor basic styling heb ik op basis van de &samhoud brand styleguide een pattern 
 De toolkit bevat alle puzzels die ik gedurende het project heb uitgewerkt als proof of concept.
 
 ### Techniek
-Zoals eerder benoemd maak ik voor de puzzels uitsluitend gebruik van [A-Frame](https://aframe.io/). Voor het registeren van componenten heb ik in eerste instantie een bolierplate opgezet die de applicatie met [Webpack](https://webpack.js.org/) bundled.
+Zoals eerder benoemd maak ik voor de puzzels uitsluitend gebruik van [A-Frame](https://aframe.io/). Voor het registeren van componenten heb ik in eerste instantie een boilerplate opgezet die de applicatie met [Webpack](https://webpack.js.org/) bundled.
 
 **Tech Stack**  
 * [A-Frame](https://aframe.io/)
