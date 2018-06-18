@@ -50,3 +50,14 @@ Vooral vanuit een storytelling persepctief kan een 360-video veel beteken ([BBC,
 * Varianten (uitnodiging, bedanken, afwijzing)
 
 [Script Video](https://docs.google.com/document/d/10bOCglwTpg0AAVYfKB-HXGt_Z3fEmSjtW56G7NQXtkY/edit?usp=sharing)
+
+## Feedback
+Na een eerste versie klaar te hebben ben ik een aantal gebruikerstesten gaan uitboeren. Op basis van mijn bevindingen heb ik in iteraties het prototype aangepast.
+
+| Rol | Omschrijving |
+|-|-|
+| Gebruikerstest | Nadat er op de link werd geklikt begon de video automatisch met afspelen waardoor er veel te weinig tijd was voor iemand om de telefoon in de drop-in viewer te stoppen. Om dit af te vangen krijgt de gebruiker eerst een opstartscherm te zien met instructies. |
+| Gebruikerstest | De notificatie dat de video met geluid bekeken moest worden was in de video zelf verwerkt, eigenlijk is het dan al te laat. Deze notificatie zit nu in het opstartscherm. |
+| Gebruikertest | In eerste instantie was de intro veel te kort waardoor een gebruiker zich niet eerst comfortabel kon voelen met de cardboard op zijn hoofd. |
+| Gebruikertest | Als iemand eenmaal de cardboard op had was het tijdens de intro niet duidelijk wanneer de video ging afspelen. Door een ‘progress bar’ toe te voegen krijgt de gebruiker meer feedback over de start van de video. |
+| Gebruikertest | De stem van Salem was in sommige gevallen nog wat onduidelijk en zacht qua volume. |
