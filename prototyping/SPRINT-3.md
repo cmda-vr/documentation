@@ -16,7 +16,7 @@ Vanaf dat punt ging alles eigenlijk vrij snel, Salem was diezelfde week nog besc
 
 ## Meerwaarde 360-video
 
-De keuze voor 360-video ten opzichte van ‘reguliere’ video content komt vooral voort uit marketing doeleinden. De click-trough rate ([Magnifyre](http://magnifyre.com/360-degree-video-case-study/)) en engagement bij advertenties ([Jim Habig, 2016](https://www.thinkwithgoogle.com/advertising-channels/video/360-video-advertising/)) liggen hoger bij een 360-video. Hoewel beiden valide redenen zijn, binnen dit onderzoek zjn zeniet doorslaggevend. &samhoudmedia heeft geen commercieel bij de 360-videos.
+De keuze voor 360-video ten opzichte van ‘reguliere’ video content komt vooral voort uit marketing doeleinden. De click-trough rate ([Magnifyre](http://magnifyre.com/360-degree-video-case-study/)) en engagement bij advertenties ([Jim Habig, 2016](https://www.thinkwithgoogle.com/advertising-channels/video/360-video-advertising/)) liggen hoger bij een 360-video. Hoewel beiden valide redenen zijn, binnen dit onderzoek zjn zeniet doorslaggevend. &samhoud media heeft geen commercieel bij de 360-videos.
 
 Vanuit een storytelling persepctief kan een 360-video veel beteken ([BBC, 2017](http://www.bbc.co.uk/academy/en/articles/art20160307115255835)). Je kan zo gedurende de opname en de ervaring met Salem veel persoonlijker maken. Door de manier van opnemen (beschreven in de volgende sectie) leidt deze vorm minimaal af van de boodschap die Salem gedurende de video overbrengt.
 

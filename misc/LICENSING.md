@@ -1,11 +1,11 @@
 # Eigendom
 
-Over het eigendom van het project, de broncode en de werkwijze zijn eisen en afspraken gemaakt tussen de student (Danny de Vries) en opdrachtgever (&samhoudmedia).
+Over het eigendom van het project, de broncode en de werkwijze zijn eisen en afspraken gemaakt tussen de student (Danny de Vries) en opdrachtgever (&samhoud media).
 
 1. Het project wordt Open-Source ontwikkeld
 2. De broncode is open voor modificatie
 3. Een verwijzing naar de originele auteur (Danny de Vries) is noodzakelijk 
-4. Het project wordt gepubliceerd onder &samhoudmedia
+4. Het project wordt gepubliceerd onder &samhoud media
 5. Eventuele interne documentatie en assets worden niet in de repository opgenomen
 
 ### Open Source

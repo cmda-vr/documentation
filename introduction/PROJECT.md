@@ -12,15 +12,15 @@ Voor aanvang van het project ligt mijn focus grotendeels op het doen van onderzo
 ## De opdrachtgever
 Met deze visie heb ik contact gezocht met verschillende partijen. In eerste instantie binnen het [research lectoraat](http://www.hva.nl/create-it/gedeelde-content/lectoraten/lectoraat-play-and-civic-media/lectoraat-play-and-civic-media.html) van de Hogeschool van Amsterdam en vervolgens bij verschillende [VR agencies](https://vrowl.nl/) in Noord-Holland.
 
-Studiegenoot [Bart Oude Elferink](http://www.goddelijkegeit.nl/) was bezig met zijn afstudeerstage bij [&samhoudmedia](https://www.samhoudmedia.com/). Al snel kon hij me in contact brengen met [Jip Samhoud](https://samhoudmedia.com/about) (CEO) en na een aantal dagen stond er een afspraak in de agenda om mijn project te bespreken.
+Studiegenoot [Bart Oude Elferink](http://www.goddelijkegeit.nl/) was bezig met zijn afstudeerstage bij [&samhoud media](https://www.samhoudmedia.com/). Al snel kon hij me in contact brengen met [Jip Samhoud](https://samhoudmedia.com/about) (CEO) en na een aantal dagen stond er een afspraak in de agenda om mijn project te bespreken.
 
-Bij &samhoudmedia hadden ze interesse in een project met WebVR en er was ruimte om mij, vooral op conceptueel niveau, te ondersteunen tijdens het  project.
+Bij &samhoud media hadden ze interesse in een project met WebVR en er was ruimte om mij, vooral op conceptueel niveau, te ondersteunen tijdens het  project.
 
-[&samhoudmedia](https://www.samhoudmedia.com/) is een creatief bureau gespecialiseerd in augmented en virtual reality producties. Voor grote [A-merken](https://www.samhoudmedia.com/cases) creëren ze innovatieve concepten binnen VR en AR vakgebied.
+[&samhoud media](https://www.samhoudmedia.com/) is een creatief bureau gespecialiseerd in augmented en virtual reality producties. Voor grote [A-merken](https://www.samhoudmedia.com/cases) creëren ze innovatieve concepten binnen VR en AR vakgebied.
 
 > “ We’re front runners in the field of augmented reality (AR) and virtual reality (VR). "
 
 Zo hebben ze gewerkt aan de Albert Heijn [dino campagne](https://www.samhoudmedia.com/agency/terug-naar-de-dinos-met-freek-vonk) met Freek Vonk, [Albert Heijn ruimtereis](https://www.samhoudmedia.com/agency/ah-ruimtevaart) met André Kuijpers en recent nog samen met de Rabobank aan [Rabo PinPin](https://www.rabobank.com/nl/press/search/2017/20171016-pinpin-zakgeldapp.html). Op locatie aan de Oosterdokskade (VR cinema) werken voornamelijk jonge mense. Hierdoor hebben ze oog voor digitaal, media en marketing trends. 
 
-![&samhoudmedia office](https://samhoudmedia.com/storage/app/uploads/public/5ab/521/148/5ab521148b72d041395142.jpg)
+![&samhoud media office](https://samhoudmedia.com/storage/app/uploads/public/5ab/521/148/5ab521148b72d041395142.jpg)
 > Het kantoor aan de Oosterdokskade in Amsterdam. Je ziet mij werken aan het einde van de rechterkant van de tafel.

@@ -5,11 +5,11 @@ Het uitwerken van de prototypes is technisch van aard. In een vroeg stadium heb 
 Vanaf het begin heb ik toestemming gekregen om een [GitHub organisatie](https://github.com/samhoudmedia) aan te maken, een pagina waarin alle broncode van de prototypes te vinden zijn. Hetzelfde heb ik gedaan voor [persoonlijke documentatie](https://github.com/cmda-vr).
 
 ![GitHub organization](/resources/github.png)
-> &samhoudmedia GitHub organization met alle broncode
+> &samhoud media GitHub organization met alle broncode
 
-Ik werk 2 á 3 dagen per week op het kantoor van &samhoudmedia aan de Oosterdokskade in Amsterdam. Daarnaast was ik regelmatig  op het kantoor van &samhoud te vinden aan de Maliebaan in Utrecht.
+Ik werk 2 á 3 dagen per week op het kantoor van &samhoud media aan de Oosterdokskade in Amsterdam. Daarnaast was ik regelmatig  op het kantoor van &samhoud te vinden aan de Maliebaan in Utrecht.
 
-Bij &samhoudmedia en &samhoud zitten er geen front-end developers in het team. Dit zorgt ervoor dat ik op dat vlak meer op de Hogeschool van Amsterdam en medestudenten moet leunen. Omdat technische kennis bij de opdrachtgevers ontbreekt is het voor mij ook zaak, en daarbij een uitdaging, om alles goed en duidelijk op papier te zetten en over te brengen naar alle stakeholders.
+Bij &samhoud media en &samhoud zitten er geen front-end developers in het team. Dit zorgt ervoor dat ik op dat vlak meer op de Hogeschool van Amsterdam en medestudenten moet leunen. Omdat technische kennis bij de opdrachtgevers ontbreekt is het voor mij ook zaak, en daarbij een uitdaging, om alles goed en duidelijk op papier te zetten en over te brengen naar alle stakeholders.
 
 Om ervoor te zorgen dat taken overzichtelijk en geprioriteerd bleven heb ik gewerkt met een versimpelde versie van [The Design Sprint](https://www.gv.com/sprint/). Specifieke taken worden bijgehouden in Trello.
 
