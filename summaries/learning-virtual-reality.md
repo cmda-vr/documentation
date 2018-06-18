@@ -2,7 +2,7 @@
 
 > Cardboard can be first VR experience for many people.
 
-> We can use web technologies to create applications. Faster to code and more cross-platform. Second; it affords us access to all of the existing infrastructure the Web has to offer. (hyperlinks, hosting etc.)
+> We can use web technologies to create applications. Faster to code and more cross-platform. Second: it affords us access to all of the existing infrastructure the Web has to offer. (hyperlinks, hosting etc.)
 
 > Drop-in viewers.
 
@@ -21,11 +21,11 @@ The ability to be transported to other places, to be fully immersed in the prese
 The feeling of total immersion is what we are striving for with virtual reality.
 
 ### What is Virtual Reality?
-Virtual reality has one goal; to convince you that you are somewhere else. It's doing this by tricking the brain. A variety of technologies achieve this;
-* Stereoscopic displays; 3d displays (head-mounted displays). Produce stereo image that our eyes interpret as having three-dimensional depth.
-* Motion tracking hardware; low cost components to sense when our bodies move and our heads turn, so we can update the view.
-* Input devices; game controllers, body-tracking sensors etc.
-* Desktop and mobile platforms; Computer hardware and operating systems.
+Virtual reality has one goal: to convince you that you are somewhere else. It's doing this by tricking the brain. A variety of technologies achieve this:
+* Stereoscopic displays: 3d displays (head-mounted displays). Produce stereo image that our eyes interpret as having three-dimensional depth.
+* Motion tracking hardware: low cost components to sense when our bodies move and our heads turn, so we can update the view.
+* Input devices: game controllers, body-tracking sensors etc.
+* Desktop and mobile platforms: Computer hardware and operating systems.
 
 You can achieve full immersion with most of these four components.
 
@@ -44,27 +44,27 @@ Head-mounted displays enclose the user's eyes, they have to 'fly blind'. We don'
 Our existing computers and devices can be turned into virtual reality boxes simply by adding a few peripherals.
 
 * Most VR developers build their apps using game middleware like Unity3D. (Middleware engines, IDE's)
-* We can use web technologies to create applications. Faster to code and more cross-platform. Second; it affords us access to all of the existing infrastructure the Web has to offer. (hyperlinks, hosting etc.)
+* We can use web technologies to create applications. Faster to code and more cross-platform. Second: it affords us access to all of the existing infrastructure the Web has to offer. (hyperlinks, hosting etc.)
 * Video players represent a whole class of virtual reality technology by itself, it is a copy of the real world.
 
 ### Virtual Reality Applications
 * Video games are pretty obvious.
-* Virtual worlds; socual user-generated persistent virtual worlds.
-* Education; Interactive learning.
-* Productivity; 360 workspace instead of computer
-* Tourism; panoramas
-* Architecture; Showing models and existing properties.
-* Live events; VR video for concerts and live events.
-* Web browsing; Navigate the web using VR.
-* Enterprise; simulation, training etc.
+* Virtual worlds: socual user-generated persistent virtual worlds.
+* Education: Interactive learning.
+* Productivity: 360 workspace instead of computer
+* Tourism: panoramas
+* Architecture: Showing models and existing properties.
+* Live events: VR video for concerts and live events.
+* Web browsing: Navigate the web using VR.
+* Enterprise: simulation, training etc.
 
 ## Chapter 2 - Virtual Reality Hardware
 This is a rapidly evolving industry. New head-mounted displays are coming out all the time.
 
 ### Oculus Rift
 It spaned an entire VR industry, first consumer market. 
-* DK1; low resolution
-* DK2; positional head tracking with camera
+* DK1: low resolution
+* DK2: positional head tracking with camera
 
 *CV1 is the difference between experiencing the promise of vr and actually experiencing it.*
 
@@ -82,8 +82,8 @@ Cardboard VR inut is wip, the phone is encased so you can't use touch.
 ## VR Input Devices
 User input poses a new set of challenges in VR system design.
 * Game controllers
-* Hand tracking; motion input sensors. Low-cost motion devices. Leap motion e.g. Combination of cameras and infrared LEDs.
-* Wireless hand and body trackers; 
+* Hand tracking: motion input sensors. Low-cost motion devices. Leap motion e.g. Combination of cameras and infrared LEDs.
+* Wireless hand and body trackers: 
 
 Virtual reality is also pushing the envelope on user input. VR displays cut the user off completely from the outside world.
 
@@ -98,10 +98,10 @@ Graphics that use a three-dimensional representation of gemoetric data.
 The rendered image should be updates, it's billion dolar business. Real-time 3d rendering.
 
 ### 3D Coordinate System
-2d; x and y values. Additional coordinate; z describes depth.
-* x; horizontal
-* y; vertical
-* z; in and out
+2d: x and y values. Additional coordinate: z describes depth.
+* x: horizontal
+* y: vertical
+* z: in and out
 
 Most of the time the z-axis is always on screen. X and Y can move out of the field of view. z is in/out axis. Positive z is going *deeper* into the screen. This is known as a *lefthanded coordinate system. WebVR uses righthanded.
 
@@ -120,10 +120,10 @@ A 3D transform is represented by a transformation matrix, entity to compute the 
 Every rendered scene requires a point of view from which the user will be viewing it. 3D systems typically use a camera, an object that defines where (relative to the scne) the user is positioned and oriented.
 
 Cameras are almost always represented using a couple of matrices.
-* First matric; defines the position and orientation
-* second matrix; translation from the 3D coodinates into the 2D drawing space of the viewport (projection matrix)
+* First matric: defines the position and orientation
+* second matrix: translation from the 3D coodinates into the 2D drawing space of the viewport (projection matrix)
 
-* View volume or view frustum; only objects within the view volume are actually rendere to the screen. (Field of view)
+* View volume or view frustum: only objects within the view volume are actually rendere to the screen. (Field of view)
 
 camera > viewport > projection
 
@@ -133,8 +133,8 @@ Cameras define the viewer's relationship to a 3D scene and provide a sense of re
 In VR we have to do the whole thing twice, each per eye.
 
 * Define one main camera.
-* Render from two cameras; Follow position and orientation of main camera but are slightly offset to the left and right.
-* Render to two viewports; separate viewports for the left and right rendering camers.
+* Render from two cameras: Follow position and orientation of main camera but are slightly offset to the left and right.
+* Render to two viewports: separate viewports for the left and right rendering camers.
 
 ## Unity3D
 Professional game engines have become a tool of choice for developing virtual reality. Unity3D is defacto game engine. Engine contains native support for VR rendering and head tracking. Oculus has Utilities for Unity.
@@ -149,13 +149,13 @@ They also have an Oculus Home, it fully immersive. You don't have to leave VR sp
 
 In previous chapters we worked with Native Platform SDK's to create applications, it's a single-user experience.
 
-Many of us creating VR would prefer to build web applications;
+Many of us creating VR would prefer to build web applications:
 
-* Instant access; No download and app install required.
-* Easy integration of web data; pull in data from different API's and services.
-* Cross-platform compatibility; HTML5 runs on all desktop and mobile devices.
-* Fast, cheaper development; easiest cross-platform system for creating apps. Use open source development tools.
-* Easier deployment; Deliver web applications and updates happen without having to go trough app stores.
+* Instant access: No download and app install required.
+* Easy integration of web data: pull in data from different API's and services.
+* Cross-platform compatibility: HTML5 runs on all desktop and mobile devices.
+* Fast, cheaper development: easiest cross-platform system for creating apps. Use open source development tools.
+* Easier deployment: Deliver web applications and updates happen without having to go trough app stores.
 
 Latest generation of web browsers include support for virtual reality using the WebVR api.
 
@@ -174,10 +174,10 @@ WebVR is not a standard. It is a set of extensions built into popular browsers. 
 
 ### The WebVR API
 The browser already has the capability to do stunning real-time 3D rendering using WebGL. (The API standard for rendering 3D graphics using JavaScript) WebVR builds on top of that.
-* Discovering / Connection displays; API for the developer to discover and connect to VR displays
-* Presenting content; Presentation to the VR head-mounted display as a sseparate display device. Browser also performs any optial distortion.
-* Refreshing the display; Application to refresh its graphics at the native refresh rate of the HDM.
-* Head tracking; New JavaScript API that tracks head position and orientation.
+* Discovering / Connection displays: API for the developer to discover and connect to VR displays
+* Presenting content: Presentation to the VR head-mounted display as a sseparate display device. Browser also performs any optial distortion.
+* Refreshing the display: Application to refresh its graphics at the native refresh rate of the HDM.
+* Head tracking: New JavaScript API that tracks head position and orientation.
 
 With these four features, a application can use WebGL to render virtual reality scenes with high performance.
 
@@ -205,12 +205,12 @@ Developing for WebVR is largely about deeloping in WebGL. WebVR application writ
 > WebVR is new and experimental, but bery promising. By tapping into the Web's power of open collaboration, and harnessing the talents of countless committed individuals, it has tremendous potential. WebVR could not only change the plyaing field for virtual reality development, but actually transform the face of web browsing forever.
 
 ## Chapter 6
-Given the prices the top end of consumer virtual reality is still foe enthusiastic early adopters, not the mass market. Create cardboard VR;
+Given the prices the top end of consumer virtual reality is still foe enthusiastic early adopters, not the mass market. Create cardboard VR:
 * Google VR SDK for Android
 * Google VR SDK for Unity
 * Mobile browser
 
-Cardboard VR is kind of like the lottery; many ways to play, more ways to win.
+Cardboard VR is kind of like the lottery: many ways to play, more ways to win.
 
 iOS support is the most requested feature but still most of the applications are Android-based.
 
@@ -219,16 +219,16 @@ Cardboard is actually a referene specification. Google doesn't offet is as a pro
 there are several other 'drop-in' viewers on the market. These headsets are made from a variety of materials.
 
 #### Input devices for Cardboard
-Input for Cardboard VR can be challenging. The phone is fully contained inside a box, so the user doesn't have access to the most commonlly used mobile input mechanism; the touch screen.
+Input for Cardboard VR can be challenging. The phone is fully contained inside a box, so the user doesn't have access to the most commonlly used mobile input mechanism: the touch screen.
 
-Google Cardboard; magnet that interupts the magometer inside the phone. The magnet switch onlu works with Android nstive code. Can't be used with iOS or in mobile browsers.
+Google Cardboard: magnet that interupts the magometer inside the phone. The magnet switch onlu works with Android nstive code. Can't be used with iOS or in mobile browsers.
 
-The lack of a standardized input device has led to many apps being designed to use 'gaze tracking'; detecting where the user is looking combined with either a single tap or a timer countdown indicated by an animated cursos.
+The lack of a standardized input device has led to many apps being designed to use 'gaze tracking': detecting where the user is looking combined with either a single tap or a timer countdown indicated by an animated cursos.
 
 ### Cardboard Stereo Rendering and Head Tracking
 90-degree horizontal field of view with the barrel distortion. Side-by-side rendering in two viewports, one for each eye.
 
-Head tracking; uses the existing operating system orientation events generated by the phone's compass and accelerometer. Collectively known as the intertial measurement unit (IMU). 
+Head tracking: uses the existing operating system orientation events generated by the phone's compass and accelerometer. Collectively known as the intertial measurement unit (IMU). 
 
 In phones the IMU changes at less than 60 frames per second. Slower than e.g. rift or vive. Most users find the slower tracking acceptable, at least for short experiences.
 
@@ -243,9 +243,9 @@ It is pretty simple to put together and app using pro tools. Web development is 
 A 360 panorama is simply a specially laid out image stored in a standard image format such as png or jpeg. The layout is known as equirectangular projection. Panorama is basically just a texture mapped onto a sphere.
 
 #### Rendering back faces
-In modern 3D systems all rendering takes place using a shader; piece of high-level programming languge code whose job it is to place every 3D vertex and paint every pixel in the 2D viewport.
+In modern 3D systems all rendering takes place using a shader: piece of high-level programming languge code whose job it is to place every 3D vertex and paint every pixel in the 2D viewport.
 
-Back-face culling; back faces are the faces of a triangle or polygon that aren't visible from the direction from which you are looking such as the ones that are on the inside of a geometric solid like a sphere.
+Back-face culling: back faces are the faces of a triangle or polygon that aren't visible from the direction from which you are looking such as the ones that are on the inside of a geometric solid like a sphere.
 
 ### Gaze and tap user interface
 The VR scene contains floating objects, essentially 3D icons that highlight when you look at them and trigger an action when you touch the screen.

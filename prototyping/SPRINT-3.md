@@ -7,7 +7,7 @@ Tijdens de eerste brainstormsessie kwam het al eens naar voren, door de portabil
 Er is al een [non-vr minigame](https://career.samhoud.com/playthegame) beschikbaar voor &consultancy kandidaten en voor mij was het moeilijk te onderbouwen wat de toegevoegde waarde van de games zou zijn, het voelde als een ‘gimmick’ die onnodig veel tijd zou kosten om te ontwikkelen.
 
 ## Probleemsituatie
-Tijdens een wekelijkse catch-up kwam Sascha met een interessant gegeven;
+Tijdens een wekelijkse catch-up kwam Sascha met een interessant gegeven:
 > ‘Salem kan helaas niet altijd aanwezig zijn bij de selectiedag, alleen tijdens het vervolggesprek na de selectiedag is hij erbij.’
 
 Toen ik hierover doorvroeg bleek ook dat de uitnodiging voor het vervolggesprek vaak door de recruiters telefonisch of over de mail gedaan wordt. Toen klikte het opeens, wat nou als we een persoonlijke boodschap met Salem opnemen die de kandidaten uitnodigd voor het volgende gesprek?

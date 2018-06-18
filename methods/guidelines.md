@@ -8,7 +8,7 @@ Google. ‘Developing voor Google Cardboard’ Online. Internet. Beschikbaar:
 ### Design
 
 * Understanding the physiological effects of virtual reality design, and following these guidelines, is critical to making your app a success and ensuring that users avoid simulator sickness.
-* Establishing familiarity; As a new medium, users may not be familiar with virtual reality interactions yet.
+* Establishing familiarity: As a new medium, users may not be familiar with virtual reality interactions yet.
 
 #### Physiological considerations
 Motion sickness is caused by the disparity between what one feels and what one expects to feel.

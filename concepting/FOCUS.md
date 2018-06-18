@@ -7,9 +7,9 @@ Naar aanleiding van het gedane onderzoek en meerdere gesprekken met de opdrachtg
 ### User Engagement
 Een Virtual Reality toepassing vergroot over het algemeen de **user engagement**. Doordat de cases een stuk interactiever en visueler zijn gaan mensen eerder op in de ervaring. In de wereld van Virtual Reality wordt dit onderscheden met twee termen‘Immersie’ ([Frederick P. Brooks](https://www.cs.unc.edu/~brooks/WhatsReal.pdf)) en ‘presence’ ([Valve, Michael Abrash](http://media.steampowered.com/apps/abrashblog/Abrash%20Dev%20Days%202014.pdf)). 
 
-Een digitale case kan de volgende vormen van immersie vergroten;
-* tactische immersie (Ernest W. Adams); wanneer een speler tactische operaties uitvoert die een zekere vaardigheid vergen.
-* ruimtelijke immersie (Staffan Bjork); spatiale of ruimtelijke immersie doet zich voor wanneer een speler de gesimuleerde ruimte als perceptueel overtuigend ervaart.
+Een digitale case kan de volgende vormen van immersie vergroten:
+* tactische immersie (Ernest W. Adams): wanneer een speler tactische operaties uitvoert die een zekere vaardigheid vergen.
+* ruimtelijke immersie (Staffan Bjork): spatiale of ruimtelijke immersie doet zich voor wanneer een speler de gesimuleerde ruimte als perceptueel overtuigend ervaart.
 
 Daarnaast wordt er veel onderzoek gedaan naar welke activiteiten er plaatsvinden in het brein. Uit recent onderzoek ([Zappar, Heather Andrew](https://www.zappar.com/blog/how-augmented-reality-affects-brain/)) bleek nog dat door een AR toepassing de ‘visual attention’ in het brein vergroot wordt er 70% meer opgeslagen in het geheugen opgeslagen word ten opzichte van tekst op papier.
 
@@ -41,13 +41,13 @@ Ook na de selectieprocedure op locatie worden de drop-in viewers gebruikt voor e
 Voor het project beperken we ons tot drop-in viewers zonder controllers en de magneet als trigger. Er is teveel fragmentatie binnen de soorten drop-in viewers, zoals op de eigen [Google Cardboard specificatie](https://vr.google.com/cardboard/get-cardboard/) site te zien is kun je er niet standaard van uitgaan dat een drop-in viewer de functie van de magneet heeft. Daarnaast zijn de prijzen van cardboard viewers zonder magneet vaak [goedkoper](https://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=cardboard+viewer&viewtype=G) waardoor het qua inkoopkosten aantrekkelijk is om ze in wholesale aan te schaffen. De cardboards worden natuurlijk niet hergebruikt maar meegennomen door de kandidaten.
 
 ### Techniek
-De voordelen van WebVR staan grotendeels beschreven in de [techiek](https://productbiografie.dandevri.es/vr/TECH.html) sectie. De grootste voordelen zijn; 
+De voordelen van WebVR staan grotendeels beschreven in de [techiek](https://productbiografie.dandevri.es/vr/TECH.html) sectie. De grootste voordelen zijn: 
 
 * Korte opstart: er hoeft geen aparte applicatie geinstalleerd te worden. Het opstarten van een ervaring kan bestaat dus simpelweg uit het bezoeken van url in de browser.
 * Cross-platform compabiliteit: de opdrachtgever zit niet verbonden aan specifieke hardware of bestaande platformen.
 * Als developer kan ik gebruik maken van de bestaande kennis en infrastructuur die het web te bieden heeft.
 
 ## Ethiek
-Het recruitment process is vaak een gevoelige tak van sport, je kunt vraagtekens zetten bij het toepassen van een VR ervaring in deze context. &samhoud consultancy vind dit ethisch verantwoord; ‘kandidaten zien digitale ervaringen vaak als een positieve verassing en vinden het tevens interessant om te zien wat de mogelijkheden zijn binnen het vakgebied.’
+Het recruitment process is vaak een gevoelige tak van sport, je kunt vraagtekens zetten bij het toepassen van een VR ervaring in deze context. &samhoud consultancy vind dit ethisch verantwoord: ‘kandidaten zien digitale ervaringen vaak als een positieve verassing en vinden het tevens interessant om te zien wat de mogelijkheden zijn binnen het vakgebied.’
 
 Uiteindelijk zal de beslissing van een selectie altijd door een medewerker (persoon) genomen worden. Het gaat natuurlijk ook om de impressie gedurende de hele dag, niet alleen de virtuele case.

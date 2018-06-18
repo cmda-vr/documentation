@@ -14,10 +14,10 @@ De kantoren van beide organisaties zitten respectievelijk in [Utrecht](http://co
 ## Belanghebbenden
 Voor dit project zijn er grofweg drie partijen die belang hebben bij deze toepassing.
 
-**Recruiters bij &samhoud consultancy;** als generale opdrachtgever. Eisen en wensen van deze partij hebben de hoogste prioriteit.
+**Recruiters bij &samhoud consultancy:** als generale opdrachtgever. Eisen en wensen van deze partij hebben de hoogste prioriteit.
 
-**&samhoud media;** specifiek ik als individu die het onderzoek en de uitwerking op me neem. Deze partij is in deze context ook opdrachtnemer.
+**&samhoud media:** specifiek ik als individu die het onderzoek en de uitwerking op me neem. Deze partij is in deze context ook opdrachtnemer.
 
-**Kandidaten Junior Caroussel;** toekomstige consultants. Dus specifiek ook alleen gebruikers die een uitnodiging hebben ontvangen voor de selectiedag.
+**Kandidaten Junior Caroussel:** toekomstige consultants. Dus specifiek ook alleen gebruikers die een uitnodiging hebben ontvangen voor de selectiedag.
 
 Naast de wensen en eisen van deze externe partijen komen bepaalde keuzes ook voort uit richtlijnen van de Hogeschool van Amsterdam en daarbij persoonlijke leerdoelen voor het afstudeerproject.

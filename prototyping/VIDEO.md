@@ -45,4 +45,4 @@ Na een eerste versie klaar te hebben begon ik deze aan een aantal mensen voor te
 | Gebruikertest | De stem van Salem was in sommige gevallen nog wat onduidelijk en zacht qua volume. |
 
 ### Videoregistratie
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nQ55enLeDfk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nQ55enLeDfk" frameborder="0" allow="autoplay: encrypted-media" allowfullscreen></iframe>

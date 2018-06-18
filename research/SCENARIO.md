@@ -2,9 +2,9 @@
 
 De focus van de toepassing ligt bij de [selectiedag](https://issuu.com/samhoud/docs/gptw_magazine_issuu) waar deze ingezet gaat worden. Het huidige complete wervingsproces is grotendeels onder te brengen in 3 fases:
 
-* **Werving**; op congressen of branche evenementen komen de recruiters eventuele kandidaten tegen die ze ter plekke uitnodigen om te solliciteren op een bepaalde functie. Daarnaast komen veel sollicitaties online binnen, zoals bijvoorbeeld via [LinkedIn](https://www.linkedin.com/company/&samhoud/) of [open vacatures](https://career.samhoud.com/jobs).
-* **Screening**; na het verzamelen van andere kandidaten screenen de recuiters op curriculum, werkervaring en eventuele eerste impressies.
-* **Selectie**; na het screenen worden geschikte kandidaten uitgenodigd om deel te nemen aan een selectiedag. (ookwel junior caroussel)
+* **Werving**: op congressen of branche evenementen komen de recruiters eventuele kandidaten tegen die ze ter plekke uitnodigen om te solliciteren op een bepaalde functie. Daarnaast komen veel sollicitaties online binnen, zoals bijvoorbeeld via [LinkedIn](https://www.linkedin.com/company/&samhoud/) of [open vacatures](https://career.samhoud.com/jobs).
+* **Screening**: na het verzamelen van andere kandidaten screenen de recuiters op curriculum, werkervaring en eventuele eerste impressies.
+* **Selectie**: na het screenen worden geschikte kandidaten uitgenodigd om deel te nemen aan een selectiedag. (ookwel junior caroussel)
 
 ![Scenario Recruitment Process](/resources/scenario.jpg)
 
@@ -28,7 +28,7 @@ Na de selectiedag horen ze vaak binnen redelijke korte tijd (1 á 2 dagen) wat h
 Als uit de selectiedag blijkt dat je binnen het plaatje past wordt je voor een laatste gesprek uitgenodigd. Dit gesprek is met de oprichters van &samhoud, op basis hiervan kan je alsnog worden afgewezen.
 
 ## Situatieschets
-In verband met de privacy van de kandidaten was het lastig om beeldmateriaal en contactgegevens te verzamelen. Toch heb ik gedurende dit project met meerdere kandidaten kunnen spreken. Zowel consultants die recentelijk bij het bedrijf werken als kandidaten die helaas zijn afgewezen. Door deze gesprekken (interviews) heb ik een beeld kunnen vormen van hoe kandidaten de dag ervaren. Een aantal interessante punten die naar voren kwamen;
+In verband met de privacy van de kandidaten was het lastig om beeldmateriaal en contactgegevens te verzamelen. Toch heb ik gedurende dit project met meerdere kandidaten kunnen spreken. Zowel consultants die recentelijk bij het bedrijf werken als kandidaten die helaas zijn afgewezen. Door deze gesprekken (interviews) heb ik een beeld kunnen vormen van hoe kandidaten de dag ervaren. Een aantal interessante punten die naar voren kwamen:
 
 * Er is veel verschil in hoe kandidaten zich voorbereiden en wat de setting is. Sommigen zijn in formele kleding (pak) anderen een stuk informeler.
 * Omdat kandidaten veel met elkaar zijn tijdens de procedure let je veel op wat anderen aan het doen zijn. Onzekerheid over je eigen aanpak.

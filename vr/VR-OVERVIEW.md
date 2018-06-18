@@ -1,5 +1,5 @@
 # Wat is Virtual Reality?
-VR heeft één doel; de gebruiker overtuigen van het feit dat je in een andere omgeving bent. Met technologie manipuleren de makers van de toepassing het brein om ervoor te zorgen dat de gebruiker volledig opgaat in een nieuwe virtuele omgeving. Het gevoel van volledige [immersie][immersion] is waar je bij een VR ervaring naar streeft.
+VR heeft één doel: de gebruiker overtuigen van het feit dat je in een andere omgeving bent. Met technologie manipuleren de makers van de toepassing het brein om ervoor te zorgen dat de gebruiker volledig opgaat in een nieuwe virtuele omgeving. Het gevoel van volledige [immersie][immersion] is waar je bij een VR ervaring naar streeft.
 
 Het belangrijkste concept van VR is dat de perceptie die de gebruiker van de wereld heeft wordt gewijzigd door techniek. De ‘echte wereld’ refereert naar waar de gebruiker zich in de fysieke wereld bevindt, de ‘virtuele wereld’ als de waargenomen wereld die onderdeel is van de VR ervaring.
 

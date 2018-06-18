@@ -17,11 +17,11 @@ Om ervoor te zorgen dat m'n taken overzichtelijk en gepriotiseerd bleven werkte 
 
 De lengte van een sprint is variabelen, niet elke sprint duurt even lang. In veel gevallen heb ik ze weten te beperken tot een week zoals hieronder staat beschreven maar het kan voorkomen dat taken doorlopen in volgende week. (Door bijvoorbeeld communicatie met de opdrachtgever)
 
-* **Maandag;** probleemstelling duidelijk maken en bepalen waar de rest van de week de focus op ga leggen.
-* **Dinsdag;** uitwerken en op papier zetten van mogelijke oplossingen.
-* **Woensdag;** keuzes maken uit de oplossing en beginnen met eerste prototypes.
-* **Donderdag;** uitwerken prototype naar high fidelity.
-* **Vrijdag;** testen en observeren van de voortgang.
+* **Maandag:** probleemstelling duidelijk maken en bepalen waar de rest van de week de focus op ga leggen.
+* **Dinsdag:** uitwerken en op papier zetten van mogelijke oplossingen.
+* **Woensdag:** keuzes maken uit de oplossing en beginnen met eerste prototypes.
+* **Donderdag:** uitwerken prototype naar high fidelity.
+* **Vrijdag:** testen en observeren van de voortgang.
 
 ![Trello Board](/resources/trello.png)
 > Het begin van een volgende design sprint.

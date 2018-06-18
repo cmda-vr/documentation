@@ -7,11 +7,11 @@ De eerste paar weken ligt de focus vooral op idee ontwikkeling en research om he
 Na deze fase ga ik werken met een versimpelde / aangepaste versie van The Design Sprint en werk ik 5-dagen iteratief aan een prototype.
 
 ### Sprint Overview
-* **Maandag;** probleemstelling duidelijk maken en bepalen waar de rest van de week de focus op ga leggen.
-* **Dinsdag;** uitwerken en op papier zetten van mogelijke oplossingen.
-* **Woensdag;** keuzes maken uit de oplossing en beginnen met eerste prototypes.
-* **Donderdag;** uitwerken prototype naar high fidelity.
-* **Vrijdag;** testen en observeren van de voortgang.
+* **Maandag:** probleemstelling duidelijk maken en bepalen waar de rest van de week de focus op ga leggen.
+* **Dinsdag:** uitwerken en op papier zetten van mogelijke oplossingen.
+* **Woensdag:** keuzes maken uit de oplossing en beginnen met eerste prototypes.
+* **Donderdag:** uitwerken prototype naar high fidelity.
+* **Vrijdag:** testen en observeren van de voortgang.
 
 ## Roadmap
 

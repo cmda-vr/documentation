@@ -7,8 +7,8 @@ Na het opzetten van de boilerplates en de eerste technische opzet ben ik aan de 
 ## The Manual
 Met de teamrollen van Belbin in het achterhoofd ben ik in eerste instantie aan de slag gegaan met het prototypen van een versimpelde versie van **[Keep Talking and Nobody Explodes](https://productbiografie.dandevri.es/concepting/IDEAS.html).**
 
-* De persoon met de head-mounted display is de Monitor Evaluator; ziet alle opties en maakt keuzes in wat hij of zij verteld.
-* De persoon met de instructies is de Coordinator of Implementer; zet de aanwijzingen om in acties.
+* De persoon met de head-mounted display is de Monitor Evaluator: ziet alle opties en maakt keuzes in wat hij of zij verteld.
+* De persoon met de instructies is de Coordinator of Implementer: zet de aanwijzingen om in acties.
 
 De kracht zit hem hier in de samenwerking tussen twee personen. Elke persoon heeft z'n eigen informatie en alleen door goed met elkaar te communiceren kunnen ze verder komen.
 
@@ -25,7 +25,7 @@ De kracht zit hem hier in de samenwerking tussen twee personen. Elke persoon hee
 
 | Enhancements | 
 |-|
-| Er is nu maar één mogelijke uitkomst; de kleur en nummers op de knop kunnen random genegeerd worden | 
+| Er is nu maar één mogelijke uitkomst: de kleur en nummers op de knop kunnen random genegeerd worden | 
 | Meerdere moeilijkheidsgradaties door de tekstuele instructies op de handleiding moeilijker te maken | 
 
 ## Hotel Room

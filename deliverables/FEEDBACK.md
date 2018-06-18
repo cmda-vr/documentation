@@ -43,7 +43,7 @@
 ## Coaching
 > Feedback vergaard tijdens de wekelijke coachinsessie met m'n begeleider Sjef Smeets.
 
-* Over de meerwaarde van VR; "Beter te meten" omdat er vanwege de interactie (en de mogelijkheid data automatisch op te slaan) meer en andere gegevens beschikbaar komen.
+* Over de meerwaarde van VR: "Beter te meten" omdat er vanwege de interactie (en de mogelijkheid data automatisch op te slaan) meer en andere gegevens beschikbaar komen.
 * Hardware beperk je tot de HMD, opmerking maken over CAVE voor compleetheid.
 * Hoe kan je tijdens een sessie bij de kandidaten meten dat ze geen motion sickness ervaren?
 * Moet je als observant kunnen meekijken op een ander scherm en wat moet er op dat scherm precies getoond gaan worden?
@@ -69,7 +69,7 @@
 ### Walter
 * Als het lastig tot onmogelijk is om met de stakeholder te regelen dat je bij de daadwerkelijke doelgroep kan testen spreek dan met junior consultants die bij een vorige selectiedag zijn geweest en met aankomende kandidaten (studenten).
 * Conclusie van het project kan natuurlijk ook zijn dat het geen goed idee om VR tijdens recruitment inn te zetten.
-* Over het technisch uitwerken; Walter gelooft wel dat je kan coden maar zou als coach meer interesse hebben in de onderbouwing van het prototype.
+* Over het technisch uitwerken: Walter gelooft wel dat je kan coden maar zou als coach meer interesse hebben in de onderbouwing van het prototype.
 * Als een stakeholder geen keuze maakt moet je soms zelf de knoop doorhakken, al is het maar voor je eigen project.
 
 ### Vasilis

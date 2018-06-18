@@ -9,7 +9,7 @@ Over het eigendom van het project, de broncode en de werkwijze zijn eisen en afs
 5. Eventuele interne documentatie en assets worden niet in de repository opgenomen
 
 ### Open Source
-Open-source software (OSS) is software waarbij de broncode publiekelijk beschikbaar is. Hierdoor is de code open voor modificatie en andere ontwikkelaars om aan te passen. Open-soure software is een goed voorbeeld van *open collaboration*; iedereen kan samenwerken en voortborduren op het werk van anderen.
+Open-source software (OSS) is software waarbij de broncode publiekelijk beschikbaar is. Hierdoor is de code open voor modificatie en andere ontwikkelaars om aan te passen. Open-soure software is een goed voorbeeld van *open collaboration*: iedereen kan samenwerken en voortborduren op het werk van anderen.
 
 ### Hosting
 De broncode van deze software wordt in veel gevallen *gehost* op het GitHub platform. In een zogeheten *repository* (digitale map) staat de broncode online. Het GitHub platform biedt allerlei extra features die bijvoorbeeld de samenwerking in een team bevorderen of het makkelijker maken voor andere developers om aa de slag te gaan met jouw broncode.
