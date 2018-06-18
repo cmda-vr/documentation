@@ -15,6 +15,8 @@
 * Opdrachtgever: refereert naar &samhoud consultancy.
 * Opdrachtnemer: refereert naar &samhoud media.
 * Kandidaten: refereert naar aankomende junior consultants.
+* Recruiters: refereert naar de recruiters bij &samhoud consultancy intern.
+* Observanten: refereert naar medewerkers van &samhoud consultancy (vaak recruiters) die tijdens de selectiedag aanwezig zijn.
 
 
 # Woordenlijst

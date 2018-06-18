@@ -5,9 +5,9 @@ De eerste paar weken van het prototypen ben ik vooral gaan kijken wat de mogelij
 
 ## API
 
-In eerste instantie is er de WebVR API die onderwater gebruik maakt van WebGL. De WebVR API exposed verschillende functionaliteit om het rendered in een head-mounted displays mogelijk te maken.
+Er is een [WebVR API](https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API) die onderwater gebruik maakt van [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API). De WebVR API exposed verschillende functionaliteit om het renderen in een head-mounted displays mogelijk te maken.
 
-Sinds december 2017 is de specificatie van de WebVR API stopgezet omdat deze vervangen gaat worden door de WebXR API.
+Sinds [december 2017](https://immersive-web.github.io/webvr/) is de ontwikkeling van de WebVR API stopgezet omdat deze vervangen gaat worden door de [WebXR API](https://immersive-web.github.io/webxr/).
 
 | Specificatie | Omschrijving |
 |-|-|
@@ -20,7 +20,7 @@ Voor de uitwerking heb ik besloten om niet met deze API's te werken.
 |-|
 | De WebVR API is redelijk stabiel maar als je daar nu mee zou werken ga je aan de slag met legacy techniek |
 | De WebXR API is dan weer teveel toekomstmuziek en er wordt ten strengste afgeraden om deze in productie te gebruiken (te onstabiel) |
-| Vanwege de beschikbare tijd is het leren van een nieuwe API een te hoge leercurve |
+| Vanwege de beschikbare tijd is het voor mij leren van deze nieuwe API's een te hoge leercurve |
 
 ## Frameworks
 Bovenop deze API's zijn er abstractielagen gemaakt in de vorm van frameworks.
@@ -33,14 +33,14 @@ Bovenop deze API's zijn er abstractielagen gemaakt in de vorm van frameworks.
 | [ReactVR](https://facebook.github.io/react-360/) | Leercurve React|
 | [Three.js](https://threejs.org/) | Te Complex |
 
-Uiteindelijk heb ik de keuze gemaakt om voornamelijk gebruikt te maken van A-Frame.
+Uiteindelijk heb ik de keuze gemaakt om gebruikt te maken van [A-Frame]((https://aframe.io/).
 
 | Reden |
 |-|
-| A-Frame is entiteit based waardoor je voornamelijk in HTML werkt|
-| ReactVR zit je locked-in in het React ecosysteem |
+| A-Frame is [entiteit gebasseerd](https://aframe.io/docs/0.8.0/introduction/entity-component-system.html) waardoor je voornamelijk in HTML werkt|
+| ReactVR zit je locked-in in het gebruiken van [React](https://reactjs.org/) |
 | PrimroseVR voelt teveel als een legacy project en wordt niet meer regelmatig geupdatet |
-| Three.js en Babylon.js hebben een te hoge leercurve, heeft een lange setup nodig om een basis scene op te zetten|
+| Three.js en Babylon.js hebben een te hoge leercurve. Beide hebben een uitgebreide setup nodig om een VR scene op te zetten |
 
 ## Modulariteit
 
@@ -49,7 +49,7 @@ A-Frame bouwt hevig voort op een componenten systeem waarbij je nieuwe features 
 ```
 <script src="https://aframe.io/releases/0.8.0/aframe.min.js"></script>
 ```
-Deze opzet zorgt er al snel voor dat het moeilijk wordt om versies bij te houden en daarbij komt dat het inladen van verschillende externe scripts invloed kan hebben op het renderen en dus performance.
+Deze opzet zorgt er al snel voor dat het moeilijk wordt om versies van [externe componenten](https://aframe.io/aframe-registry/) bij te houden. Daarbij resulteerd het inladen van verschillende externe scripts tot [render-blocking](https://developers.google.com/speed/docs/insights/BlockingJS).
 
 Door gebruik te maken van Webpack en NPM modules is het beter om verschillende modules te bundlen.
 

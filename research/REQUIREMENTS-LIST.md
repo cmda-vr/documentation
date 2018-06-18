@@ -12,7 +12,7 @@ Op een schaal van één tot drie hebben we elke eis prioriteit gegeven.
 | Vereiste | Prioriteit|
 |-|-|
 | Werken in de meest recente versies van meest gebruikte mobiele browsers (chrome, safari, firefox) | 3 |
-| Geoptimaliseerd voor low-cost component (interactie, beeldkwaliteit)     | 3 |
+| Geoptimaliseerd voor [low-cost hardware component](https://productbiografie.dandevri.es/vr/HARDWARE.html) (interactie, beeldkwaliteit)     | 3 |
 | De toepassing(en) moeten op een centrale server met URL gehost worden | 3 |
 | De applicatie draait constant op 60 fps (voorkomen van [Motion Sickness](https://developers.google.com/web/fundamentals/vr/))     | 2 |
 
@@ -20,9 +20,9 @@ Op een schaal van één tot drie hebben we elke eis prioriteit gegeven.
 | Vereiste | Prioriteit|
 |-|-|
 | Tijdens het gebruik van de applicatie moet de observant fysiek in de ruimte aanwezig kunnen zijn om aantekeningen te kunnen maken | 3 |
-| De puzzels moeten specifiek een analytisch of communicatieve competentie van de kandidaat meten | 3 |
+| De puzzels moeten specifiek een analytisch of communicatieve [competentie van de kandidaat meten](https://productbiografie.dandevri.es/concepting/FOCUS.html) | 3 |
 | De toepassing moet snel en gemakkelijk door de observanten opgestart kunnen worden| 3 |
-| Na de sessie moeten de resultaten van de meting inzichtelijk worden gemaakt (bijvoorbeeld een timing) | 2 |
+| Na de sessie moeten de [resultaten](https://productbiografie.dandevri.es/concepting/FOCUS.html) inzichtelijk worden gemaakt (bijvoorbeeld een timing) | 2 |
 
 ## Verwachting kandidaat
 | Vereiste | Prioriteit|

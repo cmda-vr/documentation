@@ -35,5 +35,4 @@ In verband met de privacy van de kandidaten was het lastig om beeldmateriaal en 
 * De meeste kandidaten zijn zenuwachtig, omdat er van tevoren weinig instructies worden gegeven en ook tijdens de uitleg van de cases wordt er door de recruiters bewust verwarring geschept.
 * Er is verschil in de mate waarin resultaten naar de kandidaten worden terugkoppeld. Sommigen krijgen veel feedback, maar juist weinig.
 * De selectiedag is voor veel kandidaten een bevestiging dat &samhoud een bedrijf is waar ze voor willen werken. De gehele sfeer die ze verkondigen is erg informeel.
-* Ui
 * Uit de cases komen geen winnaars. Iedereen heeft een andere aanpak, het gaat dus niet zozeer om het resultaat maar eerder om de manier waarop. De uitkomst is minder van belang.
