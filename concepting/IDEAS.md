@@ -1,12 +1,12 @@
 # Idee ontwikkeling
 
-Na inzage te hebben gehad in de cases die tijdens de selectiedag worden uitgevoerd ben ik samen met de opdrachtnemer aan de slag gegaan met het uitwerken van een aantal eerste ideeën. Hoe kunnen we deze cases vertalen naar een digitale toepassing? Het is vooral van belang om goed te kijken naar de competenties die tijdens de selectiedag worden gemeten.
+Na inzage te hebben gehad in het beoordelingsformulier en een aantal voorbeeldcases die tijdens de selectiedag worden uitgevoerd ben ik samen met de opdrachtnemer aan de slag gegaan met het uitwerken van een aantal eerste ideeën. Daarbij hebben we geprobeerd een antwoord te vinden voor de design challenge. Het is vooral van belang om goed te kijken naar de competenties die tijdens de selectiedag worden gemeten.
 
 ## Teamverband
 
-Het was voor mij al snel duidelijk dat er een oplossing moest komen die zich meer focust op het werken in groepsverband. Door de coaching van Sjef Smeets ben ik gaan kijken naar verschillende teamrollen. Het [Belbin model](http://www.belbin.com/) van [Meredith Belbin](http://www.belbin.com/about/dr-meredith-belbin/) is wellicht de bekendste. De Teamrollen van Belbin beschrijven het gedrag dat we kunnen herkennen wanneer mensen samenwerken met anderen.
+Naar alleen van de probleemsituatie was het duidelijk dat de cases zich meer moeten focussen op het werken in groepsverband. Door de coaching van Sjef Smeets ben ik gaan kijken naar verschillende teamrollen. Het [Belbin model](http://www.belbin.com/) van [Meredith Belbin](http://www.belbin.com/about/dr-meredith-belbin/) is in de consultancy wereld een bekend model. De Teamrollen van Belbin beschrijven het gedrag dat we kunnen herkennen wanneer mensen samenwerken met anderen.
 
-Op basis hiervan ben ik onderzoek gaan doen naar vergelijkbare modellen. Een overzicht van verschillende modellen:
+Op basis hiervan heb ik vergelijkbare modellen onderzicht, zoals: 
 
 | Model | Omschrijving |
 |-|-|
@@ -15,7 +15,7 @@ Op basis hiervan ben ik onderzoek gaan doen naar vergelijkbare modellen. Een ove
 | [Margerison-Mccann system](https://www.tmsdi.com/) | Vaag, te specifiek qua rol |
 | [Fundamental interpersonal relations orientation](https://en.wikipedia.org/wiki/Fundamental_interpersonal_relations_orientation) | Focus op invidu, moeilijk meetbaar |
 
-De meeste modellen focussen zich vooral op het individu en zijn voor m'n gevoel iets te vaag qua specifieke uitkomst. Het eerder benoemde Belbin model past het beste bij de probleemsituatie.
+De meeste modellen focussen zich vooral op het individu en zijn te vaag qua specifieke uitkomst. Hierdoor past het eerder benoemde Belbin model het beste bij de probleemsituatie.
 
 * Het model meet hoe een individu zich gedraagt in een team omgeving.
 * Het model betrekt de feedback van observanten bij de evaluatie.
@@ -23,10 +23,10 @@ De meeste modellen focussen zich vooral op het individu en zijn voor m'n gevoel 
 
 ## Gamification
 
-Vervolgens heb ik vooral gekeken naar vormen van gamification. Virtual Reality puzzel games die de kracht van VR goed gebruiken. Doordat ik zelf een Playstation VR in huis heb kon ik, door ze aan te schaffen en te spelen, een goede impressie krijgen wat een aantal van deze games zo krachtig maakt.
+Vervolgens heb ik gekeken naar vormen van gamification. Virtual Reality puzzel games die de kracht van VR gebruiken. Voor mijn tests heb ik een Playstation VR gebruikt. Door een aantal games te testen kon ik een goede impressie krijgen wat deze games zo krachtig maakt.
 
 **[I expect you to Die](https://iexpectyoutodie.schellgames.com/)**  
-Een virtual reality puzzle game waarin je een geheime agent bent die dodelijke situaties moet overleven. Bij elke situatie ben je afhankelijk van je eigen vermogen om oplossingsgericht te denken.
+Een virtual reality puzzle game waarin de gebruiker een geheime agent bent die dodelijke situaties moet overleven. Bij elke situatie ben je afhankelijk van je eigen vermogen om oplossingsgericht te denken.
 
 | Kracht | Competentie |
 |-|-|
@@ -46,7 +46,7 @@ De speler met de VR headset zit opgesloten in een kamer met een tikkende tijdbom
 
 ## Communicatief
 Om iets verder te gaan op de communicatieve kracht kwam Tijmen met het idee om eens naar Wie is de Mol te kijken.
-Het mooie aan [Wie is de Mol](https://wieisdemol.avrotros.nl/home/) is dat veel van de opdrachten in groepsverband worden uitgevoerd. Veel communicatie verloopt over een portofoon en vaak hebben ze informatie van elkaar nodig om tot een oplossing te komen.
+Het krachtige aan [Wie is de Mol](https://wieisdemol.avrotros.nl/home/) is dat veel van de opdrachten in groepsverband worden uitgevoerd. Communicatie verloopt onder andere over een portofoon en hebben de deelnemers informatie van elkaar nodig om tot een oplossing te komen.
 
 | Kracht | Competentie |
 |-|-|
@@ -54,7 +54,7 @@ Het mooie aan [Wie is de Mol](https://wieisdemol.avrotros.nl/home/) is dat veel 
 | Communicatie verloopt vaak stroef door portofoons | Communicatief |
 
 ## Praktische toepassing
-Vooral de laatste paar jaren zijn bedrijven meer aan het experimenteren met het inzetten van Virtual Reality voor trainingen of het onboarden van nieuwe medewerkers.
+De laatste jaren zijn bedrijven aan het experimenteren met het inzetten van Virtual Reality voor trainingen of het onboarden van nieuwe medewerkers, zoals bijvoorbeeld:
 
 | Voorbeeld | Type |
 |-|-|

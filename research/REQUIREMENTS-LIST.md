@@ -1,12 +1,12 @@
 # Requirements List
-Na het vaststellen van de context en het verduidelijken van de doelgroep heb ik samen met de opdrachtgever op drie hoofdcategorieën een [programma van eisen](https://nl.wikipedia.org/wiki/Programma_van_eisen) opgesteld. 
+Na het vaststellen van de context en het verduidelijken van de doelgroep heb ik samen met de opdrachtgever op drie categorieën een [programma van eisen](https://nl.wikipedia.org/wiki/Programma_van_eisen) opgesteld. 
 * Technische limitaties en eisen aan de applicatie
 * Wensen vanuit de [observanten](https://career.samhoud.com/)   
 * Verwachtingen van kandidaten vanuit de opdrachtgever
 
-De kandidaten weten van tevoren niet expliciet dat ze met een Virtual Reality toepassing aan de slag gaan. Vandaar dat er geen eisen vanuit de eindgebruiker (kandidaten) zijn gespecificeerd. Dit zijn eisen *aan* de gebruiker, niet *van* de gebruiker.
+De kandidaten weten van tevoren niet expliciet dat ze met een Virtual Reality toepassing aan de slag gaan. Daarom zijn er geen eisen vanuit de eindgebruiker (kandidaten) zijn gespecificeerd. Dit zijn eisen *aan* de gebruiker, niet *van* de gebruiker.
 
-Op een schaal van één tot drie hebben we elke eis prioriteit gegeven.
+Op een schaal van één tot drie heb ik samen met de opdrachtgever elke eis een prioriteit toegewezen.
 
 ## Technisch eisen en limitaties
 | Vereiste | Prioriteit|
