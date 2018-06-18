@@ -47,6 +47,7 @@
 * [Deliverables](/deliverables/DELIVERABLES.md)
 * [Roadmap](/deliverables/ROADMAP.md)
 * [Interview](/deliverables/INTERVIEW.md) 
+* [Methods](/deliverables/METHODS.md)
 
 --
 

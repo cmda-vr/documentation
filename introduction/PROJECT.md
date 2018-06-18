@@ -20,7 +20,7 @@ Bij &samhoudmedia hadden ze interesse in een project met WebVR en er was ruimte 
 
 > “ We’re front runners in the field of augmented reality (AR) and virtual reality (VR). "
 
-Zo hebben ze gewerkt aan de Albert Heijn [dino campagne](https://www.samhoudmedia.com/agency/terug-naar-de-dinos-met-freek-vonk) met Freek Vonk, [Albert Heijn ruimtereis](https://www.samhoudmedia.com/agency/ah-ruimtevaart) met André Kuijpers en recent nog samen met de Rabobank aan [Rabo PinPin](https://www.rabobank.com/nl/press/search/2017/20171016-pinpin-zakgeldapp.htmlj). Op locatie aan de Oosterdokskade (VR cinema) werken voornamelijk jonge mense. Hierdoor hebben ze oog voor digitaal, media en marketing trends. 
+Zo hebben ze gewerkt aan de Albert Heijn [dino campagne](https://www.samhoudmedia.com/agency/terug-naar-de-dinos-met-freek-vonk) met Freek Vonk, [Albert Heijn ruimtereis](https://www.samhoudmedia.com/agency/ah-ruimtevaart) met André Kuijpers en recent nog samen met de Rabobank aan [Rabo PinPin](https://www.rabobank.com/nl/press/search/2017/20171016-pinpin-zakgeldapp.html). Op locatie aan de Oosterdokskade (VR cinema) werken voornamelijk jonge mense. Hierdoor hebben ze oog voor digitaal, media en marketing trends. 
 
 ![&samhoudmedia office](https://samhoudmedia.com/storage/app/uploads/public/5ab/521/148/5ab521148b72d041395142.jpg)
 > Het kantoor aan de Oosterdokskade in Amsterdam. Je ziet mij werken aan het einde van de rechterkant van de tafel.
