@@ -23,9 +23,9 @@ Na een lunch (met collega's die al bij &samhoud werken) worden de kandidaten opg
 Na afloop is er een borrel, met de kandidaten en medewerkers van &samhoud om alvast te netwerken en toekomstige collega's te spreken.
 
 ## Resultaten
-Na de selectiedag horen ze vaak binnen redelijke korte tijd (1 á 2 dagen) wat hun resultaat is. Over het algemeen worden alle kandidaten geinformeerd via de telefoon en krijgen ze op dat moment feedback waarom ze wel of niet door zijn. Dit is op basis van de observaties en de competenties die gedurende de dag tijdens de verschillende onderdelen zijn verzameld op een beoordelingsformulier.
+Na de selectiedag horen ze vaak binnen redelijke korte tijd (1 á 2 dagen) wat hun resultaat is. Over het algemeen worden alle kandidaten geïnformeerd via de telefoon en krijgen ze op dat moment feedback waarom ze wel of niet door zijn. Dit is op basis van de observaties en de competenties die gedurende de dag tijdens de verschillende onderdelen zijn verzameld op een beoordelingsformulier.
 
-Als uit de selectiedag blijkt dat je binnen het plaatje past wordt je voor een laatste gesprek uitgenodigd. Dit gesprek is met de oprichters van &samhoud, op basis hiervan kan je alsnog worden afgewezen.
+Als uit de selectiedag blijkt dat je geschikt bent wordt je voor een laatste gesprek uitgenodigd. Dit gesprek is met de oprichters van &samhoud, op basis hiervan kan je alsnog worden afgewezen.
 
 ## Situatieschets
 In verband met de privacy van de kandidaten was het lastig om beeldmateriaal en contactgegevens te verzamelen. Toch heb ik gedurende dit project met meerdere kandidaten kunnen spreken. Zowel consultants die recentelijk bij het bedrijf werken als kandidaten die helaas zijn afgewezen. Door deze gesprekken (interviews) heb ik een beeld kunnen vormen van hoe kandidaten de dag ervaren. Een aantal interessante punten die naar voren kwamen:

@@ -2,7 +2,7 @@
 
 De [consultancy](consultancy.samhoud.com/) tak van [&samhoud](http://www.samhoud.com/) zoekt constant manieren om nieuwe technieken in te zetten tijdens het uitvoeren van hun consultancy taken. Vooral bij recruitment van nieuwe [junior consultants](https://career.samhoud.com/apply?junior-consultant-101367) zien ze veel mogelijkheden om op een meer interactieve en digitale manier het sollicatieproces te gaan voeren.
 
-Tijdens een selectiedag voeren de consultants een aantal cases uit (zowel individueel als in groepsverband). Aan de hand van deze cases wordt op een beoordelingsformulier door de observanten gemeten over welke communicatieve of analytische vaardigheden een kandidaat beschikt.
+Tijdens een selectiedag voeren de consultants een aantal cases uit. Aan de hand van deze cases wordt op een beoordelingsformulier door de observanten gemeten over welke communicatieve of analytische vaardigheden een kandidaat beschikt.
 
 > Hoe kan een **Web Virtual Reality toepassing** tijdens de **interne selectiedag** van **&samhoud consultancy** de huidige cases aanvullen en interactiever maken zodat **de competenties van aankomende junior consultants** beter te meten zijn?
 
@@ -11,9 +11,9 @@ Biedt een VR toepassing in dit geval een meerwaarde in het recruitment process e
 Met dit vraagstuk kwam &samhoud consultancy bij dochterbedrijf &samhoud media. Als creatief bureau gespecialiseerd in augmented en virtual reality producties, zag &samhoud media kansen om deze cases met de mogelijkheden van VR interactiever te maken.
 
 ## Probleemsituatie
-Bij de huidige cases op papier ligt de nadruk op het oplossen van een vakinhoudelijke business case. Bijvoorbeedl, *hier zie je de weekstart van bedrijf X, analyseer de data en pitch een passende oplossing.* Dit soort cases werken goed om bij een kandidaat te meten of deze structuur aanbrengt door op juiste wijze **projectmanagement** toe te passen of bijvoorbeeld denkt vanuit het perspectief van de klant, **klantgerichtheid**.
+Bij de huidige cases op papier ligt de nadruk op het oplossen van een vakinhoudelijke business case. Bijvoorbeed, *hier zie je de weekstart van bedrijf X, analyseer de data en pitch een passende oplossing.* Dit soort cases werken goed om bij een kandidaat te meten of deze structuur aanbrengt door op juiste wijze **projectmanagement** toe te passen of bijvoorbeeld denkt vanuit het perspectief van de klant, **klantgerichtheid**.
 
-Het probleem bij deze vorm is dat voornamelijk de competenties: **communicatief**, **analytisch** en **samenwerken** door de observanten moeilijk meetbaar zijn. Communicatie en samenwerken zijn, uit ervaren van de observanten, alleen goed te meten in groepsverband terwijl de huidige cases zich vooral focussen op de kandidaat als individu.
+Het probleem bij deze vorm is dat voornamelijk de competenties: **communicatief**, **analytisch** en **samenwerken** door de observanten moeilijk meetbaar zijn. Communicatie en samenwerken zijn, uit ervaring van de observanten, alleen goed te meten in groepsverband terwijl de huidige cases zich vooral focussen op de kandidaat als individu.
 
 ## Onderzoeksvragen
 Op basis van de eerste Design Brief heb ik de volgende onderzoekvragen opgesteld.

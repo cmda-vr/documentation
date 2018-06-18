@@ -35,7 +35,6 @@ Vanwege de overvloed aan hardware zijn er keuzes gemaakt welke hardware componen
 * Portabiliteit: Vanwege het formaat en het gewicht zijn de drop-in viewers makkelijk na afloop mee te nemen.
 * Opstelling: Duurdere hardware kits gaan vaak gepaard met kabels, al met al dus een langere opstarttijd. Drop-in viewers maken alleen gebruik van de smartphone van een kandidaat.
 
-
 Ook na de selectieprocedure op locatie worden de drop-in viewers gebruikt voor een terugkoppeling, de kandidaten kunnen na afloop de drop-in viewer gemakkelijk meenemen.
 
 Voor het project beperken we ons tot drop-in viewers zonder controllers en de magneet als trigger. Er is teveel fragmentatie binnen de soorten drop-in viewers, zoals op de eigen [Google Cardboard specificatie](https://vr.google.com/cardboard/get-cardboard/) site te zien is kun je er niet standaard van uitgaan dat een drop-in viewer de functie van de magneet heeft. Daarnaast zijn de prijzen van cardboard viewers zonder magneet vaak goedkoper, zie bijvoorbeeld de [prijzen op Alibaba](https://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=cardboard+viewer&viewtype=G), waardoor het qua inkoopkosten aantrekkelijk is om ze in wholesale aan te schaffen. De cardboards worden niet hergebruikt maar meegennomen door de kandidaten waardoor er een groot aantal viewers beschikbaar moet zijn.

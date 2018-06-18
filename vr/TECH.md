@@ -9,8 +9,8 @@ Vrijwel alle applicaties die draaien op [dure hardware](https://www.vive.com/eu/
 Voor gebruikers is het, door de komst van VR op het web ten opzichte van specifieke native en/of software applicaties, een stuk toegankelijker om VR te ervaren ([Tony Parisi, Learning Virtual Reality](http://shop.oreilly.com/product/0636920038467.do)).
 
 * **Korte opstart:** er hoeft geen aparte applicatie geïnstalleerd te worden. Het opstarten van een ervaring kan dus simpelweg door naar een link te gaan in de browser.
-* **Cross-platform compabiliteit:** je bent niet afhankelijk van specifieke hardware of een bestaand platform.
-* **Kosten hardware:** een gebruiker kan in veel gevallen met bestaande hardware (smartphone) VR ervaren en hoeft voor een basis ervaring geen duurdere hardware kit (oculus, htc) aan te schaffen.
+* **Cross-platform compabiliteit:** de gebruiker is niet afhankelijk van specifieke hardware of een bestaand platform.
+* **Kosten hardware:** de gebruiker kan in veel gevallen met bestaande hardware (smartphone) VR ervaren en hoeft voor een basis ervaring geen duurdere hardware kit (oculus, htc) aan te schaffen.
 
 ## Ontwikkelaars
 Voor ontwikkelaars is het ook een stuk toegankelijker geworden om een VR applicatie op het web te ontwikkelen ([Venturebeat, Amir Bozorgzadeh](https://venturebeat.com/2017/03/18/webvr-isnt-sexy-but-it-will-change-the-game-for-vr-this-year/)). 
