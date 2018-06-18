@@ -19,6 +19,8 @@ Door het gebruik van low-cost hardware en het Web als platform is de toepassing 
 
 Door de kandidaten de Virtual Reality cases in groepsverband te laten uitvoeren komen de analytische en communicatieve competenties beter naar voren. Combineer deze met de teamrollen van Belbin en de observant van &samhoud consultancy kan zo veel beter observeren hoe een kandidaat zich gedraagt in teamverband.
 
+De mogelijkheid om meer data te verzamelen zorgt ervoor dat de feedback naar kandidaten op een consistentere en specfiekere manier kan worden teruggekoppeld.
+
 **Sascha Vloet namens &samhoud consultancy:**
 > ‘Danny heeft de afgelopen maanden enkele prototypes ontwikkeld die we kunnen gebruiken tijdens de selectiedag van &samhoud consultancy, van begin tot eind wat dit een prettige samenwerking! Als leek op het gebied van Web-VR heeft Danny me veel bij kunnen brengen over de verschillende mogelijkheden, hij is duidelijk in zijn uitleg en heeft meerdere creatieve oplossingen bedacht en uitgewerkt. Het eindproduct wat Danny nu inlevert legt voor ons een goede basis om door te gaan met dit project.’
 
