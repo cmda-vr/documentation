@@ -48,6 +48,7 @@
 * [Roadmap](/deliverables/ROADMAP.md)
 * [Interview](/deliverables/INTERVIEW.md) 
 * [Methods](/deliverables/METHODS.md)
+* [Workshops](/deliverables/WORKSHOPS.md)
 
 --
 
